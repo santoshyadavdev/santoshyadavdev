@@ -1,13 +1,9 @@
 ### Hi there, I'm [Santosh Yadav!](https://santoshyadav.dev) 👋
 
-<!--
-**santoshyadavdev/santoshyadavdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on [ngx-builder](https://github.com/ngx-builders)
 - 🌱 I’m currently learning Typescript and Angular
 - 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: [@SantoshYadavDev](https://twitter.com/SantoshYadavDev)
--->
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
