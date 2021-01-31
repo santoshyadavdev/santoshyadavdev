@@ -8,3 +8,5 @@
 ![Santosh Yadav Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SantoshYadavDev&layout=compact&theme=radical)
+
+[!Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
