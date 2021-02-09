@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/santoshyadavdev/pull/2) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-2. 💪 Opened PR [#2](https://github.com/santoshyadavdev/santoshyadavdev/pull/2) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-3. 🗣 Commented on [#1](https://github.com/santoshyadavdev/santoshyadavdev/issues/1) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-4. ❗️ Closed issue [#1](https://github.com/santoshyadavdev/santoshyadavdev/issues/1) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. 🎉 Merged PR [#72](https://github.com/ngx-builders/strapi/pull/72) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
+1. 🗣 Commented on [#8](https://github.com/ngworker/ngworker/issues/8) in [ngworker/ngworker](https://github.com/ngworker/ngworker)
+2. 🗣 Commented on [#8](https://github.com/ngworker/ngworker/issues/8) in [ngworker/ngworker](https://github.com/ngworker/ngworker)
+3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/santoshyadavdev/pull/2) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/santoshyadavdev/pull/2) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+5. 🗣 Commented on [#1](https://github.com/santoshyadavdev/santoshyadavdev/issues/1) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 <!--END_SECTION:activity-->
