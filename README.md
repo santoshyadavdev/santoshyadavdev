@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/santoshyadavdev/30minsofgithub/pull/1) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-2. 💪 Opened PR [#401](https://github.com/madewithangular/madewithangular.github.io/pull/401) in [madewithangular/madewithangular.github.io](https://github.com/madewithangular/madewithangular.github.io)
-3. 💪 Opened PR [#536](https://github.com/rx-angular/rx-angular/pull/536) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
-4. 💪 Opened PR [#535](https://github.com/rx-angular/rx-angular/pull/535) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
-5. 🗣 Commented on [#8](https://github.com/ngworker/ngworker/issues/8) in [ngworker/ngworker](https://github.com/ngworker/ngworker)
+1. 💪 Opened PR [#83](https://github.com/ngworker/lumberjack/pull/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/30minsofgithub/pull/1) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+3. 💪 Opened PR [#401](https://github.com/madewithangular/madewithangular.github.io/pull/401) in [madewithangular/madewithangular.github.io](https://github.com/madewithangular/madewithangular.github.io)
+4. 💪 Opened PR [#536](https://github.com/rx-angular/rx-angular/pull/536) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
+5. 💪 Opened PR [#535](https://github.com/rx-angular/rx-angular/pull/535) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
 <!--END_SECTION:activity-->
