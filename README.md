@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/santoshyadavdev/react-storybook-demo/pull/1) in [santoshyadavdev/react-storybook-demo](https://github.com/santoshyadavdev/react-storybook-demo)
-2. 💪 Opened PR [#83](https://github.com/ngworker/lumberjack/pull/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-3. 💪 Opened PR [#1](https://github.com/santoshyadavdev/30minsofgithub/pull/1) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-4. 💪 Opened PR [#401](https://github.com/madewithangular/madewithangular.github.io/pull/401) in [madewithangular/madewithangular.github.io](https://github.com/madewithangular/madewithangular.github.io)
-5. 💪 Opened PR [#536](https://github.com/rx-angular/rx-angular/pull/536) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
+1. 💪 Opened PR [#4971](https://github.com/nrwl/nx/pull/4971) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/react-storybook-demo/pull/1) in [santoshyadavdev/react-storybook-demo](https://github.com/santoshyadavdev/react-storybook-demo)
+3. 💪 Opened PR [#83](https://github.com/ngworker/lumberjack/pull/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/30minsofgithub/pull/1) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+5. 💪 Opened PR [#401](https://github.com/madewithangular/madewithangular.github.io/pull/401) in [madewithangular/madewithangular.github.io](https://github.com/madewithangular/madewithangular.github.io)
 <!--END_SECTION:activity-->
