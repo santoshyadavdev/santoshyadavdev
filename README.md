@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-2. 💪 Opened PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-3. 💪 Opened PR [#4971](https://github.com/nrwl/nx/pull/4971) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/react-storybook-demo/pull/1) in [santoshyadavdev/react-storybook-demo](https://github.com/santoshyadavdev/react-storybook-demo)
-5. 💪 Opened PR [#83](https://github.com/ngworker/lumberjack/pull/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+1. 🎉 Merged PR [#102](https://github.com/ngx-builders/strapi/pull/102) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
+2. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+3. 💪 Opened PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+4. 💪 Opened PR [#4971](https://github.com/nrwl/nx/pull/4971) in [nrwl/nx](https://github.com/nrwl/nx)
+5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/react-storybook-demo/pull/1) in [santoshyadavdev/react-storybook-demo](https://github.com/santoshyadavdev/react-storybook-demo)
 <!--END_SECTION:activity-->
