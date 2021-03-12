@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#62](https://github.com/ngx-builders/strapi/pull/62) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
-2. 🎉 Merged PR [#102](https://github.com/ngx-builders/strapi/pull/102) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
-3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-5. 💪 Opened PR [#4971](https://github.com/nrwl/nx/pull/4971) in [nrwl/nx](https://github.com/nrwl/nx)
+1. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+2. ❌ Closed PR [#62](https://github.com/ngx-builders/strapi/pull/62) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
+3. 🎉 Merged PR [#102](https://github.com/ngx-builders/strapi/pull/102) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
+4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
 <!--END_SECTION:activity-->
