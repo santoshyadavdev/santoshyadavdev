@@ -13,8 +13,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
-2. 💪 Opened PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
-3. 💪 Opened PR [#1](https://github.com/santoshyadavdev/docs-2/pull/1) in [santoshyadavdev/docs-2](https://github.com/santoshyadavdev/docs-2)
-4. ❗️ Opened issue [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
-5. 💪 Opened PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+2. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
+3. 💪 Opened PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/docs-2/pull/1) in [santoshyadavdev/docs-2](https://github.com/santoshyadavdev/docs-2)
+5. ❗️ Opened issue [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
 <!--END_SECTION:activity-->
