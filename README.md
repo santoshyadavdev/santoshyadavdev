@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-2. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-3. ❌ Closed PR [#62](https://github.com/ngx-builders/strapi/pull/62) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
-4. 🎉 Merged PR [#102](https://github.com/ngx-builders/strapi/pull/102) in [ngx-builders/strapi](https://github.com/ngx-builders/strapi)
-5. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/30minsofgithub/pull/2) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+1. 💪 Opened PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
+2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/docs-2/pull/1) in [santoshyadavdev/docs-2](https://github.com/santoshyadavdev/docs-2)
+3. ❗️ Opened issue [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
+4. 💪 Opened PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+5. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
 <!--END_SECTION:activity-->
