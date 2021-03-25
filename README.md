@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/angular-library-demo/pull/1) in [santoshyadavdev/angular-library-demo](https://github.com/santoshyadavdev/angular-library-demo)
-2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/angular-library-demo/pull/1) in [santoshyadavdev/angular-library-demo](https://github.com/santoshyadavdev/angular-library-demo)
-3. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
-4. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
-5. 💪 Opened PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
+1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-lib-demo/pull/1) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+2. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/nx-lib-demo/pull/3) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+3. 💪 Opened PR [#3](https://github.com/santoshyadavdev/nx-lib-demo/pull/3) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/nx-lib-demo/pull/2) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/nx-lib-demo/pull/2) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
 <!--END_SECTION:activity-->
