@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
-2. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
-3. 💪 Opened PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/docs-2/pull/1) in [santoshyadavdev/docs-2](https://github.com/santoshyadavdev/docs-2)
-5. ❗️ Opened issue [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
+1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/angular-library-demo/pull/1) in [santoshyadavdev/angular-library-demo](https://github.com/santoshyadavdev/angular-library-demo)
+2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/angular-library-demo/pull/1) in [santoshyadavdev/angular-library-demo](https://github.com/santoshyadavdev/angular-library-demo)
+3. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
+4. 🗣 Commented on [#134](https://github.com/auth0/auth0-angular/issues/134) in [auth0/auth0-angular](https://github.com/auth0/auth0-angular)
+5. 💪 Opened PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
 <!--END_SECTION:activity-->
