@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-lib-demo/pull/1) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
-2. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/nx-lib-demo/pull/3) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
-3. 💪 Opened PR [#3](https://github.com/santoshyadavdev/nx-lib-demo/pull/3) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
-4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/nx-lib-demo/pull/2) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
-5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/nx-lib-demo/pull/2) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+1. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-cd-with-actions/pull/1) in [santoshyadavdev/ci-cd-with-actions](https://github.com/santoshyadavdev/ci-cd-with-actions)
+2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-lib-demo/pull/1) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+3. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/nx-lib-demo/pull/3) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+4. 💪 Opened PR [#3](https://github.com/santoshyadavdev/nx-lib-demo/pull/3) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+5. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/nx-lib-demo/pull/2) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
 <!--END_SECTION:activity-->
