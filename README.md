@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-2. ❌ Closed PR [#1](https://github.com/santoshyadavdev/docs-2/pull/1) in [santoshyadavdev/docs-2](https://github.com/santoshyadavdev/docs-2)
-3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ci-cd-with-actions/pull/1) in [santoshyadavdev/ci-cd-with-actions](https://github.com/santoshyadavdev/ci-cd-with-actions)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-cd-with-actions/pull/1) in [santoshyadavdev/ci-cd-with-actions](https://github.com/santoshyadavdev/ci-cd-with-actions)
-5. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-lib-demo/pull/1) in [santoshyadavdev/nx-lib-demo](https://github.com/santoshyadavdev/nx-lib-demo)
+1. 🗣 Commented on [#5502](https://github.com/angular/protractor/issues/5502) in [angular/protractor](https://github.com/angular/protractor)
+2. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+3. ❌ Closed PR [#1](https://github.com/santoshyadavdev/docs-2/pull/1) in [santoshyadavdev/docs-2](https://github.com/santoshyadavdev/docs-2)
+4. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ci-cd-with-actions/pull/1) in [santoshyadavdev/ci-cd-with-actions](https://github.com/santoshyadavdev/ci-cd-with-actions)
+5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-cd-with-actions/pull/1) in [santoshyadavdev/ci-cd-with-actions](https://github.com/santoshyadavdev/ci-cd-with-actions)
 <!--END_SECTION:activity-->
