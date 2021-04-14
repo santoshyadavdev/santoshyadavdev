@@ -14,7 +14,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5321](https://github.com/nrwl/nx/issues/5321) in [nrwl/nx](https://github.com/nrwl/nx)
 2. 🗣 Commented on [#5321](https://github.com/nrwl/nx/issues/5321) in [nrwl/nx](https://github.com/nrwl/nx)
-3. 🗣 Commented on [#36005](https://github.com/angular/angular/issues/36005) in [angular/angular](https://github.com/angular/angular)
-4. 💪 Opened PR [#5321](https://github.com/nrwl/nx/pull/5321) in [nrwl/nx](https://github.com/nrwl/nx)
-5. 🗣 Commented on [#5261](https://github.com/nrwl/nx/issues/5261) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 🗣 Commented on [#5321](https://github.com/nrwl/nx/issues/5321) in [nrwl/nx](https://github.com/nrwl/nx)
+4. 🗣 Commented on [#36005](https://github.com/angular/angular/issues/36005) in [angular/angular](https://github.com/angular/angular)
+5. 💪 Opened PR [#5321](https://github.com/nrwl/nx/pull/5321) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
