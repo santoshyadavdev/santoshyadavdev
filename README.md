@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/angular-getting-started/pull/5) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-2. 💪 Opened PR [#5](https://github.com/santoshyadavdev/angular-getting-started/pull/5) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-3. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/angular-getting-started/pull/4) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-4. 💪 Opened PR [#4](https://github.com/santoshyadavdev/angular-getting-started/pull/4) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-5. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/myportfolio/pull/2) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+2. 💪 Opened PR [#2](https://github.com/santoshyadavdev/myportfolio/pull/2) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/myportfolio/pull/1) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/myportfolio/pull/1) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+5. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/angular-getting-started/pull/5) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
 <!--END_SECTION:activity-->
