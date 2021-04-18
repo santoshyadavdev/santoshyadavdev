@@ -13,8 +13,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-2. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/angular-getting-started/pull/3) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-3. 💪 Opened PR [#3](https://github.com/santoshyadavdev/angular-getting-started/pull/3) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-4. 🗣 Commented on [#5321](https://github.com/nrwl/nx/issues/5321) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+3. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/angular-getting-started/pull/3) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+4. 💪 Opened PR [#3](https://github.com/santoshyadavdev/angular-getting-started/pull/3) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
 5. 🗣 Commented on [#5321](https://github.com/nrwl/nx/issues/5321) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
