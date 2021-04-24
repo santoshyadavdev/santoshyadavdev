@@ -12,9 +12,9 @@
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-2. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-3. 🗣 Commented on [#6222](https://github.com/ReactiveX/rxjs/issues/6222) in [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
-4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/myportfolio/pull/2) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
-5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/myportfolio/pull/2) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+1. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/angular-getting-started/pull/6) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+2. 💪 Opened PR [#6](https://github.com/santoshyadavdev/angular-getting-started/pull/6) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+3. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+4. 🗣 Commented on [#108](https://github.com/Azure/static-web-apps-cli/issues/108) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+5. 🗣 Commented on [#6222](https://github.com/ReactiveX/rxjs/issues/6222) in [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
 <!--END_SECTION:activity-->
