@@ -21,7 +21,6 @@
 </a>
 
 
-
 - 🔭 I’m currently working on [ngx-builder](https://github.com/ngx-builders)
 - 🌱 I’m currently learning Typescript and Angular
 - 💬 Ask me about Angular, Typescript
