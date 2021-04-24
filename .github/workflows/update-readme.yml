@@ -11,6 +11,7 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
+      - name: checkput main branch
       - uses: actions/checkout@v2
       - name: update readme
       - uses: jamesgeorge007/github-activity-readme@master
