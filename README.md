@@ -21,9 +21,9 @@
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=santoshyadavdev)
 
-<br />
 
 - 🔭 I’m currently working on [ngx-builder](https://github.com/ngx-builders)
 - 🌱 I’m currently learning Typescript and Angular
