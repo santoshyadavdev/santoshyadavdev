@@ -1,7 +1,7 @@
 ### Hi there, I'm [Santosh Yadav!](https://santoshyadav.dev) 👋
 
 <br/>
-[<img align="left" alt="medium" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][https://www.youtube.com/c/TechTalksWithSantosh]
+<img align="left" alt="medium" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />[https://www.youtube.com/c/TechTalksWithSantosh]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=santoshyadavdev)
 
