@@ -12,13 +12,13 @@ jobs:
 
     steps:
       - name: checkput main branch
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
       - name: update readme
-      - uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: update blogs
-      - uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "6"
           feed_list: "https://dev.to/feed/santoshyadav198613"
