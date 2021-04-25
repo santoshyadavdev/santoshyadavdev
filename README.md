@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/santoshyadavdev/pull/4) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-2. 💪 Opened PR [#4](https://github.com/santoshyadavdev/santoshyadavdev/pull/4) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-3. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/santoshyadavdev/pull/3) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-4. 💪 Opened PR [#3](https://github.com/santoshyadavdev/santoshyadavdev/pull/3) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. 💪 Opened PR [#187](https://github.com/Azure/static-web-apps-cli/pull/187) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+1. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/santoshyadavdev/pull/5) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+2. 💪 Opened PR [#5](https://github.com/santoshyadavdev/santoshyadavdev/pull/5) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/santoshyadavdev/pull/4) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+4. 💪 Opened PR [#4](https://github.com/santoshyadavdev/santoshyadavdev/pull/4) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+5. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/santoshyadavdev/pull/3) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 <!--END_SECTION:activity-->
