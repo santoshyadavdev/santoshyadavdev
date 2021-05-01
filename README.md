@@ -52,7 +52,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
 2. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-3. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/angular-getting-started/pull/7) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-4. 💪 Opened PR [#7](https://github.com/santoshyadavdev/angular-getting-started/pull/7) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-5. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/santoshyadavdev/pull/5) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+4. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/angular-getting-started/pull/7) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+5. 💪 Opened PR [#7](https://github.com/santoshyadavdev/angular-getting-started/pull/7) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
 <!--END_SECTION:activity-->
