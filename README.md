@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/ngx-builders/netlify-builder/issues/119) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-2. 🎉 Merged PR [#121](https://github.com/ngx-builders/netlify-builder/pull/121) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-3. 🗣 Commented on [#121](https://github.com/ngx-builders/netlify-builder/issues/121) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. 🗣 Commented on [#120](https://github.com/ngx-builders/netlify-builder/issues/120) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-5. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/myportfolio/pull/3) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+1. 🎉 Merged PR [#9](https://github.com/santoshyadavdev/angular-getting-started/pull/9) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+2. 💪 Opened PR [#9](https://github.com/santoshyadavdev/angular-getting-started/pull/9) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+3. 🗣 Commented on [#119](https://github.com/ngx-builders/netlify-builder/issues/119) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+4. 🎉 Merged PR [#121](https://github.com/ngx-builders/netlify-builder/pull/121) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. 🗣 Commented on [#121](https://github.com/ngx-builders/netlify-builder/issues/121) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 <!--END_SECTION:activity-->
