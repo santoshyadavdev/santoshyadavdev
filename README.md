@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/myportfolio/pull/6) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
-2. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/myportfolio/pull/5) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
-3. 💪 Opened PR [#6](https://github.com/santoshyadavdev/myportfolio/pull/6) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
-4. 💪 Opened PR [#5](https://github.com/santoshyadavdev/myportfolio/pull/5) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
-5. 💪 Opened PR [#4](https://github.com/santoshyadavdev/myportfolio/pull/4) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+1. 💪 Opened PR [#7](https://github.com/santoshyadavdev/myportfolio/pull/7) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+2. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/myportfolio/pull/6) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+3. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/myportfolio/pull/5) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+4. 💪 Opened PR [#6](https://github.com/santoshyadavdev/myportfolio/pull/6) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+5. 💪 Opened PR [#5](https://github.com/santoshyadavdev/myportfolio/pull/5) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
 <!--END_SECTION:activity-->
