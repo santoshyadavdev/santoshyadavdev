@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/ngx-builders/netlify-builder/issues/120) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-2. 🎉 Merged PR [#12](https://github.com/santoshyadavdev/angular-getting-started/pull/12) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-3. 💪 Opened PR [#12](https://github.com/santoshyadavdev/angular-getting-started/pull/12) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-4. 🎉 Merged PR [#123](https://github.com/ngx-builders/netlify-builder/pull/123) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-5. 💪 Opened PR [#7](https://github.com/santoshyadavdev/myportfolio/pull/7) in [santoshyadavdev/myportfolio](https://github.com/santoshyadavdev/myportfolio)
+1. 🎉 Merged PR [#113](https://github.com/ngx-builders/netlify-builder/pull/113) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+2. 🎉 Merged PR [#118](https://github.com/ngx-builders/netlify-builder/pull/118) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+3. ❗️ Closed issue [#120](https://github.com/ngx-builders/netlify-builder/issues/120) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+4. 🎉 Merged PR [#124](https://github.com/ngx-builders/netlify-builder/pull/124) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. 💪 Opened PR [#124](https://github.com/ngx-builders/netlify-builder/pull/124) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 <!--END_SECTION:activity-->
