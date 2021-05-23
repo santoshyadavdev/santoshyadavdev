@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/ngx-builders/netlify-builder/pull/113) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-2. 🎉 Merged PR [#118](https://github.com/ngx-builders/netlify-builder/pull/118) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-3. ❗️ Closed issue [#120](https://github.com/ngx-builders/netlify-builder/issues/120) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. 🎉 Merged PR [#124](https://github.com/ngx-builders/netlify-builder/pull/124) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-5. 💪 Opened PR [#124](https://github.com/ngx-builders/netlify-builder/pull/124) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+1. 🎉 Merged PR [#60](https://github.com/ngx-builders/source-map-analyzer/pull/60) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+2. 🎉 Merged PR [#66](https://github.com/ngx-builders/source-map-analyzer/pull/66) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+3. 🎉 Merged PR [#58](https://github.com/ngx-builders/source-map-analyzer/pull/58) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. 🎉 Merged PR [#65](https://github.com/ngx-builders/source-map-analyzer/pull/65) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+5. 🎉 Merged PR [#61](https://github.com/ngx-builders/source-map-analyzer/pull/61) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
