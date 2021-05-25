@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-2. ❗️ Closed issue [#59](https://github.com/ngx-builders/source-map-analyzer/issues/59) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. 🎉 Merged PR [#67](https://github.com/ngx-builders/source-map-analyzer/pull/67) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-4. 💪 Opened PR [#67](https://github.com/ngx-builders/source-map-analyzer/pull/67) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-5. 🎉 Merged PR [#63](https://github.com/ngx-builders/source-map-analyzer/pull/63) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+1. 🗣 Commented on [#330](https://github.com/uiuniversal/ngu-carousel/issues/330) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+3. ❗️ Closed issue [#59](https://github.com/ngx-builders/source-map-analyzer/issues/59) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. 🎉 Merged PR [#67](https://github.com/ngx-builders/source-map-analyzer/pull/67) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+5. 💪 Opened PR [#67](https://github.com/ngx-builders/source-map-analyzer/pull/67) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
