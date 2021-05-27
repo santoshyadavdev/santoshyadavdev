@@ -40,12 +40,12 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Journey from $1000 to $100000 per/yr as Developer](https://dev.to/this-is-learning/my-journey-from-1000-to-100000-per-yr-as-developer-1nal)
 - [How empathy from my manager changed my life](https://dev.to/this-is-learning/how-empathy-from-my-manager-changed-my-life-1ac0)
 - [My journey into Tech](https://dev.to/this-is-learning/my-journey-into-tech-1l6d)
 - [How to think Reactively](https://dev.to/santoshyadav198613/how-to-think-reactively-39af)
 - [My Home Office Setup](https://dev.to/this-is-learning/my-home-office-setup-3l3f)
 - [Angular Builder to Run source-map-explorer](https://dev.to/santoshyadav198613/angular-builder-to-run-source-map-explorer-38hd)
-- [Time For Employers To Change Their Perspective On Open Source Contribution](https://dev.to/this-is-learning/time-for-employers-to-change-their-perspective-on-open-source-contribution-14lm)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
