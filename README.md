@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#330](https://github.com/uiuniversal/ngu-carousel/pull/330) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#330](https://github.com/uiuniversal/ngu-carousel/issues/330) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-4. ❗️ Closed issue [#59](https://github.com/ngx-builders/source-map-analyzer/issues/59) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-5. 🎉 Merged PR [#67](https://github.com/ngx-builders/source-map-analyzer/pull/67) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+1. 🎉 Merged PR [#128](https://github.com/ngx-builders/netlify-builder/pull/128) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+2. 🎉 Merged PR [#127](https://github.com/ngx-builders/netlify-builder/pull/127) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+3. 🎉 Merged PR [#129](https://github.com/ngx-builders/netlify-builder/pull/129) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+4. 🎉 Merged PR [#126](https://github.com/ngx-builders/netlify-builder/pull/126) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. 🎉 Merged PR [#125](https://github.com/ngx-builders/netlify-builder/pull/125) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 <!--END_SECTION:activity-->
