@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-2. 💪 Opened PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-3. 🎉 Merged PR [#5](https://github.com/this-is-learning/this-is-learning-website/pull/5) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-4. 🎉 Merged PR [#4](https://github.com/this-is-learning/this-is-learning-website/pull/4) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 🎉 Merged PR [#3](https://github.com/this-is-learning/this-is-learning-website/pull/3) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+1. 💪 Opened PR [#16](https://github.com/santoshyadavdev/angular-getting-started/pull/16) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+2. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+3. 💪 Opened PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+4. 🎉 Merged PR [#5](https://github.com/this-is-learning/this-is-learning-website/pull/5) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+5. 🎉 Merged PR [#4](https://github.com/this-is-learning/this-is-learning-website/pull/4) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
 <!--END_SECTION:activity-->
