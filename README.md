@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/this-is-learning/this-is-learning-website/pull/5) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-2. 🎉 Merged PR [#4](https://github.com/this-is-learning/this-is-learning-website/pull/4) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-3. 🎉 Merged PR [#3](https://github.com/this-is-learning/this-is-learning-website/pull/3) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-4. 🎉 Merged PR [#2](https://github.com/this-is-learning/this-is-learning-website/pull/2) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 🗣 Commented on [#131](https://github.com/ngx-builders/netlify-builder/issues/131) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+1. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+2. 💪 Opened PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+3. 🎉 Merged PR [#5](https://github.com/this-is-learning/this-is-learning-website/pull/5) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+4. 🎉 Merged PR [#4](https://github.com/this-is-learning/this-is-learning-website/pull/4) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+5. 🎉 Merged PR [#3](https://github.com/this-is-learning/this-is-learning-website/pull/3) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
 <!--END_SECTION:activity-->
