@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1464](https://github.com/appwrite/appwrite/pull/1464) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-demo/pull/1) in [santoshyadavdev/nx-demo](https://github.com/santoshyadavdev/nx-demo)
-3. 💪 Opened PR [#1](https://github.com/santoshyadavdev/nx-demo/pull/1) in [santoshyadavdev/nx-demo](https://github.com/santoshyadavdev/nx-demo)
-4. 💪 Opened PR [#16](https://github.com/santoshyadavdev/angular-getting-started/pull/16) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-5. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/angular-getting-started/pull/15) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+1. 💪 Opened PR [#16](https://github.com/appwrite/demo-todo-with-angular/pull/16) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+2. 💪 Opened PR [#1464](https://github.com/appwrite/appwrite/pull/1464) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-demo/pull/1) in [santoshyadavdev/nx-demo](https://github.com/santoshyadavdev/nx-demo)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/nx-demo/pull/1) in [santoshyadavdev/nx-demo](https://github.com/santoshyadavdev/nx-demo)
+5. 💪 Opened PR [#16](https://github.com/santoshyadavdev/angular-getting-started/pull/16) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
 <!--END_SECTION:activity-->
