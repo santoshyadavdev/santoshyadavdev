@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1108](https://github.com/graphql/graphql.github.io/pull/1108) in [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io)
-2. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-3. 💪 Opened PR [#16](https://github.com/appwrite/demo-todo-with-angular/pull/16) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
-4. 💪 Opened PR [#1464](https://github.com/appwrite/appwrite/pull/1464) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/nx-demo/pull/1) in [santoshyadavdev/nx-demo](https://github.com/santoshyadavdev/nx-demo)
+1. 🗣 Commented on [#21387](https://github.com/angular/angular-cli/issues/21387) in [angular/angular-cli](https://github.com/angular/angular-cli)
+2. 💪 Opened PR [#1108](https://github.com/graphql/graphql.github.io/pull/1108) in [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io)
+3. 🗣 Commented on [#83](https://github.com/ngworker/lumberjack/issues/83) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+4. 💪 Opened PR [#16](https://github.com/appwrite/demo-todo-with-angular/pull/16) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+5. 💪 Opened PR [#1464](https://github.com/appwrite/appwrite/pull/1464) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
