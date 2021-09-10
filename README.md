@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/Azure/static-web-apps-cli/issues/292) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-2. 🗣 Commented on [#21394](https://github.com/angular/angular-cli/issues/21394) in [angular/angular-cli](https://github.com/angular/angular-cli)
-3. 🗣 Commented on [#21387](https://github.com/angular/angular-cli/issues/21387) in [angular/angular-cli](https://github.com/angular/angular-cli)
+1. 💪 Opened PR [#38](https://github.com/ajitsinghkaler/devto-clone/pull/38) in [ajitsinghkaler/devto-clone](https://github.com/ajitsinghkaler/devto-clone)
+2. 🗣 Commented on [#292](https://github.com/Azure/static-web-apps-cli/issues/292) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+3. 🗣 Commented on [#21394](https://github.com/angular/angular-cli/issues/21394) in [angular/angular-cli](https://github.com/angular/angular-cli)
 4. 🗣 Commented on [#21387](https://github.com/angular/angular-cli/issues/21387) in [angular/angular-cli](https://github.com/angular/angular-cli)
-5. 💪 Opened PR [#1108](https://github.com/graphql/graphql.github.io/pull/1108) in [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io)
+5. 🗣 Commented on [#21387](https://github.com/angular/angular-cli/issues/21387) in [angular/angular-cli](https://github.com/angular/angular-cli)
 <!--END_SECTION:activity-->
