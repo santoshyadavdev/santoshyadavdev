@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/Azure/static-web-apps-cli/issues/293) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-2. 🗣 Commented on [#1864](https://github.com/sindresorhus/got/issues/1864) in [sindresorhus/got](https://github.com/sindresorhus/got)
-3. 💪 Opened PR [#38](https://github.com/ajitsinghkaler/devto-clone/pull/38) in [ajitsinghkaler/devto-clone](https://github.com/ajitsinghkaler/devto-clone)
-4. 🗣 Commented on [#292](https://github.com/Azure/static-web-apps-cli/issues/292) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-5. 🗣 Commented on [#21394](https://github.com/angular/angular-cli/issues/21394) in [angular/angular-cli](https://github.com/angular/angular-cli)
+1. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/optimization-course/pull/3) in [santoshyadavdev/optimization-course](https://github.com/santoshyadavdev/optimization-course)
+2. 💪 Opened PR [#3](https://github.com/santoshyadavdev/optimization-course/pull/3) in [santoshyadavdev/optimization-course](https://github.com/santoshyadavdev/optimization-course)
+3. 🗣 Commented on [#293](https://github.com/Azure/static-web-apps-cli/issues/293) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
+4. 🗣 Commented on [#1864](https://github.com/sindresorhus/got/issues/1864) in [sindresorhus/got](https://github.com/sindresorhus/got)
+5. 💪 Opened PR [#38](https://github.com/ajitsinghkaler/devto-clone/pull/38) in [ajitsinghkaler/devto-clone](https://github.com/ajitsinghkaler/devto-clone)
 <!--END_SECTION:activity-->
