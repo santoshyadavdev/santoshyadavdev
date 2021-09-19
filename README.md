@@ -40,12 +40,12 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Lessons learned as Software Engineer](https://dev.to/santoshyadav198613/my-lessons-learned-as-software-engineer-3bae)
 - [My Developer Journey – How I Went from Making $1,000 to Better Salary](https://dev.to/this-is-learning/my-developer-journey-how-i-went-from-making-1-000-to-better-salary-11om)
 - [How empathy from my manager changed my life](https://dev.to/this-is-learning/how-empathy-from-my-manager-changed-my-life-1ac0)
 - [My journey into Tech](https://dev.to/this-is-learning/my-journey-into-tech-1l6d)
 - [How to think Reactively](https://dev.to/santoshyadav198613/how-to-think-reactively-39af)
 - [My Home Office Setup](https://dev.to/this-is-learning/my-home-office-setup-3l3f)
-- [Angular Builder to Run source-map-explorer](https://dev.to/santoshyadav198613/angular-builder-to-run-source-map-explorer-38hd)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
