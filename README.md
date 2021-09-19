@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/ngx-builders/source-map-analyzer/issues/73) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-2. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/optimization-course/pull/3) in [santoshyadavdev/optimization-course](https://github.com/santoshyadavdev/optimization-course)
-3. 💪 Opened PR [#3](https://github.com/santoshyadavdev/optimization-course/pull/3) in [santoshyadavdev/optimization-course](https://github.com/santoshyadavdev/optimization-course)
-4. 🗣 Commented on [#293](https://github.com/Azure/static-web-apps-cli/issues/293) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
-5. 🗣 Commented on [#1864](https://github.com/sindresorhus/got/issues/1864) in [sindresorhus/got](https://github.com/sindresorhus/got)
+1. 🎉 Merged PR [#11](https://github.com/this-is-learning/this-is-learning-website/pull/11) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+2. 🗣 Commented on [#73](https://github.com/ngx-builders/source-map-analyzer/issues/73) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+3. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/optimization-course/pull/3) in [santoshyadavdev/optimization-course](https://github.com/santoshyadavdev/optimization-course)
+4. 💪 Opened PR [#3](https://github.com/santoshyadavdev/optimization-course/pull/3) in [santoshyadavdev/optimization-course](https://github.com/santoshyadavdev/optimization-course)
+5. 🗣 Commented on [#293](https://github.com/Azure/static-web-apps-cli/issues/293) in [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli)
 <!--END_SECTION:activity-->
