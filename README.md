@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-2. 💪 Opened PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-3. 🗣 Commented on [#1864](https://github.com/sindresorhus/got/issues/1864) in [sindresorhus/got](https://github.com/sindresorhus/got)
-4. 🎉 Merged PR [#11](https://github.com/this-is-learning/this-is-learning-website/pull/11) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 🗣 Commented on [#73](https://github.com/ngx-builders/source-map-analyzer/issues/73) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+1. 🎉 Merged PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+2. 💪 Opened PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+3. 🎉 Merged PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+4. 💪 Opened PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+5. 🗣 Commented on [#1864](https://github.com/sindresorhus/got/issues/1864) in [sindresorhus/got](https://github.com/sindresorhus/got)
 <!--END_SECTION:activity-->
