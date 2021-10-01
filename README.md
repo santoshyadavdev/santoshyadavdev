@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-2. 💪 Opened PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-3. 🎉 Merged PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-4. 💪 Opened PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-5. 🗣 Commented on [#1864](https://github.com/sindresorhus/got/issues/1864) in [sindresorhus/got](https://github.com/sindresorhus/got)
+1. 🗣 Commented on [#24](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition/issues/24) in [PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition)
+2. 🎉 Merged PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+3. 💪 Opened PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+4. 🎉 Merged PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+5. 💪 Opened PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
 <!--END_SECTION:activity-->
