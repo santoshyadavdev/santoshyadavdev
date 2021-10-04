@@ -51,8 +51,8 @@
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7222](https://github.com/nrwl/nx/issues/7222) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 💪 Opened PR [#7222](https://github.com/nrwl/nx/pull/7222) in [nrwl/nx](https://github.com/nrwl/nx)
-3. ❗️ Opened issue [#7221](https://github.com/nrwl/nx/issues/7221) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 🗣 Commented on [#24](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition/issues/24) in [PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition)
-5. 🎉 Merged PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+2. 🗣 Commented on [#7222](https://github.com/nrwl/nx/issues/7222) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 💪 Opened PR [#7222](https://github.com/nrwl/nx/pull/7222) in [nrwl/nx](https://github.com/nrwl/nx)
+4. ❗️ Opened issue [#7221](https://github.com/nrwl/nx/issues/7221) in [nrwl/nx](https://github.com/nrwl/nx)
+5. 🗣 Commented on [#24](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition/issues/24) in [PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition)
 <!--END_SECTION:activity-->
