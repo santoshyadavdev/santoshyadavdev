@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition/issues/24) in [PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition)
-2. 🎉 Merged PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-3. 💪 Opened PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-4. 🎉 Merged PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-5. 💪 Opened PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+1. ❗️ Opened issue [#7221](https://github.com/nrwl/nx/issues/7221) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 🗣 Commented on [#24](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition/issues/24) in [PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition](https://github.com/PacktPublishing/ASP.NET-Core-3-and-Angular-9-Third-Edition)
+3. 🎉 Merged PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+4. 💪 Opened PR [#23](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/23) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+5. 🎉 Merged PR [#22](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/22) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
 <!--END_SECTION:activity-->
