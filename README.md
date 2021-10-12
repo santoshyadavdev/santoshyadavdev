@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/featurehub-io/featurehub-examples/pull/46) in [featurehub-io/featurehub-examples](https://github.com/featurehub-io/featurehub-examples)
-2. 💪 Opened PR [#988](https://github.com/rx-angular/rx-angular/pull/988) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
-3. 🗣 Commented on [#976](https://github.com/rx-angular/rx-angular/issues/976) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
-4. 🗣 Commented on [#7222](https://github.com/nrwl/nx/issues/7222) in [nrwl/nx](https://github.com/nrwl/nx)
+1. 🗣 Commented on [#988](https://github.com/rx-angular/rx-angular/issues/988) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
+2. 💪 Opened PR [#46](https://github.com/featurehub-io/featurehub-examples/pull/46) in [featurehub-io/featurehub-examples](https://github.com/featurehub-io/featurehub-examples)
+3. 💪 Opened PR [#988](https://github.com/rx-angular/rx-angular/pull/988) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
+4. 🗣 Commented on [#976](https://github.com/rx-angular/rx-angular/issues/976) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
 5. 🗣 Commented on [#7222](https://github.com/nrwl/nx/issues/7222) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
