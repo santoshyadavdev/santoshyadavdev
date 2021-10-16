@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173](https://github.com/ngx-builders/angular-builder/pull/173) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-2. 🗣 Commented on [#173](https://github.com/ngx-builders/angular-builder/issues/173) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-3. 🗣 Commented on [#172](https://github.com/ngx-builders/angular-builder/issues/172) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-4. 🗣 Commented on [#46](https://github.com/featurehub-io/featurehub-examples/issues/46) in [featurehub-io/featurehub-examples](https://github.com/featurehub-io/featurehub-examples)
-5. 🗣 Commented on [#988](https://github.com/rx-angular/rx-angular/issues/988) in [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular)
+1. 🗣 Commented on [#3179](https://github.com/ngrx/platform/issues/3179) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🎉 Merged PR [#173](https://github.com/ngx-builders/angular-builder/pull/173) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+3. 🗣 Commented on [#173](https://github.com/ngx-builders/angular-builder/issues/173) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+4. 🗣 Commented on [#172](https://github.com/ngx-builders/angular-builder/issues/172) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+5. 🗣 Commented on [#46](https://github.com/featurehub-io/featurehub-examples/issues/46) in [featurehub-io/featurehub-examples](https://github.com/featurehub-io/featurehub-examples)
 <!--END_SECTION:activity-->
