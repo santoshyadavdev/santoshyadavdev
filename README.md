@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3190](https://github.com/ngrx/platform/issues/3190) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🎉 Merged PR [#143](https://github.com/ngx-builders/netlify-builder/pull/143) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-3. 🗣 Commented on [#142](https://github.com/ngx-builders/netlify-builder/issues/142) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. 🗣 Commented on [#3190](https://github.com/ngrx/platform/issues/3190) in [ngrx/platform](https://github.com/ngrx/platform)
-5. 💪 Opened PR [#3190](https://github.com/ngrx/platform/pull/3190) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 🗣 Commented on [#1108](https://github.com/graphql/graphql.github.io/issues/1108) in [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io)
+2. 🗣 Commented on [#3190](https://github.com/ngrx/platform/issues/3190) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 🎉 Merged PR [#143](https://github.com/ngx-builders/netlify-builder/pull/143) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+4. 🗣 Commented on [#142](https://github.com/ngx-builders/netlify-builder/issues/142) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. 🗣 Commented on [#3190](https://github.com/ngrx/platform/issues/3190) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
