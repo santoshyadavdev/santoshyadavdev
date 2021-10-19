@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/ngx-builders/source-map-analyzer/pull/78) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-2. 💪 Opened PR [#78](https://github.com/ngx-builders/source-map-analyzer/pull/78) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. 🎉 Merged PR [#74](https://github.com/ngx-builders/source-map-analyzer/pull/74) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-4. 🗣 Commented on [#3179](https://github.com/ngrx/platform/issues/3179) in [ngrx/platform](https://github.com/ngrx/platform)
-5. 🎉 Merged PR [#173](https://github.com/ngx-builders/angular-builder/pull/173) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+1. 🗣 Commented on [#3190](https://github.com/ngrx/platform/issues/3190) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 💪 Opened PR [#3190](https://github.com/ngrx/platform/pull/3190) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 🎉 Merged PR [#78](https://github.com/ngx-builders/source-map-analyzer/pull/78) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. 💪 Opened PR [#78](https://github.com/ngx-builders/source-map-analyzer/pull/78) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+5. 🎉 Merged PR [#74](https://github.com/ngx-builders/source-map-analyzer/pull/74) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
