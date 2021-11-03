@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3197](https://github.com/ngrx/platform/issues/3197) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🎉 Merged PR [#144](https://github.com/ngx-builders/netlify-builder/pull/144) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-3. 🗣 Commented on [#1108](https://github.com/graphql/graphql.github.io/issues/1108) in [graphql/graphql.github.io](https://github.com/graphql/graphql.github.io)
-4. 🗣 Commented on [#3190](https://github.com/ngrx/platform/issues/3190) in [ngrx/platform](https://github.com/ngrx/platform)
-5. 🎉 Merged PR [#143](https://github.com/ngx-builders/netlify-builder/pull/143) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+1. 🎉 Merged PR [#338](https://github.com/uiuniversal/ngu-carousel/pull/338) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🗣 Commented on [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#338](https://github.com/uiuniversal/ngu-carousel/issues/338) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. ❗️ Opened issue [#3197](https://github.com/ngrx/platform/issues/3197) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
