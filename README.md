@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#338](https://github.com/uiuniversal/ngu-carousel/pull/338) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#338](https://github.com/uiuniversal/ngu-carousel/issues/338) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. ❗️ Opened issue [#3197](https://github.com/ngrx/platform/issues/3197) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 🎉 Merged PR [#81](https://github.com/ngx-builders/source-map-analyzer/pull/81) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+2. 💪 Opened PR [#81](https://github.com/ngx-builders/source-map-analyzer/pull/81) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+3. 🎉 Merged PR [#338](https://github.com/uiuniversal/ngu-carousel/pull/338) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
