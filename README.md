@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#339](https://github.com/uiuniversal/ngu-carousel/issues/339) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#340](https://github.com/uiuniversal/ngu-carousel/pull/340) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#82](https://github.com/ngx-builders/source-map-analyzer/pull/82) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-4. 💪 Opened PR [#82](https://github.com/ngx-builders/source-map-analyzer/pull/82) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-5. 🎉 Merged PR [#81](https://github.com/ngx-builders/source-map-analyzer/pull/81) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+1. ❌ Closed PR [#24](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/24) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+2. 🗣 Commented on [#24](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/24) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+3. ❗️ Closed issue [#339](https://github.com/uiuniversal/ngu-carousel/issues/339) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🎉 Merged PR [#340](https://github.com/uiuniversal/ngu-carousel/pull/340) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🎉 Merged PR [#82](https://github.com/ngx-builders/source-map-analyzer/pull/82) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
