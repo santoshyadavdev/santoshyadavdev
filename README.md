@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#180](https://github.com/ngx-builders/angular-builder/issues/180) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-2. 🗣 Commented on [#180](https://github.com/ngx-builders/angular-builder/issues/180) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-3. 🎉 Merged PR [#181](https://github.com/ngx-builders/angular-builder/pull/181) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-4. ❗️ Opened issue [#180](https://github.com/ngx-builders/angular-builder/issues/180) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-5. ❌ Closed PR [#24](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/24) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+1. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+2. 💪 Opened PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. ❗️ Closed issue [#180](https://github.com/ngx-builders/angular-builder/issues/180) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+4. 🗣 Commented on [#180](https://github.com/ngx-builders/angular-builder/issues/180) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+5. 🎉 Merged PR [#181](https://github.com/ngx-builders/angular-builder/pull/181) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
 <!--END_SECTION:activity-->
