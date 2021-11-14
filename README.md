@@ -32,7 +32,7 @@
 
 </p>
 
-![Santosh Yadav Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
+![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SantoshYadavDev&layout=compact&theme=radical)
 
