@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#341](https://github.com/uiuniversal/ngu-carousel/pull/341) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/santoshyadavdev/pull/7) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/santoshyadavdev/pull/7) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. 💪 Opened PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+1. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. ❗️ Closed issue [#310](https://github.com/uiuniversal/ngu-carousel/issues/310) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. ❗️ Closed issue [#331](https://github.com/uiuniversal/ngu-carousel/issues/331) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#331](https://github.com/uiuniversal/ngu-carousel/issues/331) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. ❗️ Closed issue [#335](https://github.com/uiuniversal/ngu-carousel/issues/335) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
