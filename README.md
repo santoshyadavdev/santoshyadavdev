@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/santoshyadavdev/pull/7) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-2. 💪 Opened PR [#7](https://github.com/santoshyadavdev/santoshyadavdev/pull/7) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-3. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-4. 💪 Opened PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. ❗️ Closed issue [#180](https://github.com/ngx-builders/angular-builder/issues/180) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+1. 🎉 Merged PR [#341](https://github.com/uiuniversal/ngu-carousel/pull/341) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/santoshyadavdev/pull/7) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/santoshyadavdev/pull/7) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+5. 💪 Opened PR [#6](https://github.com/santoshyadavdev/santoshyadavdev/pull/6) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 <!--END_SECTION:activity-->
