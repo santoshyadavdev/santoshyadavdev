@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/ngx-builders/source-map-analyzer/pull/86) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-2. 🎉 Merged PR [#84](https://github.com/ngx-builders/source-map-analyzer/pull/84) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. ❗️ Opened issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-4. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. ❗️ Closed issue [#310](https://github.com/uiuniversal/ngu-carousel/issues/310) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#7](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/7) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+2. 🎉 Merged PR [#86](https://github.com/ngx-builders/source-map-analyzer/pull/86) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+3. 🎉 Merged PR [#84](https://github.com/ngx-builders/source-map-analyzer/pull/84) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. ❗️ Opened issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+5. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
