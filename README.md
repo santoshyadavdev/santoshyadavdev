@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/santoshyadavdev/ama/issues/3) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
-2. ❗️ Closed issue [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
-3. ❗️ Closed issue [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
-4. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
-5. 🗣 Commented on [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+1. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+2. ❗️ Closed issue [#3](https://github.com/santoshyadavdev/ama/issues/3) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+3. ❗️ Closed issue [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+4. ❗️ Closed issue [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+5. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
 <!--END_SECTION:activity-->
