@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
-2. 🗣 Commented on [#3](https://github.com/santoshyadavdev/ama/issues/3) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
-3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/7) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-4. 🎉 Merged PR [#86](https://github.com/ngx-builders/source-map-analyzer/pull/86) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-5. 🎉 Merged PR [#84](https://github.com/ngx-builders/source-map-analyzer/pull/84) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+1. ❗️ Closed issue [#3](https://github.com/santoshyadavdev/ama/issues/3) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+2. ❗️ Closed issue [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+3. ❗️ Closed issue [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+4. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+5. 🗣 Commented on [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
 <!--END_SECTION:activity-->
