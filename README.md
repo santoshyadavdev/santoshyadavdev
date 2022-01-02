@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/7) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-2. 🎉 Merged PR [#86](https://github.com/ngx-builders/source-map-analyzer/pull/86) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. 🎉 Merged PR [#84](https://github.com/ngx-builders/source-map-analyzer/pull/84) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-4. ❗️ Opened issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-5. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🗣 Commented on [#2](https://github.com/santoshyadavdev/ama/issues/2) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+2. 🗣 Commented on [#3](https://github.com/santoshyadavdev/ama/issues/3) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/7) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. 🎉 Merged PR [#86](https://github.com/ngx-builders/source-map-analyzer/pull/86) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+5. 🎉 Merged PR [#84](https://github.com/ngx-builders/source-map-analyzer/pull/84) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
