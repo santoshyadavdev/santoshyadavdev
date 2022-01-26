@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
-2. 🎉 Merged PR [#91](https://github.com/ngx-builders/source-map-analyzer/pull/91) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. 🎉 Merged PR [#90](https://github.com/ngx-builders/source-map-analyzer/pull/90) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-4. 🗣 Commented on [#79](https://github.com/ngx-builders/source-map-analyzer/issues/79) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-5. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ama/issues/1) in [santoshyadavdev/ama](https://github.com/santoshyadavdev/ama)
+1. ❗️ Opened issue [#86](https://github.com/diprokon/ng-table-virtual-scroll/issues/86) in [diprokon/ng-table-virtual-scroll](https://github.com/diprokon/ng-table-virtual-scroll)
+2. ❗️ Opened issue [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
+3. 🎉 Merged PR [#91](https://github.com/ngx-builders/source-map-analyzer/pull/91) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. 🎉 Merged PR [#90](https://github.com/ngx-builders/source-map-analyzer/pull/90) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+5. 🗣 Commented on [#79](https://github.com/ngx-builders/source-map-analyzer/issues/79) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
