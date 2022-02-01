@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/diprokon/ng-table-virtual-scroll/issues/86) in [diprokon/ng-table-virtual-scroll](https://github.com/diprokon/ng-table-virtual-scroll)
-2. ❗️ Opened issue [#86](https://github.com/diprokon/ng-table-virtual-scroll/issues/86) in [diprokon/ng-table-virtual-scroll](https://github.com/diprokon/ng-table-virtual-scroll)
-3. ❗️ Opened issue [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
-4. 🎉 Merged PR [#91](https://github.com/ngx-builders/source-map-analyzer/pull/91) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-5. 🎉 Merged PR [#90](https://github.com/ngx-builders/source-map-analyzer/pull/90) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+1. 🗣 Commented on [#2](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/2) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+2. ❗️ Closed issue [#2](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/2) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. 🗣 Commented on [#3](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/3) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. ❗️ Closed issue [#3](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/3) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. ❗️ Closed issue [#4](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/4) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
