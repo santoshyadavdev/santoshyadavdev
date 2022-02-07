@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#358](https://github.com/uiuniversal/ngu-carousel/pull/358) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/7) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. ❗️ Closed issue [#13](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/13) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-4. 🗣 Commented on [#13](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/13) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-5. ❗️ Closed issue [#12](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/12) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+1. 💪 Opened PR [#3](https://github.com/this-is-learning/twitter-feed/pull/3) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
+2. 🎉 Merged PR [#358](https://github.com/uiuniversal/ngu-carousel/pull/358) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/7) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. ❗️ Closed issue [#13](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/13) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. 🗣 Commented on [#13](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/13) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
