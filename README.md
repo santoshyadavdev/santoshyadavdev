@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#217](https://github.com/Phillip9587/nx-stylelint/issues/217) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-2. 🎉 Merged PR [#3](https://github.com/this-is-learning/twitter-feed/pull/3) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
-3. 🗣 Commented on [#3](https://github.com/this-is-learning/twitter-feed/issues/3) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
-4. 💪 Opened PR [#3](https://github.com/this-is-learning/twitter-feed/pull/3) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
-5. 🎉 Merged PR [#358](https://github.com/uiuniversal/ngu-carousel/pull/358) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. ❗️ Closed issue [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
+2. 🗣 Commented on [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
+3. ❗️ Opened issue [#217](https://github.com/Phillip9587/nx-stylelint/issues/217) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+4. 🎉 Merged PR [#3](https://github.com/this-is-learning/twitter-feed/pull/3) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
+5. 🗣 Commented on [#3](https://github.com/this-is-learning/twitter-feed/issues/3) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
 <!--END_SECTION:activity-->
