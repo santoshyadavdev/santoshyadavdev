@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](https://github.com/uiuniversal/ngu-carousel/pull/363) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#217](https://github.com/Phillip9587/nx-stylelint/issues/217) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-3. ❗️ Closed issue [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
-4. 🗣 Commented on [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
-5. ❗️ Opened issue [#217](https://github.com/Phillip9587/nx-stylelint/issues/217) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+1. 🎉 Merged PR [#362](https://github.com/uiuniversal/ngu-carousel/pull/362) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🎉 Merged PR [#363](https://github.com/uiuniversal/ngu-carousel/pull/363) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#363](https://github.com/uiuniversal/ngu-carousel/pull/363) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#217](https://github.com/Phillip9587/nx-stylelint/issues/217) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+5. ❗️ Closed issue [#113](https://github.com/fknop/angular-pipes/issues/113) in [fknop/angular-pipes](https://github.com/fknop/angular-pipes)
 <!--END_SECTION:activity-->
