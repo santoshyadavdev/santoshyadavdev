@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#287](https://github.com/uiuniversal/ngu-carousel/pull/287) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#222](https://github.com/Phillip9587/nx-stylelint/pull/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-3. 🎉 Merged PR [#362](https://github.com/uiuniversal/ngu-carousel/pull/362) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#363](https://github.com/uiuniversal/ngu-carousel/pull/363) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 💪 Opened PR [#363](https://github.com/uiuniversal/ngu-carousel/pull/363) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+2. 🎉 Merged PR [#287](https://github.com/uiuniversal/ngu-carousel/pull/287) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#222](https://github.com/Phillip9587/nx-stylelint/pull/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+4. 🎉 Merged PR [#362](https://github.com/uiuniversal/ngu-carousel/pull/362) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🎉 Merged PR [#363](https://github.com/uiuniversal/ngu-carousel/pull/363) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
