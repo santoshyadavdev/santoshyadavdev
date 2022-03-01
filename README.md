@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/16) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-2. 🎉 Merged PR [#16](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/16) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-5. 🎉 Merged PR [#287](https://github.com/uiuniversal/ngu-carousel/pull/287) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#16](https://github.com/santoshyadavdev/angular-getting-started/pull/16) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
+2. 🗣 Commented on [#16](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/16) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. 🎉 Merged PR [#16](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/16) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
 <!--END_SECTION:activity-->
