@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/santoshyadavdev/angular-getting-started/pull/16) in [santoshyadavdev/angular-getting-started](https://github.com/santoshyadavdev/angular-getting-started)
-2. 🗣 Commented on [#16](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/16) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. 🎉 Merged PR [#16](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/16) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-4. ❗️ Closed issue [#337](https://github.com/uiuniversal/ngu-carousel/issues/337) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+1. 🗣 Commented on [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+2. 🗣 Commented on [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. 🗣 Commented on [#17](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/17) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. 🗣 Commented on [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
