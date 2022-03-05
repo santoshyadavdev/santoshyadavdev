@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-2. 🗣 Commented on [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. 🗣 Commented on [#17](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/17) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-4. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-5. 🗣 Commented on [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+1. 💪 Opened PR [#161](https://github.com/isaacs/minimatch/pull/161) in [isaacs/minimatch](https://github.com/isaacs/minimatch)
+2. 🗣 Commented on [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. 🗣 Commented on [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. 🗣 Commented on [#17](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/17) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
