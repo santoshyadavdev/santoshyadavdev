@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-2. 🗣 Commented on [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
-4. 🗣 Commented on [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-5. ❗️ Closed issue [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+1. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+2. ❗️ Closed issue [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. ❗️ Closed issue [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. 🗣 Commented on [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
