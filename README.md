@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-2. ❗️ Closed issue [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. ❗️ Closed issue [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-4. 🗣 Commented on [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-5. 💪 Opened PR [#161](https://github.com/isaacs/minimatch/pull/161) in [isaacs/minimatch](https://github.com/isaacs/minimatch)
+1. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. ❗️ Closed issue [#18](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/18) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. ❗️ Closed issue [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. 🗣 Commented on [#19](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/19) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
