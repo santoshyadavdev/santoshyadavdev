@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-2. ❗️ Opened issue [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-3. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-4. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-5. ❗️ Closed issue [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+1. 🗣 Commented on [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+2. ❗️ Closed issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+3. ❗️ Opened issue [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+4. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+5. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
