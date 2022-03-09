@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-2. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-3. ❗️ Closed issue [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-4. ❗️ Closed issue [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
-5. 🗣 Commented on [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+1. ❗️ Opened issue [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+2. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+3. 🗣 Commented on [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+4. ❗️ Closed issue [#15](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/15) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+5. ❗️ Closed issue [#14](https://github.com/santoshyadavdev/gde-githubstar-interest-call/issues/14) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
 <!--END_SECTION:activity-->
