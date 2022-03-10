@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9264](https://github.com/nrwl/nx/pull/9264) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 🗣 Commented on [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-3. ❗️ Closed issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-4. ❗️ Opened issue [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-5. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+1. 💪 Opened PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+2. 💪 Opened PR [#9264](https://github.com/nrwl/nx/pull/9264) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 🗣 Commented on [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+4. ❗️ Closed issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+5. ❗️ Opened issue [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
 <!--END_SECTION:activity-->
