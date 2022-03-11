@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-2. 💪 Opened PR [#9264](https://github.com/nrwl/nx/pull/9264) in [nrwl/nx](https://github.com/nrwl/nx)
-3. 🗣 Commented on [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-4. ❗️ Closed issue [#25](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/25) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-5. ❗️ Opened issue [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+1. 🗣 Commented on [#4383](https://github.com/cypress-io/cypress-documentation/issues/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+2. 🎉 Merged PR [#22](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/22) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+3. 💪 Opened PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+4. 💪 Opened PR [#9264](https://github.com/nrwl/nx/pull/9264) in [nrwl/nx](https://github.com/nrwl/nx)
+5. 🗣 Commented on [#4380](https://github.com/cypress-io/cypress-documentation/issues/4380) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
 <!--END_SECTION:activity-->
