@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3357](https://github.com/ngrx/platform/issues/3357) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 💪 Opened PR [#3357](https://github.com/ngrx/platform/pull/3357) in [ngrx/platform](https://github.com/ngrx/platform)
-3. ❗️ Opened issue [#37](https://github.com/EmmanuelRoux/ngx-matomo/issues/37) in [EmmanuelRoux/ngx-matomo](https://github.com/EmmanuelRoux/ngx-matomo)
-4. 🗣 Commented on [#4383](https://github.com/cypress-io/cypress-documentation/issues/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-5. 🎉 Merged PR [#22](https://github.com/santoshyadavdev/gde-githubstar-interest-call/pull/22) in [santoshyadavdev/gde-githubstar-interest-call](https://github.com/santoshyadavdev/gde-githubstar-interest-call)
+1. 🗣 Commented on [#3302](https://github.com/ngrx/platform/issues/3302) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#3357](https://github.com/ngrx/platform/issues/3357) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 💪 Opened PR [#3357](https://github.com/ngrx/platform/pull/3357) in [ngrx/platform](https://github.com/ngrx/platform)
+4. ❗️ Opened issue [#37](https://github.com/EmmanuelRoux/ngx-matomo/issues/37) in [EmmanuelRoux/ngx-matomo](https://github.com/EmmanuelRoux/ngx-matomo)
+5. 🗣 Commented on [#4383](https://github.com/cypress-io/cypress-documentation/issues/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
 <!--END_SECTION:activity-->
