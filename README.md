@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-2. 🎉 Merged PR [#12](https://github.com/this-is-learning/this-is-learning-website/pull/12) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-3. 🗣 Commented on [#3302](https://github.com/ngrx/platform/issues/3302) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 🗣 Commented on [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+2. ❗️ Opened issue [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+3. 🎉 Merged PR [#12](https://github.com/this-is-learning/this-is-learning-website/pull/12) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
 4. 🗣 Commented on [#3302](https://github.com/ngrx/platform/issues/3302) in [ngrx/platform](https://github.com/ngrx/platform)
-5. 🗣 Commented on [#3357](https://github.com/ngrx/platform/issues/3357) in [ngrx/platform](https://github.com/ngrx/platform)
+5. 🗣 Commented on [#3302](https://github.com/ngrx/platform/issues/3302) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
