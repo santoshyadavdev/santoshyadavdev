@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-2. 🎉 Merged PR [#14](https://github.com/this-is-learning/this-is-learning-website/pull/14) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-3. 🗣 Commented on [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+1. 🎉 Merged PR [#153](https://github.com/ngx-builders/netlify-builder/pull/153) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+2. 💪 Opened PR [#153](https://github.com/ngx-builders/netlify-builder/pull/153) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+3. 🎉 Merged PR [#134](https://github.com/ngx-builders/netlify-builder/pull/134) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 4. 🗣 Commented on [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 🗣 Commented on [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+5. 🎉 Merged PR [#14](https://github.com/this-is-learning/this-is-learning-website/pull/14) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
 <!--END_SECTION:activity-->
