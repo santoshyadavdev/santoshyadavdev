@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/ngx-builders/netlify-builder/pull/153) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-2. 💪 Opened PR [#153](https://github.com/ngx-builders/netlify-builder/pull/153) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-3. 🎉 Merged PR [#134](https://github.com/ngx-builders/netlify-builder/pull/134) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. 🗣 Commented on [#13](https://github.com/this-is-learning/this-is-learning-website/issues/13) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 🎉 Merged PR [#14](https://github.com/this-is-learning/this-is-learning-website/pull/14) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+1. 🎉 Merged PR [#154](https://github.com/ngx-builders/netlify-builder/pull/154) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+2. 🗣 Commented on [#152](https://github.com/ngx-builders/netlify-builder/issues/152) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+3. 🎉 Merged PR [#153](https://github.com/ngx-builders/netlify-builder/pull/153) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+4. 💪 Opened PR [#153](https://github.com/ngx-builders/netlify-builder/pull/153) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. 🎉 Merged PR [#134](https://github.com/ngx-builders/netlify-builder/pull/134) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 <!--END_SECTION:activity-->
