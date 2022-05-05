@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/appwrite/demo-todo-with-angular/issues/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+1. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
 2. 🗣 Commented on [#36](https://github.com/appwrite/demo-todo-with-angular/issues/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
-3. 💪 Opened PR [#36](https://github.com/appwrite/demo-todo-with-angular/pull/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
-4. ❗️ Opened issue [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
-5. 🗣 Commented on [#414](https://github.com/matomo-org/tag-manager/issues/414) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
+3. 🗣 Commented on [#36](https://github.com/appwrite/demo-todo-with-angular/issues/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+4. 💪 Opened PR [#36](https://github.com/appwrite/demo-todo-with-angular/pull/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+5. ❗️ Opened issue [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
 <!--END_SECTION:activity-->
