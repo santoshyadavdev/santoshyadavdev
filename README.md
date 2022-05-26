@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/this-is-learning/twitter-feed/pull/7) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
-2. 💪 Opened PR [#372](https://github.com/uiuniversal/ngu-carousel/pull/372) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
+1. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🎉 Merged PR [#7](https://github.com/this-is-learning/twitter-feed/pull/7) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
+3. 💪 Opened PR [#372](https://github.com/uiuniversal/ngu-carousel/pull/372) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 4. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
-5. 🗣 Commented on [#36](https://github.com/appwrite/demo-todo-with-angular/issues/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+5. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
 <!--END_SECTION:activity-->
