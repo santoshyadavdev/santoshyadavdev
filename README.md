@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🎉 Merged PR [#7](https://github.com/this-is-learning/twitter-feed/pull/7) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
-3. 💪 Opened PR [#372](https://github.com/uiuniversal/ngu-carousel/pull/372) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
+1. 💪 Opened PR [#3437](https://github.com/ngrx/platform/pull/3437) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 🎉 Merged PR [#7](https://github.com/this-is-learning/twitter-feed/pull/7) in [this-is-learning/twitter-feed](https://github.com/this-is-learning/twitter-feed)
+4. 💪 Opened PR [#372](https://github.com/uiuniversal/ngu-carousel/pull/372) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 5. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
 <!--END_SECTION:activity-->
