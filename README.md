@@ -51,8 +51,8 @@
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3437](https://github.com/ngrx/platform/issues/3437) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🗣 Commented on [#5120](https://github.com/typescript-eslint/typescript-eslint/issues/5120) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-3. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
-4. 🗣 Commented on [#3437](https://github.com/ngrx/platform/issues/3437) in [ngrx/platform](https://github.com/ngrx/platform)
-5. 🗣 Commented on [#3336](https://github.com/ngrx/platform/issues/3336) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#3437](https://github.com/ngrx/platform/issues/3437) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 🗣 Commented on [#5120](https://github.com/typescript-eslint/typescript-eslint/issues/5120) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+4. 🗣 Commented on [#222](https://github.com/Phillip9587/nx-stylelint/issues/222) in [Phillip9587/nx-stylelint](https://github.com/Phillip9587/nx-stylelint)
+5. 🗣 Commented on [#3437](https://github.com/ngrx/platform/issues/3437) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
