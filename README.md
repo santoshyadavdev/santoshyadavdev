@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/angular-async-local-storage/pull/1) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/angular-async-local-storage/pull/1) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ngx-pwa-offline/pull/1) in [santoshyadavdev/ngx-pwa-offline](https://github.com/santoshyadavdev/ngx-pwa-offline)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ngx-pwa-offline/pull/1) in [santoshyadavdev/ngx-pwa-offline](https://github.com/santoshyadavdev/ngx-pwa-offline)
-5. 🗣 Commented on [#3437](https://github.com/ngrx/platform/issues/3437) in [ngrx/platform](https://github.com/ngrx/platform)
+1. ❗️ Opened issue [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+2. ❗️ Opened issue [#2](https://github.com/santoshyadavdev/angular-async-local-storage/issues/2) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/angular-async-local-storage/pull/1) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/angular-async-local-storage/pull/1) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+5. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ngx-pwa-offline/pull/1) in [santoshyadavdev/ngx-pwa-offline](https://github.com/santoshyadavdev/ngx-pwa-offline)
 <!--END_SECTION:activity-->
