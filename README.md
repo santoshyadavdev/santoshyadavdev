@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/santoshyadavdev/angular-async-local-storage/issues/2) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-2. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+1. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+2. 🗣 Commented on [#2](https://github.com/santoshyadavdev/angular-async-local-storage/issues/2) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
 3. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
 4. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-5. ❗️ Opened issue [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+5. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
 <!--END_SECTION:activity-->
