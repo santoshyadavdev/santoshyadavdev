@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-2. 🗣 Commented on [#2](https://github.com/santoshyadavdev/angular-async-local-storage/issues/2) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-3. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+1. 🎉 Merged PR [#4](https://github.com/ngx-builders/angular-async-local-storage/pull/4) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+2. ❗️ Closed issue [#3](https://github.com/ngx-builders/angular-async-local-storage/issues/3) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+3. 🎉 Merged PR [#3](https://github.com/ngx-builders/ngx-pwa-offline/pull/3) in [ngx-builders/ngx-pwa-offline](https://github.com/ngx-builders/ngx-pwa-offline)
 4. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
-5. 🗣 Commented on [#3](https://github.com/santoshyadavdev/angular-async-local-storage/issues/3) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
+5. 🗣 Commented on [#2](https://github.com/santoshyadavdev/angular-async-local-storage/issues/2) in [santoshyadavdev/angular-async-local-storage](https://github.com/santoshyadavdev/angular-async-local-storage)
 <!--END_SECTION:activity-->
