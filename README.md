@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ngx-builders/angular-async-local-storage/pull/6) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
-2. 🗣 Commented on [#5](https://github.com/ngx-builders/angular-async-local-storage/issues/5) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+1. 🗣 Commented on [#2](https://github.com/ngx-builders/angular-async-local-storage/issues/2) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+2. 🎉 Merged PR [#6](https://github.com/ngx-builders/angular-async-local-storage/pull/6) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
 3. 🗣 Commented on [#5](https://github.com/ngx-builders/angular-async-local-storage/issues/5) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
-4. 🗣 Commented on [#4](https://github.com/ngx-builders/ngx-pwa-offline/issues/4) in [ngx-builders/ngx-pwa-offline](https://github.com/ngx-builders/ngx-pwa-offline)
-5. 🎉 Merged PR [#4](https://github.com/ngx-builders/angular-async-local-storage/pull/4) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+4. 🗣 Commented on [#5](https://github.com/ngx-builders/angular-async-local-storage/issues/5) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+5. 🗣 Commented on [#4](https://github.com/ngx-builders/ngx-pwa-offline/issues/4) in [ngx-builders/ngx-pwa-offline](https://github.com/ngx-builders/ngx-pwa-offline)
 <!--END_SECTION:activity-->
