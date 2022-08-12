@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3514](https://github.com/ngrx/platform/issues/3514) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🗣 Commented on [#3514](https://github.com/ngrx/platform/issues/3514) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 💪 Opened PR [#155](https://github.com/ngx-builders/netlify-builder/pull/155) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. 🗣 Commented on [#2](https://github.com/ngx-builders/angular-async-local-storage/issues/2) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
-5. 🎉 Merged PR [#6](https://github.com/ngx-builders/angular-async-local-storage/pull/6) in [ngx-builders/angular-async-local-storage](https://github.com/ngx-builders/angular-async-local-storage)
+1. ❗️ Closed issue [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
+2. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
+3. 🗣 Commented on [#3514](https://github.com/ngrx/platform/issues/3514) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 🗣 Commented on [#3514](https://github.com/ngrx/platform/issues/3514) in [ngrx/platform](https://github.com/ngrx/platform)
+5. 💪 Opened PR [#155](https://github.com/ngx-builders/netlify-builder/pull/155) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 <!--END_SECTION:activity-->
