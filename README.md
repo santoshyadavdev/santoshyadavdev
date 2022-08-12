@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-2. 💪 Opened PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-3. ❗️ Closed issue [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
-4. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
-5. 🗣 Commented on [#3514](https://github.com/ngrx/platform/issues/3514) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 💪 Opened PR [#11](https://github.com/brechtbilliet/brechtbilliet.github.io/pull/11) in [brechtbilliet/brechtbilliet.github.io](https://github.com/brechtbilliet/brechtbilliet.github.io)
+2. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+3. 💪 Opened PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+4. ❗️ Closed issue [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
+5. 🗣 Commented on [#476](https://github.com/matomo-org/tag-manager/issues/476) in [matomo-org/tag-manager](https://github.com/matomo-org/tag-manager)
 <!--END_SECTION:activity-->
