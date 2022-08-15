@@ -51,8 +51,8 @@
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 💪 Opened PR [#3530](https://github.com/ngrx/platform/pull/3530) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 💪 Opened PR [#11](https://github.com/brechtbilliet/brechtbilliet.github.io/pull/11) in [brechtbilliet/brechtbilliet.github.io](https://github.com/brechtbilliet/brechtbilliet.github.io)
-4. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 💪 Opened PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+2. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 💪 Opened PR [#3530](https://github.com/ngrx/platform/pull/3530) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 💪 Opened PR [#11](https://github.com/brechtbilliet/brechtbilliet.github.io/pull/11) in [brechtbilliet/brechtbilliet.github.io](https://github.com/brechtbilliet/brechtbilliet.github.io)
+5. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
 <!--END_SECTION:activity-->
