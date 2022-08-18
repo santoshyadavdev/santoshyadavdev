@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 🗣 Commented on [#98](https://github.com/typebytes/angular-checklist/issues/98) in [typebytes/angular-checklist](https://github.com/typebytes/angular-checklist)
 2. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 💪 Opened PR [#3530](https://github.com/ngrx/platform/pull/3530) in [ngrx/platform](https://github.com/ngrx/platform)
-4. 💪 Opened PR [#11](https://github.com/brechtbilliet/brechtbilliet.github.io/pull/11) in [brechtbilliet/brechtbilliet.github.io](https://github.com/brechtbilliet/brechtbilliet.github.io)
-5. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-website/pull/16) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+3. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 💪 Opened PR [#3530](https://github.com/ngrx/platform/pull/3530) in [ngrx/platform](https://github.com/ngrx/platform)
+5. 💪 Opened PR [#11](https://github.com/brechtbilliet/brechtbilliet.github.io/pull/11) in [brechtbilliet/brechtbilliet.github.io](https://github.com/brechtbilliet/brechtbilliet.github.io)
 <!--END_SECTION:activity-->
