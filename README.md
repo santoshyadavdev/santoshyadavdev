@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/uiuniversal/ngu-carousel/issues/379) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#378](https://github.com/uiuniversal/ngu-carousel/issues/378) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#98](https://github.com/typebytes/angular-checklist/issues/98) in [typebytes/angular-checklist](https://github.com/typebytes/angular-checklist)
-4. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 🗣 Commented on [#3530](https://github.com/ngrx/platform/issues/3530) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#379](https://github.com/uiuniversal/ngu-carousel/issues/379) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🗣 Commented on [#378](https://github.com/uiuniversal/ngu-carousel/issues/378) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#98](https://github.com/typebytes/angular-checklist/issues/98) in [typebytes/angular-checklist](https://github.com/typebytes/angular-checklist)
 5. 🗣 Commented on [#3529](https://github.com/ngrx/platform/issues/3529) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
