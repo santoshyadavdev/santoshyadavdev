@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3530](https://github.com/ngrx/platform/issues/3530) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🗣 Commented on [#3530](https://github.com/ngrx/platform/issues/3530) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 🗣 Commented on [#379](https://github.com/uiuniversal/ngu-carousel/issues/379) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#378](https://github.com/uiuniversal/ngu-carousel/issues/378) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#98](https://github.com/typebytes/angular-checklist/issues/98) in [typebytes/angular-checklist](https://github.com/typebytes/angular-checklist)
+1. 🗣 Commented on [#378](https://github.com/uiuniversal/ngu-carousel/issues/378) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🎉 Merged PR [#382](https://github.com/uiuniversal/ngu-carousel/pull/382) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#382](https://github.com/uiuniversal/ngu-carousel/pull/382) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. ❗️ Closed issue [#378](https://github.com/uiuniversal/ngu-carousel/issues/378) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🎉 Merged PR [#379](https://github.com/uiuniversal/ngu-carousel/pull/379) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
