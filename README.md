@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5554](https://github.com/typescript-eslint/typescript-eslint/issues/5554) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. 🗣 Commented on [#5579](https://github.com/typescript-eslint/typescript-eslint/issues/5579) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-3. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-4. 💪 Opened PR [#5595](https://github.com/typescript-eslint/typescript-eslint/pull/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-5. 💪 Opened PR [#3](https://github.com/jsjoeio/handle-origin-stories/pull/3) in [jsjoeio/handle-origin-stories](https://github.com/jsjoeio/handle-origin-stories)
+1. 🗣 Commented on [#5536](https://github.com/typescript-eslint/typescript-eslint/issues/5536) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+2. 🗣 Commented on [#5554](https://github.com/typescript-eslint/typescript-eslint/issues/5554) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+3. 🗣 Commented on [#5579](https://github.com/typescript-eslint/typescript-eslint/issues/5579) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+4. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+5. 💪 Opened PR [#5595](https://github.com/typescript-eslint/typescript-eslint/pull/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 <!--END_SECTION:activity-->
