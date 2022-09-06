@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-3. 💪 Opened PR [#5608](https://github.com/typescript-eslint/typescript-eslint/pull/5608) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-4. 🗣 Commented on [#9](https://github.com/JoshuaKGoldberg/refined-saved-replies/issues/9) in [JoshuaKGoldberg/refined-saved-replies](https://github.com/JoshuaKGoldberg/refined-saved-replies)
-5. 🗣 Commented on [#9](https://github.com/JoshuaKGoldberg/refined-saved-replies/issues/9) in [JoshuaKGoldberg/refined-saved-replies](https://github.com/JoshuaKGoldberg/refined-saved-replies)
+1. 🗣 Commented on [#46](https://github.com/ngx-builders/source-map-analyzer/issues/46) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+2. 🗣 Commented on [#391](https://github.com/uiuniversal/ngu-carousel/issues/391) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+4. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+5. 💪 Opened PR [#5608](https://github.com/typescript-eslint/typescript-eslint/pull/5608) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 <!--END_SECTION:activity-->
