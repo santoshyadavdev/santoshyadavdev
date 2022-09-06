@@ -51,8 +51,8 @@
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. 💪 Opened PR [#5608](https://github.com/typescript-eslint/typescript-eslint/pull/5608) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-3. 🗣 Commented on [#9](https://github.com/JoshuaKGoldberg/refined-saved-replies/issues/9) in [JoshuaKGoldberg/refined-saved-replies](https://github.com/JoshuaKGoldberg/refined-saved-replies)
+2. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+3. 💪 Opened PR [#5608](https://github.com/typescript-eslint/typescript-eslint/pull/5608) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 4. 🗣 Commented on [#9](https://github.com/JoshuaKGoldberg/refined-saved-replies/issues/9) in [JoshuaKGoldberg/refined-saved-replies](https://github.com/JoshuaKGoldberg/refined-saved-replies)
-5. 🗣 Commented on [#5536](https://github.com/typescript-eslint/typescript-eslint/issues/5536) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+5. 🗣 Commented on [#9](https://github.com/JoshuaKGoldberg/refined-saved-replies/issues/9) in [JoshuaKGoldberg/refined-saved-replies](https://github.com/JoshuaKGoldberg/refined-saved-replies)
 <!--END_SECTION:activity-->
