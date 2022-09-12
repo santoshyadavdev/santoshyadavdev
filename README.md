@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5616](https://github.com/typescript-eslint/typescript-eslint/issues/5616) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. 🗣 Commented on [#46](https://github.com/ngx-builders/source-map-analyzer/issues/46) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. 🗣 Commented on [#391](https://github.com/uiuniversal/ngu-carousel/issues/391) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+1. 🗣 Commented on [#5536](https://github.com/typescript-eslint/typescript-eslint/issues/5536) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+2. 🗣 Commented on [#5616](https://github.com/typescript-eslint/typescript-eslint/issues/5616) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+3. 🗣 Commented on [#46](https://github.com/ngx-builders/source-map-analyzer/issues/46) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. 🗣 Commented on [#391](https://github.com/uiuniversal/ngu-carousel/issues/391) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 5. 🗣 Commented on [#5595](https://github.com/typescript-eslint/typescript-eslint/issues/5595) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 <!--END_SECTION:activity-->
