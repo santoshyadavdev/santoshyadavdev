@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/26) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-2. 💪 Opened PR [#26](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/26) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
-3. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
-4. 🗣 Commented on [#5536](https://github.com/typescript-eslint/typescript-eslint/issues/5536) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-5. 🗣 Commented on [#5616](https://github.com/typescript-eslint/typescript-eslint/issues/5616) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+1. 🗣 Commented on [#6](https://github.com/this-is-angular/ngrx-essentials-course/issues/6) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
+2. 🗣 Commented on [#26](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/26) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+3. 💪 Opened PR [#26](https://github.com/this-is-learning/rxjs-fundamentals-course/pull/26) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+4. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
+5. 🗣 Commented on [#5536](https://github.com/typescript-eslint/typescript-eslint/issues/5536) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 <!--END_SECTION:activity-->
