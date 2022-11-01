@@ -51,8 +51,8 @@
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 💪 Opened PR [#393](https://github.com/uiuniversal/ngu-carousel/pull/393) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#47606](https://github.com/angular/angular/issues/47606) in [angular/angular](https://github.com/angular/angular)
-4. 🗣 Commented on [#6](https://github.com/this-is-angular/ngrx-essentials-course/issues/6) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
-5. 🗣 Commented on [#26](https://github.com/this-is-learning/rxjs-fundamentals-course/issues/26) in [this-is-learning/rxjs-fundamentals-course](https://github.com/this-is-learning/rxjs-fundamentals-course)
+2. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 💪 Opened PR [#393](https://github.com/uiuniversal/ngu-carousel/pull/393) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#47606](https://github.com/angular/angular/issues/47606) in [angular/angular](https://github.com/angular/angular)
+5. 🗣 Commented on [#6](https://github.com/this-is-angular/ngrx-essentials-course/issues/6) in [this-is-angular/ngrx-essentials-course](https://github.com/this-is-angular/ngrx-essentials-course)
 <!--END_SECTION:activity-->
