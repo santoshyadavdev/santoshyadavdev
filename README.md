@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
+1. 💪 Opened PR [#3647](https://github.com/ngrx/platform/pull/3647) in [ngrx/platform](https://github.com/ngrx/platform)
 2. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
 3. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
-4. 💪 Opened PR [#393](https://github.com/uiuniversal/ngu-carousel/pull/393) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#47606](https://github.com/angular/angular/issues/47606) in [angular/angular](https://github.com/angular/angular)
+4. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
+5. 💪 Opened PR [#393](https://github.com/uiuniversal/ngu-carousel/pull/393) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
