@@ -51,8 +51,8 @@
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3647](https://github.com/ngrx/platform/issues/3647) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 💪 Opened PR [#3647](https://github.com/ngrx/platform/pull/3647) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#3647](https://github.com/ngrx/platform/issues/3647) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 💪 Opened PR [#3647](https://github.com/ngrx/platform/pull/3647) in [ngrx/platform](https://github.com/ngrx/platform)
 4. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
 5. 🗣 Commented on [#3553](https://github.com/ngrx/platform/issues/3553) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
