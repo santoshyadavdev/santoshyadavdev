@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/robmoss/git-is-my-lab-book/pull/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
-2. 🎉 Merged PR [#392](https://github.com/uiuniversal/ngu-carousel/pull/392) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#3647](https://github.com/ngrx/platform/issues/3647) in [ngrx/platform](https://github.com/ngrx/platform)
-4. 🗣 Commented on [#3647](https://github.com/ngrx/platform/issues/3647) in [ngrx/platform](https://github.com/ngrx/platform)
+1. ❌ Closed PR [#36](https://github.com/robmoss/git-is-my-lab-book/pull/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
+2. 🗣 Commented on [#36](https://github.com/robmoss/git-is-my-lab-book/issues/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
+3. 💪 Opened PR [#36](https://github.com/robmoss/git-is-my-lab-book/pull/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
+4. 🎉 Merged PR [#392](https://github.com/uiuniversal/ngu-carousel/pull/392) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 5. 🗣 Commented on [#3647](https://github.com/ngrx/platform/issues/3647) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
