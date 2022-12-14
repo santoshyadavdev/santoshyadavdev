@@ -40,12 +40,12 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My year in review](https://dev.to/santoshyadav198613/my-year-in-review-341d)
 - [My Course on Angular Getting Started](https://dev.to/santoshyadav198613/my-course-on-angular-getting-started-3jec)
 - [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
 - [How GitHub is Improving Developer Experience](https://dev.to/this-is-learning/how-github-is-improving-developer-experience-8jj)
 - [Why and How we migrated to Nx from Angular CLI](https://dev.to/this-is-angular/why-and-how-we-migrated-to-nx-from-angular-cli-5a61)
 - [Moving to Germany](https://dev.to/santoshyadav198613/moving-to-germany-4no9)
-- [How I made workplace toxic](https://dev.to/this-is-learning/how-i-made-workplace-toxic-1ici)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
