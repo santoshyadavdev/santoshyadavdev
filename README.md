@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#399](https://github.com/uiuniversal/ngu-carousel/pull/399) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#399](https://github.com/uiuniversal/ngu-carousel/pull/399) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#398](https://github.com/uiuniversal/ngu-carousel/issues/398) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. ❌ Closed PR [#36](https://github.com/robmoss/git-is-my-lab-book/pull/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
-5. 🗣 Commented on [#36](https://github.com/robmoss/git-is-my-lab-book/issues/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
+1. 🎉 Merged PR [#398](https://github.com/uiuniversal/ngu-carousel/pull/398) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🎉 Merged PR [#399](https://github.com/uiuniversal/ngu-carousel/pull/399) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#399](https://github.com/uiuniversal/ngu-carousel/pull/399) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#398](https://github.com/uiuniversal/ngu-carousel/issues/398) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. ❌ Closed PR [#36](https://github.com/robmoss/git-is-my-lab-book/pull/36) in [robmoss/git-is-my-lab-book](https://github.com/robmoss/git-is-my-lab-book)
 <!--END_SECTION:activity-->
