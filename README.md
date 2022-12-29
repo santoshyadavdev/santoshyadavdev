@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#415](https://github.com/uiuniversal/ngu-carousel/pull/415) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#415](https://github.com/uiuniversal/ngu-carousel/pull/415) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#414](https://github.com/uiuniversal/ngu-carousel/pull/414) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 💪 Opened PR [#414](https://github.com/uiuniversal/ngu-carousel/pull/414) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🎉 Merged PR [#413](https://github.com/uiuniversal/ngu-carousel/pull/413) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. ❌ Closed PR [#3](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/3) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
+2. 💪 Opened PR [#3](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/3) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
+3. 🎉 Merged PR [#2](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/2) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
+4. 💪 Opened PR [#2](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/2) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
+5. 🎉 Merged PR [#1](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/1) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
 <!--END_SECTION:activity-->
