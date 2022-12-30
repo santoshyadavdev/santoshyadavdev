@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-2. 💪 Opened PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-3. ❌ Closed PR [#3](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/3) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
-4. 💪 Opened PR [#3](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/3) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
-5. 🎉 Merged PR [#2](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/2) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
+1. 💪 Opened PR [#2](https://github.com/santoshyadavdev/github-action-learning/pull/2) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
+2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/github-action-learning/pull/1) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
+3. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+4. 💪 Opened PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+5. ❌ Closed PR [#3](https://github.com/Courses-by-santosh/angular-nx-ngrx-course/pull/3) in [Courses-by-santosh/angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course)
 <!--END_SECTION:activity-->
