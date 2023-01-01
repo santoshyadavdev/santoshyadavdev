@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
-2. 💪 Opened PR [#2](https://github.com/santoshyadavdev/github-action-learning/pull/2) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
-3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/github-action-learning/pull/1) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
-4. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. 💪 Opened PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
+2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
+3. 💪 Opened PR [#2](https://github.com/santoshyadavdev/github-action-learning/pull/2) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
+4. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/github-action-learning/pull/1) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
+5. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/santoshyadavdev/pull/8) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 <!--END_SECTION:activity-->
