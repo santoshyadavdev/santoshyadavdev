@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/exercise-publish-package/pull/1) in [santoshyadavdev/exercise-publish-package](https://github.com/santoshyadavdev/exercise-publish-package)
-2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/exercise-publish-package/pull/1) in [santoshyadavdev/exercise-publish-package](https://github.com/santoshyadavdev/exercise-publish-package)
-3. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
-5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/github-action-learning/pull/2) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
+1. 💪 Opened PR [#48618](https://github.com/angular/angular/pull/48618) in [angular/angular](https://github.com/angular/angular)
+2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/exercise-publish-package/pull/1) in [santoshyadavdev/exercise-publish-package](https://github.com/santoshyadavdev/exercise-publish-package)
+3. 💪 Opened PR [#1](https://github.com/santoshyadavdev/exercise-publish-package/pull/1) in [santoshyadavdev/exercise-publish-package](https://github.com/santoshyadavdev/exercise-publish-package)
+4. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
+5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ci-action-exercise/pull/1) in [santoshyadavdev/ci-action-exercise](https://github.com/santoshyadavdev/ci-action-exercise)
 <!--END_SECTION:activity-->
