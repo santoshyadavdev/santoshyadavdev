@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/writing-javascript-actions/pull/3) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
-2. 💪 Opened PR [#3](https://github.com/santoshyadavdev/writing-javascript-actions/pull/3) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
-3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/writing-javascript-actions/pull/2) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
-4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/writing-javascript-actions/pull/2) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
-5. 💪 Opened PR [#48619](https://github.com/angular/angular/pull/48619) in [angular/angular](https://github.com/angular/angular)
+1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/github-action-learning/pull/2) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
+2. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/writing-javascript-actions/pull/3) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
+3. 💪 Opened PR [#3](https://github.com/santoshyadavdev/writing-javascript-actions/pull/3) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
+4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/writing-javascript-actions/pull/2) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
+5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/writing-javascript-actions/pull/2) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
 <!--END_SECTION:activity-->
