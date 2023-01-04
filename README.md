@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
-2. ❌ Closed PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-3. ❌ Closed PR [#36](https://github.com/appwrite/demo-todo-with-angular/pull/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
-4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/github-action-learning/pull/2) in [santoshyadavdev/github-action-learning](https://github.com/santoshyadavdev/github-action-learning)
-5. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/writing-javascript-actions/pull/3) in [santoshyadavdev/writing-javascript-actions](https://github.com/santoshyadavdev/writing-javascript-actions)
+1. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
+2. ❗️ Opened issue [#56](https://github.com/githubpartners/microsoft-learn/issues/56) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
+3. ❌ Closed PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
+4. ❌ Closed PR [#4383](https://github.com/cypress-io/cypress-documentation/pull/4383) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+5. ❌ Closed PR [#36](https://github.com/appwrite/demo-todo-with-angular/pull/36) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
 <!--END_SECTION:activity-->
