@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/ngworker/lumberjack/issues/142) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-2. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
-3. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
-4. ❗️ Opened issue [#56](https://github.com/githubpartners/microsoft-learn/issues/56) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
-5. ❌ Closed PR [#9657](https://github.com/auth0/docs/pull/9657) in [auth0/docs](https://github.com/auth0/docs)
+1. 🗣 Commented on [#140](https://github.com/ngworker/lumberjack/issues/140) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+2. 🗣 Commented on [#142](https://github.com/ngworker/lumberjack/issues/142) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+3. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
+4. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
+5. ❗️ Opened issue [#56](https://github.com/githubpartners/microsoft-learn/issues/56) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
 <!--END_SECTION:activity-->
