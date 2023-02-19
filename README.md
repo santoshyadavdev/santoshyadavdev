@@ -52,7 +52,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#140](https://github.com/ngworker/lumberjack/issues/140) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
 2. 🗣 Commented on [#140](https://github.com/ngworker/lumberjack/issues/140) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-3. 🗣 Commented on [#142](https://github.com/ngworker/lumberjack/issues/142) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
-4. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
-5. ❗️ Opened issue [#57](https://github.com/githubpartners/microsoft-learn/issues/57) in [githubpartners/microsoft-learn](https://github.com/githubpartners/microsoft-learn)
+3. 🗣 Commented on [#140](https://github.com/ngworker/lumberjack/issues/140) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+4. 🗣 Commented on [#142](https://github.com/ngworker/lumberjack/issues/142) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+5. 🗣 Commented on [#14109](https://github.com/nrwl/nx/issues/14109) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
