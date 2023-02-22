@@ -50,9 +50,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/santoshyadavdev/angular-snipptes/issues/1) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
-2. 🗣 Commented on [#1](https://github.com/santoshyadavdev/angular-snipptes/issues/1) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
-3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/angular-snipptes/pull/2) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
-4. ❗️ Opened issue [#1](https://github.com/santoshyadavdev/angular-snipptes/issues/1) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
-5. 🗣 Commented on [#140](https://github.com/ngworker/lumberjack/issues/140) in [ngworker/lumberjack](https://github.com/ngworker/lumberjack)
+1. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/angular-snipptes/pull/6) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
+2. 💪 Opened PR [#6](https://github.com/santoshyadavdev/angular-snipptes/pull/6) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
+3. ❗️ Opened issue [#5](https://github.com/santoshyadavdev/angular-snipptes/issues/5) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
+4. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/angular-snipptes/pull/4) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
+5. ❗️ Opened issue [#3](https://github.com/santoshyadavdev/angular-snipptes/issues/3) in [santoshyadavdev/angular-snipptes](https://github.com/santoshyadavdev/angular-snipptes)
 <!--END_SECTION:activity-->
