@@ -60,9 +60,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/santoshyadavdev/GitHubTips/issues/1) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
-2. ❗️ Opened issue [#1](https://github.com/santoshyadavdev/GitHubTips/issues/1) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
-3. ❗️ Opened issue [#27](https://github.com/santoshyadavdev/angular-snippets/issues/27) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
-4. ❗️ Closed issue [#25](https://github.com/santoshyadavdev/angular-snippets/issues/25) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
-5. 🎉 Merged PR [#26](https://github.com/santoshyadavdev/angular-snippets/pull/26) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+1. 🗣 Commented on [#28](https://github.com/santoshyadavdev/angular-snippets/issues/28) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+2. 🎉 Merged PR [#19](https://github.com/santoshyadavdev/angular-snippets/pull/19) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+3. 🗣 Commented on [#1](https://github.com/santoshyadavdev/GitHubTips/issues/1) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+4. ❗️ Opened issue [#1](https://github.com/santoshyadavdev/GitHubTips/issues/1) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+5. ❗️ Opened issue [#27](https://github.com/santoshyadavdev/angular-snippets/issues/27) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 <!--END_SECTION:activity-->
