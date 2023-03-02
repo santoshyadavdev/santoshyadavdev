@@ -37,10 +37,10 @@
 | Description          | Paid (Per/Month) | Received (Per/Month) | Balance |
 |----------------------|------------------|----------------------|---------|
 | Domains              | 12               |                      |         |
-| Sponsorship Paid     | 50               |                      |         |
+| Sponsorship Paid     | 45               |                      |         |
 | Sponsorship Received | 0                | 137                  |         |
 | Restream             | 16               |                      |         |
-| Total                | 68               | 137                  | 59      |
+| Total                | 73               | 137                  | 64      |
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
