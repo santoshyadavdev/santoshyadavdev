@@ -39,8 +39,8 @@
 | Domains              | 12               |                      |         |
 | Sponsorship Paid     | 45               |                      |         |
 | Sponsorship Received | 0                | 137                  |         |
-| Restream             | 16               |                      |         |
-| Total                | 73               | 137                  | 64      |
+| Restream             | 41               |                      |         |
+| Total                | 98               | 137                  | 39      |
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
