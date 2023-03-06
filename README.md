@@ -60,9 +60,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/GitHubTips/pull/15) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+1. 🎉 Merged PR [#16](https://github.com/santoshyadavdev/GitHubTips/pull/16) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
 2. 🗣 Commented on [#8](https://github.com/santoshyadavdev/GitHubTips/issues/8) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
-3. 🗣 Commented on [#8](https://github.com/santoshyadavdev/GitHubTips/issues/8) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
-4. 🗣 Commented on [#1](https://github.com/santoshyadavdev/GitHubTips/issues/1) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
-5. ❗️ Closed issue [#6](https://github.com/santoshyadavdev/GitHubTips/issues/6) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+3. 🎉 Merged PR [#14](https://github.com/santoshyadavdev/GitHubTips/pull/14) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+4. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/GitHubTips/pull/15) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+5. 🗣 Commented on [#8](https://github.com/santoshyadavdev/GitHubTips/issues/8) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
 <!--END_SECTION:activity-->
