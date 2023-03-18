@@ -41,6 +41,10 @@
 
 [![Out of the slums and into open source](https://images.ctfassets.net/s5uo95nf6njh/2GWKJkEH95SEwMoqxEBRoX/3413d6d4c8f05070b9d9c549075b537c/Santosh_Yadav_07.01.2023_001_1.jpg?w=1200&fm=avif)](https://github.com/readme/stories/santosh-yadav)
 
+# My Story on Google 
+
+[![Creating a better life with Santosh Yadav](http://img.youtube.com/vi/RpSdB7BTp_U/0.jpg)](https://youtu.be/RpSdB7BTp_U)
+
 # My Free Angular Course on freeCodeCamp
 
 [![Angular for Beginners Course](http://img.youtube.com/vi/3qBXWUpoPHo/0.jpg)](http://www.youtube.com/watch?v=3qBXWUpoPHo)
