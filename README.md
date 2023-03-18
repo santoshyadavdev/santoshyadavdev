@@ -37,6 +37,10 @@
 
 </p>
 
+# My Story on GitHub ReadME Project
+
+[![Out of the slums and into open source](https://images.ctfassets.net/s5uo95nf6njh/2GWKJkEH95SEwMoqxEBRoX/3413d6d4c8f05070b9d9c549075b537c/Santosh_Yadav_07.01.2023_001_1.jpg?w=1200&fm=avif)](https://github.com/readme/stories/santosh-yadav)
+
 # My Free Angular Course on freeCodeCamp
 
 [![Angular for Beginners Course](http://img.youtube.com/vi/3qBXWUpoPHo/0.jpg)](http://www.youtube.com/watch?v=3qBXWUpoPHo)
@@ -49,7 +53,7 @@
 | Sponsorship Paid     | 50               |                      |         |
 | Sponsorship Received | 0                | 137                  |         |
 | Restream             | 41               |                      |         |
-| Total                | 103               | 137                  | 34      |
+| Total                | 103              | 137                  | 34      |
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
