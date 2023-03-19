@@ -79,9 +79,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/estruyf/screendown/pull/5) in [estruyf/screendown](https://github.com/estruyf/screendown)
-2. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-snippets/pull/47) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
-3. 🗣 Commented on [#46](https://github.com/santoshyadavdev/angular-snippets/issues/46) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
-4. 🎉 Merged PR [#45](https://github.com/santoshyadavdev/angular-snippets/pull/45) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
-5. 🗣 Commented on [#45](https://github.com/santoshyadavdev/angular-snippets/issues/45) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+1. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+2. 🗣 Commented on [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. 💪 Opened PR [#5](https://github.com/estruyf/screendown/pull/5) in [estruyf/screendown](https://github.com/estruyf/screendown)
+4. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-snippets/pull/47) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+5. 🗣 Commented on [#46](https://github.com/santoshyadavdev/angular-snippets/issues/46) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 <!--END_SECTION:activity-->
