@@ -79,9 +79,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-2. 🗣 Commented on [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-3. 💪 Opened PR [#5](https://github.com/estruyf/screendown/pull/5) in [estruyf/screendown](https://github.com/estruyf/screendown)
-4. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-snippets/pull/47) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
-5. 🗣 Commented on [#46](https://github.com/santoshyadavdev/angular-snippets/issues/46) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+1. ❗️ Opened issue [#15790](https://github.com/nrwl/nx/issues/15790) in [nrwl/nx](https://github.com/nrwl/nx)
+2. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. 🗣 Commented on [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+4. 💪 Opened PR [#5](https://github.com/estruyf/screendown/pull/5) in [estruyf/screendown](https://github.com/estruyf/screendown)
+5. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-snippets/pull/47) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 <!--END_SECTION:activity-->
