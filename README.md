@@ -79,9 +79,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#351](https://github.com/angular-slider/ngx-slider/issues/351) in [angular-slider/ngx-slider](https://github.com/angular-slider/ngx-slider)
-2. ❗️ Opened issue [#15790](https://github.com/nrwl/nx/issues/15790) in [nrwl/nx](https://github.com/nrwl/nx)
-3. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-4. 🗣 Commented on [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. 💪 Opened PR [#5](https://github.com/estruyf/screendown/pull/5) in [estruyf/screendown](https://github.com/estruyf/screendown)
+1. 🗣 Commented on [#15790](https://github.com/nrwl/nx/issues/15790) in [nrwl/nx](https://github.com/nrwl/nx)
+2. ❗️ Opened issue [#351](https://github.com/angular-slider/ngx-slider/issues/351) in [angular-slider/ngx-slider](https://github.com/angular-slider/ngx-slider)
+3. ❗️ Opened issue [#15790](https://github.com/nrwl/nx/issues/15790) in [nrwl/nx](https://github.com/nrwl/nx)
+4. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+5. 🗣 Commented on [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 <!--END_SECTION:activity-->
