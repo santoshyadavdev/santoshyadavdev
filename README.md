@@ -79,9 +79,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/angular-slider/ngx-slider/issues/351) in [angular-slider/ngx-slider](https://github.com/angular-slider/ngx-slider)
-2. 🗣 Commented on [#15790](https://github.com/nrwl/nx/issues/15790) in [nrwl/nx](https://github.com/nrwl/nx)
-3. ❗️ Opened issue [#351](https://github.com/angular-slider/ngx-slider/issues/351) in [angular-slider/ngx-slider](https://github.com/angular-slider/ngx-slider)
-4. ❗️ Opened issue [#15790](https://github.com/nrwl/nx/issues/15790) in [nrwl/nx](https://github.com/nrwl/nx)
-5. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+1. 🎉 Merged PR [#423](https://github.com/uiuniversal/ngu-carousel/pull/423) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 💪 Opened PR [#423](https://github.com/uiuniversal/ngu-carousel/pull/423) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🎉 Merged PR [#422](https://github.com/uiuniversal/ngu-carousel/pull/422) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#418](https://github.com/uiuniversal/ngu-carousel/issues/418) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#418](https://github.com/uiuniversal/ngu-carousel/issues/418) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
