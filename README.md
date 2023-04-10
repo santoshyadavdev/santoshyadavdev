@@ -79,9 +79,9 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#428](https://github.com/uiuniversal/ngu-carousel/pull/428) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#428](https://github.com/uiuniversal/ngu-carousel/pull/428) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#427](https://github.com/uiuniversal/ngu-carousel/pull/427) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#426](https://github.com/uiuniversal/ngu-carousel/pull/426) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 💪 Opened PR [#426](https://github.com/uiuniversal/ngu-carousel/pull/426) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#429](https://github.com/uiuniversal/ngu-carousel/pull/429) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#429](https://github.com/uiuniversal/ngu-carousel/issues/429) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🎉 Merged PR [#430](https://github.com/uiuniversal/ngu-carousel/pull/430) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 💪 Opened PR [#430](https://github.com/uiuniversal/ngu-carousel/pull/430) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🎉 Merged PR [#428](https://github.com/uiuniversal/ngu-carousel/pull/428) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
