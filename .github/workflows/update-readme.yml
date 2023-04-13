@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: checkput main branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: update readme
         uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -21,8 +21,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "8"
-          feed_list: "https://dev.to/feed/santoshyadavdev"    
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UChvYTafHRgXKb0VbYGeG0nw
-          max_videos: 8
+          feed_list: "https://dev.to/feed/santoshyadavdev"
