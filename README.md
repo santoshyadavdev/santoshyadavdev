@@ -85,3 +85,7 @@
 4. ❌ Closed PR [#406](https://github.com/uiuniversal/ngu-carousel/pull/406) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 5. ❌ Closed PR [#402](https://github.com/uiuniversal/ngu-carousel/pull/402) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
+
+# Recent Youtube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->

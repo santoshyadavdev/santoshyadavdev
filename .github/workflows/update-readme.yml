@@ -21,6 +21,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "8"
-          feed_list: "https://dev.to/feed/santoshyadavdev"
-          
-    
+          feed_list: "https://dev.to/feed/santoshyadavdev"    
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UChvYTafHRgXKb0VbYGeG0nw
+          max_videos: 8
