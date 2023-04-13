@@ -1,4 +1,4 @@
-name: Update README
+name: Update README with YT data
 
 on:
   schedule:
@@ -17,4 +17,4 @@ jobs:
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UChvYTafHRgXKb0VbYGeG0nw
-          max_videos: 8
+          max_videos: 9
