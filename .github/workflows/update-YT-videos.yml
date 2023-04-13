@@ -11,8 +11,10 @@ jobs:
     name: Update this repo's README with recent YT activity
 
     steps:
+      - name: checkput main branch
+        uses: actions/checkout@v3
       - name: Update this repo's README with recent YT activity
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UChvYTafHRgXKb0VbYGeG0nw
           max_videos: 8
