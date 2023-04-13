@@ -20,7 +20,7 @@ jobs:
       - name: update blogs
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "6"
+          max_post_count: "8"
           feed_list: "https://dev.to/feed/santoshyadavdev"
           
     
