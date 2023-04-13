@@ -21,6 +21,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "6"
-          feed_list: "https://dev.to/feed/santoshyadav198613"
+          feed_list: "https://dev.to/feed/santoshyadavdev"
           
     
