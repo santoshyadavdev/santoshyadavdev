@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#418](https://github.com/uiuniversal/ngu-carousel/pull/418) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. ❌ Closed PR [#417](https://github.com/uiuniversal/ngu-carousel/pull/417) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. ❌ Closed PR [#411](https://github.com/uiuniversal/ngu-carousel/pull/411) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. ❌ Closed PR [#406](https://github.com/uiuniversal/ngu-carousel/pull/406) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. ❌ Closed PR [#402](https://github.com/uiuniversal/ngu-carousel/pull/402) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#435](https://github.com/uiuniversal/ngu-carousel/pull/435) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 💪 Opened PR [#435](https://github.com/uiuniversal/ngu-carousel/pull/435) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🎉 Merged PR [#431](https://github.com/uiuniversal/ngu-carousel/pull/431) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. ❌ Closed PR [#418](https://github.com/uiuniversal/ngu-carousel/pull/418) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. ❌ Closed PR [#417](https://github.com/uiuniversal/ngu-carousel/pull/417) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
