@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#437](https://github.com/uiuniversal/ngu-carousel/issues/437) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#435](https://github.com/uiuniversal/ngu-carousel/pull/435) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 💪 Opened PR [#435](https://github.com/uiuniversal/ngu-carousel/pull/435) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#431](https://github.com/uiuniversal/ngu-carousel/pull/431) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. ❌ Closed PR [#418](https://github.com/uiuniversal/ngu-carousel/pull/418) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#439](https://github.com/uiuniversal/ngu-carousel/pull/439) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. ❌ Closed PR [#159](https://github.com/ngx-builders/netlify-builder/pull/159) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+3. ❌ Closed PR [#158](https://github.com/ngx-builders/netlify-builder/pull/158) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+4. ❌ Closed PR [#157](https://github.com/ngx-builders/netlify-builder/pull/157) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. ❌ Closed PR [#156](https://github.com/ngx-builders/netlify-builder/pull/156) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
