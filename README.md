@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#439](https://github.com/uiuniversal/ngu-carousel/pull/439) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. ❌ Closed PR [#159](https://github.com/ngx-builders/netlify-builder/pull/159) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-3. ❌ Closed PR [#158](https://github.com/ngx-builders/netlify-builder/pull/158) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. ❌ Closed PR [#157](https://github.com/ngx-builders/netlify-builder/pull/157) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-5. ❌ Closed PR [#156](https://github.com/ngx-builders/netlify-builder/pull/156) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+1. 🎉 Merged PR [#440](https://github.com/uiuniversal/ngu-carousel/pull/440) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#103](https://github.com/ngx-builders/source-map-analyzer/issues/103) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+3. ❗️ Opened issue [#103](https://github.com/ngx-builders/source-map-analyzer/issues/103) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+4. ❌ Closed PR [#102](https://github.com/ngx-builders/source-map-analyzer/pull/102) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
+5. ❌ Closed PR [#101](https://github.com/ngx-builders/source-map-analyzer/pull/101) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
