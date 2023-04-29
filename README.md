@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#314](https://github.com/uiuniversal/ngu-carousel/issues/314) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. ❗️ Closed issue [#317](https://github.com/uiuniversal/ngu-carousel/issues/317) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. ❗️ Closed issue [#445](https://github.com/uiuniversal/ngu-carousel/issues/445) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#445](https://github.com/uiuniversal/ngu-carousel/issues/445) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#405](https://github.com/uiuniversal/ngu-carousel/issues/405) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🗣 Commented on [#34](https://github.com/angular-extensions/svg-icons-builder/issues/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
+2. 💪 Opened PR [#34](https://github.com/angular-extensions/svg-icons-builder/pull/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
+3. ❗️ Closed issue [#314](https://github.com/uiuniversal/ngu-carousel/issues/314) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. ❗️ Closed issue [#317](https://github.com/uiuniversal/ngu-carousel/issues/317) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. ❗️ Closed issue [#445](https://github.com/uiuniversal/ngu-carousel/issues/445) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
