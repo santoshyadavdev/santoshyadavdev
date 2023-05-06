@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/estruyf/vscode-front-matter/pull/581) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
-2. 🗣 Commented on [#34](https://github.com/angular-extensions/svg-icons-builder/issues/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
-3. 💪 Opened PR [#34](https://github.com/angular-extensions/svg-icons-builder/pull/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
-4. ❗️ Closed issue [#314](https://github.com/uiuniversal/ngu-carousel/issues/314) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. ❗️ Closed issue [#317](https://github.com/uiuniversal/ngu-carousel/issues/317) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🗣 Commented on [#449](https://github.com/uiuniversal/ngu-carousel/issues/449) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 💪 Opened PR [#448](https://github.com/uiuniversal/ngu-carousel/pull/448) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#447](https://github.com/uiuniversal/ngu-carousel/pull/447) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 💪 Opened PR [#581](https://github.com/estruyf/vscode-front-matter/pull/581) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
+5. 🗣 Commented on [#34](https://github.com/angular-extensions/svg-icons-builder/issues/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
