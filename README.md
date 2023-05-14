@@ -90,6 +90,7 @@
 
 # Recent Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Let's explore angular-grid-layout with Llorenç](https://ytcards.demolab.com/?id=FUiuWwLClpY&title=Let%27s+explore+angular-grid-layout+with+Lloren%C3%A7&lang=en&timestamp=1681892747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Let's explore angular-grid-layout with Llorenç")](https://www.youtube.com/watch?v=FUiuWwLClpY)
 [![Discussing and Live Coding using Storefront UI 2.0 With Sergii](https://ytcards.demolab.com/?id=MzigbDGN57Q&title=Discussing+and+Live+Coding+using+Storefront+UI+2.0+With+Sergii&lang=en&timestamp=1680774519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Discussing and Live Coding using Storefront UI 2.0 With Sergii")](https://www.youtube.com/watch?v=MzigbDGN57Q)
 [![Lets Go through Angular Signals RFC](https://ytcards.demolab.com/?id=Qea5siYHR1E&title=Lets+Go+through+Angular+Signals+RFC&lang=en&timestamp=1680684486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Lets Go through Angular Signals RFC")](https://www.youtube.com/watch?v=Qea5siYHR1E)
 [![RedwoodJS with Anthony](https://ytcards.demolab.com/?id=xMtEEL9xSas&title=RedwoodJS+with+Anthony&lang=en&timestamp=1679134422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "RedwoodJS with Anthony")](https://www.youtube.com/watch?v=xMtEEL9xSas)
@@ -98,5 +99,4 @@
 [![Open Source and Chat](https://ytcards.demolab.com/?id=UcienbLi9N8&title=Open+Source+and+Chat&lang=en&timestamp=1677494475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Open Source and Chat")](https://www.youtube.com/watch?v=UcienbLi9N8)
 [![Live Coding SolidJS with Dan](https://ytcards.demolab.com/?id=rEFfDoxe2qg&title=Live+Coding+SolidJS+with+Dan&lang=en&timestamp=1677148343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Live Coding SolidJS with Dan")](https://www.youtube.com/watch?v=rEFfDoxe2qg)
 [![GitHub Stars Onboarding Swag Unboxing](https://ytcards.demolab.com/?id=tEDm5lPeqQU&title=GitHub+Stars+Onboarding+Swag+Unboxing&lang=en&timestamp=1676407612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "GitHub Stars Onboarding Swag Unboxing")](https://www.youtube.com/watch?v=tEDm5lPeqQU)
-[![What is Astro?](https://ytcards.demolab.com/?id=Z3yGHudmQzA&title=What+is+Astro%3F&lang=en&timestamp=1675406183&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "What is Astro?")](https://www.youtube.com/watch?v=Z3yGHudmQzA)
 <!-- END YOUTUBE-CARDS -->
