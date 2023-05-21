@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/uiuniversal/ngu-carousel/issues/453) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#446](https://github.com/uiuniversal/ngu-carousel/issues/446) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. ❗️ Closed issue [#449](https://github.com/uiuniversal/ngu-carousel/issues/449) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#450](https://github.com/uiuniversal/ngu-carousel/pull/450) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#452](https://github.com/uiuniversal/ngu-carousel/issues/452) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/conference-demo/pull/3) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
+2. 💪 Opened PR [#3](https://github.com/santoshyadavdev/conference-demo/pull/3) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
+3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/conference-demo/pull/2) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
+4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/conference-demo/pull/2) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
+5. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/conference-demo/pull/1) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
