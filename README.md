@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/ngx-builders/source-map-analyzer/issues/108) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-2. 🗣 Commented on [#108](https://github.com/ngx-builders/source-map-analyzer/issues/108) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-3. 🗣 Commented on [#108](https://github.com/ngx-builders/source-map-analyzer/issues/108) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-4. 💪 Opened PR [#5](https://github.com/santoshyadavdev/conference-demo/pull/5) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
-5. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/conference-demo/pull/4) in [santoshyadavdev/conference-demo](https://github.com/santoshyadavdev/conference-demo)
+1. 🗣 Commented on [#446](https://github.com/uiuniversal/ngu-carousel/issues/446) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#454](https://github.com/uiuniversal/ngu-carousel/issues/454) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🗣 Commented on [#451](https://github.com/uiuniversal/ngu-carousel/issues/451) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#451](https://github.com/uiuniversal/ngu-carousel/issues/451) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#455](https://github.com/uiuniversal/ngu-carousel/issues/455) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
