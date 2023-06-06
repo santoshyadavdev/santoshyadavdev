@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#459](https://github.com/uiuniversal/ngu-carousel/pull/459) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#458](https://github.com/uiuniversal/ngu-carousel/issues/458) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#189](https://github.com/ngx-builders/angular-builder/pull/189) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
+2. 🎉 Merged PR [#459](https://github.com/uiuniversal/ngu-carousel/pull/459) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 3. 🗣 Commented on [#458](https://github.com/uiuniversal/ngu-carousel/issues/458) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#458](https://github.com/uiuniversal/ngu-carousel/pull/458) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#458](https://github.com/uiuniversal/ngu-carousel/issues/458) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#458](https://github.com/uiuniversal/ngu-carousel/issues/458) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🎉 Merged PR [#458](https://github.com/uiuniversal/ngu-carousel/pull/458) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
