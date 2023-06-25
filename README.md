@@ -65,7 +65,7 @@
 
 ![Santosh Yadav Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshYadavDev&layout=compact&theme=radical)
 
-[![Santosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
