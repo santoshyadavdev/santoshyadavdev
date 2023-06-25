@@ -69,6 +69,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Contribute to Open Source:A Comprehensive Guide for Everyone](https://www.santoshyadav.dev/blog/contribute-open-source-comprehensive-guide/)
 - [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
 - [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
 - [My year in review](https://dev.to/this-is-learning/my-year-in-review-341d)
