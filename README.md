@@ -82,11 +82,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/ngx-builders/source-map-analyzer/pull/110) in [ngx-builders/source-map-analyzer](https://github.com/ngx-builders/source-map-analyzer)
-2. 💪 Opened PR [#462](https://github.com/uiuniversal/ngu-carousel/pull/462) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 💪 Opened PR [#166](https://github.com/ngx-builders/netlify-builder/pull/166) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-4. 🎉 Merged PR [#17](https://github.com/this-is-learning/this-is-learning-website/pull/17) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
-5. 🗣 Commented on [#17](https://github.com/this-is-learning/this-is-learning-website/issues/17) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+1. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/portfolio/pull/5) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#5](https://github.com/santoshyadavdev/portfolio/pull/5) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/portfolio/pull/4) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#4](https://github.com/santoshyadavdev/portfolio/pull/4) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/portfolio/pull/3) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
