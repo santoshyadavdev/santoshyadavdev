@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/portfolio/pull/7) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#7](https://github.com/santoshyadavdev/portfolio/pull/7) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/portfolio/pull/6) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#6](https://github.com/santoshyadavdev/portfolio/pull/6) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🗣 Commented on [#1](https://github.com/Courses-by-santosh/e-commerceApp/issues/1) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
+1. 🎉 Merged PR [#1](https://github.com/Courses-by-santosh/e-commerceApp/pull/1) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
+2. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/portfolio/pull/7) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/portfolio/pull/7) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/portfolio/pull/6) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 💪 Opened PR [#6](https://github.com/santoshyadavdev/portfolio/pull/6) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
