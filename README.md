@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#463](https://github.com/uiuniversal/ngu-carousel/issues/463) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🗣 Commented on [#2](https://github.com/Courses-by-santosh/e-commerceApp/issues/2) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
-3. 🎉 Merged PR [#2](https://github.com/Courses-by-santosh/e-commerceApp/pull/2) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
-4. 🎉 Merged PR [#1](https://github.com/Courses-by-santosh/e-commerceApp/pull/1) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
-5. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/portfolio/pull/7) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 💪 Opened PR [#3](https://github.com/Courses-by-santosh/e-commerceApp/pull/3) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
+2. 🗣 Commented on [#463](https://github.com/uiuniversal/ngu-carousel/issues/463) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🗣 Commented on [#2](https://github.com/Courses-by-santosh/e-commerceApp/issues/2) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
+4. 🎉 Merged PR [#2](https://github.com/Courses-by-santosh/e-commerceApp/pull/2) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
+5. 🎉 Merged PR [#1](https://github.com/Courses-by-santosh/e-commerceApp/pull/1) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
