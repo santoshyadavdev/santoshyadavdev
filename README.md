@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#455](https://github.com/uiuniversal/ngu-carousel/pull/455#issuecomment-1634928258) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/portfolio/pull/8) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🗣 Commented on [#8](https://github.com/santoshyadavdev/portfolio/pull/8#issuecomment-1634651820) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#3](https://github.com/Courses-by-santosh/e-commerceApp/pull/3) in [Courses-by-santosh/e-commerceApp](https://github.com/Courses-by-santosh/e-commerceApp)
-5. 🗣 Commented on [#463](https://github.com/uiuniversal/ngu-carousel/pull/463#issuecomment-1622574957) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🗣 Commented on [#455](https://github.com/uiuniversal/ngu-carousel/pull/455#issuecomment-1636981539) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#464](https://github.com/uiuniversal/ngu-carousel/issues/464#issuecomment-1636977025) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#468](https://github.com/uiuniversal/ngu-carousel/pull/468) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#464](https://github.com/uiuniversal/ngu-carousel/issues/464#issuecomment-1636974836) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🔒 Closed issue [#465](https://github.com/uiuniversal/ngu-carousel/issues/465) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
