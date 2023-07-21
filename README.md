@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/uiuniversal/ngu-carousel/issues/453#issuecomment-1641840808) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#470](https://github.com/uiuniversal/ngu-carousel/pull/470) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#455](https://github.com/uiuniversal/ngu-carousel/pull/455#issuecomment-1641785836) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#455](https://github.com/uiuniversal/ngu-carousel/pull/455#issuecomment-1641778778) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#455](https://github.com/uiuniversal/ngu-carousel/pull/455#issuecomment-1640134312) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#468](https://github.com/uiuniversal/ngu-carousel/pull/468) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#453](https://github.com/uiuniversal/ngu-carousel/issues/453#issuecomment-1643855999) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🚀 Published release [Fix breaking change with OnPush](https://github.com/uiuniversal/ngu-carousel/releases/tag/v7.2.1) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#453](https://github.com/uiuniversal/ngu-carousel/issues/453#issuecomment-1643847766) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#453](https://github.com/uiuniversal/ngu-carousel/issues/453#issuecomment-1641840808) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
