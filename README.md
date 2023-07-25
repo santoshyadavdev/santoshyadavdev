@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#492](https://github.com/analogjs/analog/issues/492#issuecomment-1646976335) in [analogjs/analog](https://github.com/analogjs/analog)
-2. 🚀 Published release [v8.0.0](https://github.com/uiuniversal/ngu-carousel/releases/tag/v8.0.0) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🔒 Closed issue [#390](https://github.com/uiuniversal/ngu-carousel/issues/390) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#471](https://github.com/uiuniversal/ngu-carousel/pull/471) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 💪 Opened PR [#471](https://github.com/uiuniversal/ngu-carousel/pull/471) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#49](https://github.com/santoshyadavdev/angular-snippets/pull/49) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+2. 🗣 Commented on [#48](https://github.com/santoshyadavdev/angular-snippets/pull/48#issuecomment-1648685542) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+3. 🎉 Merged PR [#472](https://github.com/uiuniversal/ngu-carousel/pull/472) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#469](https://github.com/uiuniversal/ngu-carousel/pull/469#issuecomment-1648620545) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#391](https://github.com/uiuniversal/ngu-carousel/pull/391#issuecomment-1648618886) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
