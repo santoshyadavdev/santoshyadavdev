@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/hotelapi/pull/2) in [santoshyadavdev/hotelapi](https://github.com/santoshyadavdev/hotelapi)
-2. 🗣 Commented on [#2](https://github.com/santoshyadavdev/hotelapi/pull/2#issuecomment-1682597915) in [santoshyadavdev/hotelapi](https://github.com/santoshyadavdev/hotelapi)
-3. 💪 Opened PR [#473](https://github.com/uiuniversal/ngu-carousel/pull/473) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#7887](https://github.com/NG-ZORRO/ng-zorro-antd/issues/7887#issuecomment-1673978725) in [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-5. 🗣 Commented on [#48](https://github.com/santoshyadavdev/angular-snippets/pull/48#issuecomment-1666618057) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+1. 🔒 Closed issue [#51](https://github.com/santoshyadavdev/angular-snippets/issues/51) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+2. 🎉 Merged PR [#52](https://github.com/santoshyadavdev/angular-snippets/pull/52) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+3. 🗣 Commented on [#52](https://github.com/santoshyadavdev/angular-snippets/pull/52#issuecomment-1684341736) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
+4. 🗣 Commented on [#25694](https://github.com/angular/angular-cli/pull/25694#issuecomment-1684091346) in [angular/angular-cli](https://github.com/angular/angular-cli)
+5. 🗣 Commented on [#25694](https://github.com/angular/angular-cli/pull/25694#issuecomment-1683960000) in [angular/angular-cli](https://github.com/angular/angular-cli)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
