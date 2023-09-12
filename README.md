@@ -69,6 +69,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Never forget where you come from](https://dev.to/this-is-learning/never-forget-where-you-come-from-5el1)
 - [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
 - [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
 - [My year in review](https://dev.to/this-is-learning/my-year-in-review-341d)
@@ -76,7 +77,6 @@
 - [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
 - [How GitHub is Improving Developer Experience](https://dev.to/this-is-learning/how-github-is-improving-developer-experience-8jj)
 - [Why and How we migrated to Nx from Angular CLI](https://dev.to/this-is-angular/why-and-how-we-migrated-to-nx-from-angular-cli-5a61)
-- [Moving to Germany](https://dev.to/santoshyadavdev/moving-to-germany-4no9)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
