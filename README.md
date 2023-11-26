@@ -56,10 +56,10 @@
 | Description          | Paid (Per/Month) | Received (Per/Month) | Balance |
 |----------------------|------------------|----------------------|---------|
 | Domains              | 12               |                      |         |
-| Sponsorship Paid     | 83               |                      |         |
-| Sponsorship Received | 0                | 147                  |         |
+| Sponsorship Paid     | 145              |                      |         |
+| Sponsorship Received | 0                | 200                  |         |
 | StreamYard           | 20               |                      |         |
-| Total                | 115              | 147                  | 32      |
+| Total                | 177              | 200                  | 23      |
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
