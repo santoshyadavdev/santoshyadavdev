@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Angular 17 support](https://github.com/uiuniversal/ngu-carousel/releases/tag/v9.0.0) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#480](https://github.com/uiuniversal/ngu-carousel/pull/480) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#473](https://github.com/uiuniversal/ngu-carousel/pull/473#issuecomment-1826878397) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🎉 Merged PR [#479](https://github.com/uiuniversal/ngu-carousel/pull/479) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#473](https://github.com/uiuniversal/ngu-carousel/pull/473#issuecomment-1826877318) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#25](https://github.com/santoshyadavdev/portfolio/pull/25) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#25](https://github.com/santoshyadavdev/portfolio/pull/25) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🗣 Commented on [#770](https://github.com/analogjs/analog/issues/770#issuecomment-1834087950) in [analogjs/analog](https://github.com/analogjs/analog)
+4. 💪 Opened PR [#169](https://github.com/ngx-builders/netlify-builder/pull/169) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
+5. 🚀 Published release [Angular 17 support](https://github.com/uiuniversal/ngu-carousel/releases/tag/v9.0.0) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
