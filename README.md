@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/santoshyadavdev/portfolio/pull/25) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#25](https://github.com/santoshyadavdev/portfolio/pull/25) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🗣 Commented on [#770](https://github.com/analogjs/analog/issues/770#issuecomment-1834087950) in [analogjs/analog](https://github.com/analogjs/analog)
-4. 💪 Opened PR [#169](https://github.com/ngx-builders/netlify-builder/pull/169) in [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder)
-5. 🚀 Published release [Angular 17 support](https://github.com/uiuniversal/ngu-carousel/releases/tag/v9.0.0) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🗣 Commented on [#38](https://github.com/santoshyadavdev/ng-bank/pull/38#issuecomment-1837621992) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+2. 🎉 Merged PR [#7](https://github.com/ngx-builders/ngx-pwa-offline/pull/7) in [ngx-builders/ngx-pwa-offline](https://github.com/ngx-builders/ngx-pwa-offline)
+3. 🔒 Closed issue [#451](https://github.com/uiuniversal/ngu-carousel/issues/451) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#668](https://github.com/analogjs/analog/issues/668#issuecomment-1837613202) in [analogjs/analog](https://github.com/analogjs/analog)
+5. 💪 Opened PR [#775](https://github.com/analogjs/analog/pull/775) in [analogjs/analog](https://github.com/analogjs/analog)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
