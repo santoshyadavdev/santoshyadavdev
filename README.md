@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#451](https://github.com/analogjs/analog/issues/451#issuecomment-1839410192) in [analogjs/analog](https://github.com/analogjs/analog)
-2. 🗣 Commented on [#25571](https://github.com/angular/angular-cli/issues/25571#issuecomment-1839396204) in [angular/angular-cli](https://github.com/angular/angular-cli)
-3. 🗣 Commented on [#53112](https://github.com/angular/angular/issues/53112#issuecomment-1839392521) in [angular/angular](https://github.com/angular/angular)
-4. 🗣 Commented on [#775](https://github.com/analogjs/analog/pull/775#issuecomment-1839384546) in [analogjs/analog](https://github.com/analogjs/analog)
-5. 🗣 Commented on [#775](https://github.com/analogjs/analog/pull/775#issuecomment-1839376089) in [analogjs/analog](https://github.com/analogjs/analog)
+1. 💪 Opened PR [#53375](https://github.com/angular/angular/pull/53375) in [angular/angular](https://github.com/angular/angular)
+2. 🗣 Commented on [#53147](https://github.com/angular/angular/issues/53147#issuecomment-1841705609) in [angular/angular](https://github.com/angular/angular)
+3. 🗣 Commented on [#53373](https://github.com/angular/angular/issues/53373#issuecomment-1841693892) in [angular/angular](https://github.com/angular/angular)
+4. 🗣 Commented on [#53373](https://github.com/angular/angular/issues/53373#issuecomment-1841689754) in [angular/angular](https://github.com/angular/angular)
+5. 🗣 Commented on [#53016](https://github.com/angular/angular/issues/53016#issuecomment-1841566225) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
