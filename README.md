@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53375](https://github.com/angular/angular/pull/53375) in [angular/angular](https://github.com/angular/angular)
-2. 🗣 Commented on [#53147](https://github.com/angular/angular/issues/53147#issuecomment-1841705609) in [angular/angular](https://github.com/angular/angular)
-3. 🗣 Commented on [#53373](https://github.com/angular/angular/issues/53373#issuecomment-1841693892) in [angular/angular](https://github.com/angular/angular)
-4. 🗣 Commented on [#53373](https://github.com/angular/angular/issues/53373#issuecomment-1841689754) in [angular/angular](https://github.com/angular/angular)
-5. 🗣 Commented on [#53016](https://github.com/angular/angular/issues/53016#issuecomment-1841566225) in [angular/angular](https://github.com/angular/angular)
+1. 🗣 Commented on [#26604](https://github.com/angular/angular-cli/pull/26604#issuecomment-1843733253) in [angular/angular-cli](https://github.com/angular/angular-cli)
+2. 💪 Opened PR [#26604](https://github.com/angular/angular-cli/pull/26604) in [angular/angular-cli](https://github.com/angular/angular-cli)
+3. 💪 Opened PR [#26602](https://github.com/angular/angular-cli/pull/26602) in [angular/angular-cli](https://github.com/angular/angular-cli)
+4. 🗣 Commented on [#25571](https://github.com/angular/angular-cli/issues/25571#issuecomment-1843631134) in [angular/angular-cli](https://github.com/angular/angular-cli)
+5. 💪 Opened PR [#53375](https://github.com/angular/angular/pull/53375) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
