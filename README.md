@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#789](https://github.com/analogjs/analog/pull/789) in [analogjs/analog](https://github.com/analogjs/analog)
-2. 🎉 Merged PR [#39](https://github.com/santoshyadavdev/ng-bank/pull/39) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-3. 🗣 Commented on [#683](https://github.com/analogjs/analog/issues/683#issuecomment-1848772634) in [analogjs/analog](https://github.com/analogjs/analog)
-4. 🗣 Commented on [#554](https://github.com/analogjs/analog/issues/554#issuecomment-1848772319) in [analogjs/analog](https://github.com/analogjs/analog)
-5. 🗣 Commented on [#39](https://github.com/santoshyadavdev/ng-bank/pull/39#issuecomment-1848710509) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+1. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1852580826) in [solidjs/solid](https://github.com/solidjs/solid)
+2. 💪 Opened PR [#299](https://github.com/ryansolid/dom-expressions/pull/299) in [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
+3. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1852481687) in [solidjs/solid](https://github.com/solidjs/solid)
+4. 💪 Opened PR [#789](https://github.com/analogjs/analog/pull/789) in [analogjs/analog](https://github.com/analogjs/analog)
+5. 🎉 Merged PR [#39](https://github.com/santoshyadavdev/ng-bank/pull/39) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
