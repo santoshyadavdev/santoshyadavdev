@@ -58,8 +58,8 @@
 | Domains              | 12               |                      |         |
 | Sponsorship Paid     | 145              |                      |         |
 | Sponsorship Received | 0                | 200                  |         |
-| StreamYard           | 20               |                      |         |
-| Total                | 177              | 200                  | 23      |
+| StreamYard           | 40               |                      |         |
+| Total                | 197              | 200                  |  3      |
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
