@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/this-is-angular/angular-guides/issues/21) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-2. 🎉 Merged PR [#19](https://github.com/this-is-angular/angular-guides/pull/19) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-3. 🗣 Commented on [#19](https://github.com/this-is-angular/angular-guides/pull/19#issuecomment-1857631160) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-4. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1853475798) in [solidjs/solid](https://github.com/solidjs/solid)
-5. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1852580826) in [solidjs/solid](https://github.com/solidjs/solid)
+1. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1867382766) in [solidjs/solid](https://github.com/solidjs/solid)
+2. ❗ Opened issue [#21](https://github.com/this-is-angular/angular-guides/issues/21) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
+3. 🎉 Merged PR [#19](https://github.com/this-is-angular/angular-guides/pull/19) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
+4. 🗣 Commented on [#19](https://github.com/this-is-angular/angular-guides/pull/19#issuecomment-1857631160) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
+5. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1853475798) in [solidjs/solid](https://github.com/solidjs/solid)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
