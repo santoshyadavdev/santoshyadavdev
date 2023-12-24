@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1867382766) in [solidjs/solid](https://github.com/solidjs/solid)
-2. ❗ Opened issue [#21](https://github.com/this-is-angular/angular-guides/issues/21) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-3. 🎉 Merged PR [#19](https://github.com/this-is-angular/angular-guides/pull/19) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-4. 🗣 Commented on [#19](https://github.com/this-is-angular/angular-guides/pull/19#issuecomment-1857631160) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-5. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1853475798) in [solidjs/solid](https://github.com/solidjs/solid)
+1. 💪 Opened PR [#224](https://github.com/cloudinary/frontend-frameworks/pull/224) in [cloudinary/frontend-frameworks](https://github.com/cloudinary/frontend-frameworks)
+2. 🗣 Commented on [#28](https://github.com/goetzrobin/spartan/issues/28#issuecomment-1868359374) in [goetzrobin/spartan](https://github.com/goetzrobin/spartan)
+3. 💪 Opened PR [#88](https://github.com/goetzrobin/spartan/pull/88) in [goetzrobin/spartan](https://github.com/goetzrobin/spartan)
+4. 💪 Opened PR [#1059](https://github.com/nxext/nx-extensions/pull/1059) in [nxext/nx-extensions](https://github.com/nxext/nx-extensions)
+5. 🗣 Commented on [#1972](https://github.com/solidjs/solid/issues/1972#issuecomment-1867382766) in [solidjs/solid](https://github.com/solidjs/solid)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
