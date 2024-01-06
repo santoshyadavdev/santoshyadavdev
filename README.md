@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#484](https://github.com/uiuniversal/ngu-carousel/pull/484) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#483](https://github.com/uiuniversal/ngu-carousel/pull/483) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#23](https://github.com/this-is-angular/angular-guides/pull/23) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
-4. 💪 Opened PR [#224](https://github.com/cloudinary/frontend-frameworks/pull/224) in [cloudinary/frontend-frameworks](https://github.com/cloudinary/frontend-frameworks)
-5. 🗣 Commented on [#28](https://github.com/goetzrobin/spartan/issues/28#issuecomment-1868359374) in [goetzrobin/spartan](https://github.com/goetzrobin/spartan)
+1. 💪 Opened PR [#485](https://github.com/uiuniversal/ngu-carousel/pull/485) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 💪 Opened PR [#484](https://github.com/uiuniversal/ngu-carousel/pull/484) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 💪 Opened PR [#483](https://github.com/uiuniversal/ngu-carousel/pull/483) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🎉 Merged PR [#23](https://github.com/this-is-angular/angular-guides/pull/23) in [this-is-angular/angular-guides](https://github.com/this-is-angular/angular-guides)
+5. 💪 Opened PR [#224](https://github.com/cloudinary/frontend-frameworks/pull/224) in [cloudinary/frontend-frameworks](https://github.com/cloudinary/frontend-frameworks)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
