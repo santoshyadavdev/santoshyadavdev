@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53375](https://github.com/angular/angular/pull/53375#issuecomment-1911030640) in [angular/angular](https://github.com/angular/angular)
-2. 🗣 Commented on [#20898](https://github.com/nrwl/nx/issues/20898#issuecomment-1903997326) in [nrwl/nx](https://github.com/nrwl/nx)
-3. 🗣 Commented on [#20898](https://github.com/nrwl/nx/issues/20898#issuecomment-1903846251) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 💪 Opened PR [#486](https://github.com/uiuniversal/ngu-carousel/pull/486) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#20898](https://github.com/nrwl/nx/issues/20898#issuecomment-1882942195) in [nrwl/nx](https://github.com/nrwl/nx)
+1. ❌ Closed PR [#54108](https://github.com/angular/angular/pull/54108) in [angular/angular](https://github.com/angular/angular)
+2. 🗣 Commented on [#31](https://github.com/santoshyadavdev/ng-bank/pull/31#issuecomment-1912794770) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+3. 🗣 Commented on [#53375](https://github.com/angular/angular/pull/53375#issuecomment-1912775380) in [angular/angular](https://github.com/angular/angular)
+4. 💪 Opened PR [#54108](https://github.com/angular/angular/pull/54108) in [angular/angular](https://github.com/angular/angular)
+5. 🗣 Commented on [#53375](https://github.com/angular/angular/pull/53375#issuecomment-1911030640) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
