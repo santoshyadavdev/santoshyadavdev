@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#54108](https://github.com/angular/angular/pull/54108) in [angular/angular](https://github.com/angular/angular)
-2. 🗣 Commented on [#31](https://github.com/santoshyadavdev/ng-bank/pull/31#issuecomment-1912794770) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-3. 🗣 Commented on [#53375](https://github.com/angular/angular/pull/53375#issuecomment-1912775380) in [angular/angular](https://github.com/angular/angular)
-4. 💪 Opened PR [#54108](https://github.com/angular/angular/pull/54108) in [angular/angular](https://github.com/angular/angular)
-5. 🗣 Commented on [#53375](https://github.com/angular/angular/pull/53375#issuecomment-1911030640) in [angular/angular](https://github.com/angular/angular)
+1. 🔒 Closed issue [#14](https://github.com/santoshyadavdev/ng-bank/issues/14) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+2. 🔒 Closed issue [#11](https://github.com/santoshyadavdev/ng-bank/issues/11) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+3. 🔒 Closed issue [#10](https://github.com/santoshyadavdev/ng-bank/issues/10) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+4. 🔒 Closed issue [#9](https://github.com/santoshyadavdev/ng-bank/issues/9) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+5. 🎉 Merged PR [#31](https://github.com/santoshyadavdev/ng-bank/pull/31) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
