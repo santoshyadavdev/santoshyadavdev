@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/santoshyadavdev/ng-bank/issues/14) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-2. 🔒 Closed issue [#11](https://github.com/santoshyadavdev/ng-bank/issues/11) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-3. 🔒 Closed issue [#10](https://github.com/santoshyadavdev/ng-bank/issues/10) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-4. 🔒 Closed issue [#9](https://github.com/santoshyadavdev/ng-bank/issues/9) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-5. 🎉 Merged PR [#31](https://github.com/santoshyadavdev/ng-bank/pull/31) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+1. 💪 Opened PR [#487](https://github.com/uiuniversal/ngu-carousel/pull/487) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 💪 Opened PR [#6](https://github.com/uiuniversal/flow/pull/6) in [uiuniversal/flow](https://github.com/uiuniversal/flow)
+3. 🔒 Closed issue [#14](https://github.com/santoshyadavdev/ng-bank/issues/14) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+4. 🔒 Closed issue [#11](https://github.com/santoshyadavdev/ng-bank/issues/11) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+5. 🔒 Closed issue [#10](https://github.com/santoshyadavdev/ng-bank/issues/10) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
