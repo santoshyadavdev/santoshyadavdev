@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/santoshyadavdev/ng-bank/pull/41) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-2. 💪 Opened PR [#42](https://github.com/santoshyadavdev/ng-bank/pull/42) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-3. 💪 Opened PR [#41](https://github.com/santoshyadavdev/ng-bank/pull/41) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-4. 🗣 Commented on [#397](https://github.com/Schrodinger-Hat/osday/issues/397#issuecomment-1921004933) in [Schrodinger-Hat/osday](https://github.com/Schrodinger-Hat/osday)
-5. 💪 Opened PR [#487](https://github.com/uiuniversal/ngu-carousel/pull/487) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#36](https://github.com/angular-extensions/svg-icons-builder/pull/36) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
+2. ❌ Closed PR [#41](https://github.com/santoshyadavdev/ng-bank/pull/41) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+3. 💪 Opened PR [#42](https://github.com/santoshyadavdev/ng-bank/pull/42) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+4. 💪 Opened PR [#41](https://github.com/santoshyadavdev/ng-bank/pull/41) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+5. 🗣 Commented on [#397](https://github.com/Schrodinger-Hat/osday/issues/397#issuecomment-1921004933) in [Schrodinger-Hat/osday](https://github.com/Schrodinger-Hat/osday)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
