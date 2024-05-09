@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23728](https://github.com/backstage/backstage/pull/23728) in [backstage/backstage](https://github.com/backstage/backstage)
-2. 🗣 Commented on [#23728](https://github.com/backstage/backstage/pull/23728#issuecomment-2093963229) in [backstage/backstage](https://github.com/backstage/backstage)
-3. 💪 Opened PR [#493](https://github.com/uiuniversal/ngu-carousel/pull/493) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#1](https://github.com/TechOpenSolve/Community/issues/1#issuecomment-2082172865) in [TechOpenSolve/Community](https://github.com/TechOpenSolve/Community)
-5. 🗣 Commented on [#23728](https://github.com/backstage/backstage/pull/23728#issuecomment-2067357621) in [backstage/backstage](https://github.com/backstage/backstage)
+1. 🎉 Merged PR [#17](https://github.com/this-is-learning/this-is-learning-conf-website/pull/17) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+2. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-conf-website/pull/16) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+3. ❌ Closed PR [#23728](https://github.com/backstage/backstage/pull/23728) in [backstage/backstage](https://github.com/backstage/backstage)
+4. 🗣 Commented on [#23728](https://github.com/backstage/backstage/pull/23728#issuecomment-2093963229) in [backstage/backstage](https://github.com/backstage/backstage)
+5. 💪 Opened PR [#493](https://github.com/uiuniversal/ngu-carousel/pull/493) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
