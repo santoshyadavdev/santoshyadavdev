@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/this-is-learning/this-is-learning-conf-website/pull/17) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
-2. 🎉 Merged PR [#16](https://github.com/this-is-learning/this-is-learning-conf-website/pull/16) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
-3. ❌ Closed PR [#23728](https://github.com/backstage/backstage/pull/23728) in [backstage/backstage](https://github.com/backstage/backstage)
-4. 🗣 Commented on [#23728](https://github.com/backstage/backstage/pull/23728#issuecomment-2093963229) in [backstage/backstage](https://github.com/backstage/backstage)
-5. 💪 Opened PR [#493](https://github.com/uiuniversal/ngu-carousel/pull/493) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#29](https://github.com/santoshyadavdev/portfolio/pull/29) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🎉 Merged PR [#28](https://github.com/santoshyadavdev/portfolio/pull/28) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 💪 Opened PR [#28](https://github.com/santoshyadavdev/portfolio/pull/28) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 🎉 Merged PR [#494](https://github.com/uiuniversal/ngu-carousel/pull/494) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 💪 Opened PR [#494](https://github.com/uiuniversal/ngu-carousel/pull/494) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
