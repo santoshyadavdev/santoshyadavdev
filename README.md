@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27611](https://github.com/angular/angular-cli/issues/27611#issuecomment-2119354255) in [angular/angular-cli](https://github.com/angular/angular-cli)
-2. 🎉 Merged PR [#26](https://github.com/this-is-learning/this-is-learning-conf-website/pull/26) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
-3. 🎉 Merged PR [#25](https://github.com/this-is-learning/this-is-learning-conf-website/pull/25) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
-4. 💪 Opened PR [#25](https://github.com/this-is-learning/this-is-learning-conf-website/pull/25) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
-5. 🎉 Merged PR [#24](https://github.com/this-is-learning/this-is-learning-conf-website/pull/24) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+1. 💪 Opened PR [#496](https://github.com/uiuniversal/ngu-carousel/pull/496) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#27611](https://github.com/angular/angular-cli/issues/27611#issuecomment-2119354255) in [angular/angular-cli](https://github.com/angular/angular-cli)
+3. 🎉 Merged PR [#26](https://github.com/this-is-learning/this-is-learning-conf-website/pull/26) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+4. 🎉 Merged PR [#25](https://github.com/this-is-learning/this-is-learning-conf-website/pull/25) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+5. 💪 Opened PR [#25](https://github.com/this-is-learning/this-is-learning-conf-website/pull/25) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
