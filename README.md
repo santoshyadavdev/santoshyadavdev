@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#499](https://github.com/uiuniversal/ngu-carousel/pull/499) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#498](https://github.com/uiuniversal/ngu-carousel/pull/498) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 💪 Opened PR [#497](https://github.com/uiuniversal/ngu-carousel/pull/497) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 💪 Opened PR [#496](https://github.com/uiuniversal/ngu-carousel/pull/496) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#27611](https://github.com/angular/angular-cli/issues/27611#issuecomment-2119354255) in [angular/angular-cli](https://github.com/angular/angular-cli)
+1. 🎉 Merged PR [#29](https://github.com/santoshyadavdev/portfolio/pull/29) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🔒 Closed issue [#36](https://github.com/santoshyadavdev/ng-bank/issues/36) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+3. 🎉 Merged PR [#37](https://github.com/santoshyadavdev/ng-bank/pull/37) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+4. 🎉 Merged PR [#499](https://github.com/uiuniversal/ngu-carousel/pull/499) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 💪 Opened PR [#498](https://github.com/uiuniversal/ngu-carousel/pull/498) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
