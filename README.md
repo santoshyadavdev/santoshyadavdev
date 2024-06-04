@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/santoshyadavdev/portfolio/pull/29) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 🔒 Closed issue [#36](https://github.com/santoshyadavdev/ng-bank/issues/36) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-3. 🎉 Merged PR [#37](https://github.com/santoshyadavdev/ng-bank/pull/37) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-4. 🎉 Merged PR [#499](https://github.com/uiuniversal/ngu-carousel/pull/499) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 💪 Opened PR [#498](https://github.com/uiuniversal/ngu-carousel/pull/498) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🔒 Closed issue [#18](https://github.com/this-is-learning/this-is-learning-website/issues/18) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+2. 🗣 Commented on [#18](https://github.com/this-is-learning/this-is-learning-website/issues/18#issuecomment-2144856265) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+3. 🎉 Merged PR [#19](https://github.com/this-is-learning/this-is-learning-website/pull/19) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+4. 🗣 Commented on [#18](https://github.com/this-is-learning/this-is-learning-website/issues/18#issuecomment-2144576993) in [this-is-learning/this-is-learning-website](https://github.com/this-is-learning/this-is-learning-website)
+5. 🎉 Merged PR [#29](https://github.com/santoshyadavdev/portfolio/pull/29) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
