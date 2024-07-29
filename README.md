@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ad1992/fuzzify/pull/7#issuecomment-2253423719) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
-2. 🗣 Commented on [#7](https://github.com/ad1992/fuzzify/pull/7#issuecomment-2253399704) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
-3. 🗣 Commented on [#7](https://github.com/ad1992/fuzzify/pull/7#issuecomment-2253369950) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
-4. 💪 Opened PR [#7](https://github.com/ad1992/fuzzify/pull/7) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
-5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/fuzzify/pull/1) in [santoshyadavdev/fuzzify](https://github.com/santoshyadavdev/fuzzify)
+1. 💪 Opened PR [#30](https://github.com/santoshyadavdev/portfolio/pull/30) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🗣 Commented on [#7](https://github.com/ad1992/fuzzify/pull/7#issuecomment-2253423719) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
+3. 🗣 Commented on [#7](https://github.com/ad1992/fuzzify/pull/7#issuecomment-2253399704) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
+4. 🗣 Commented on [#7](https://github.com/ad1992/fuzzify/pull/7#issuecomment-2253369950) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
+5. 💪 Opened PR [#7](https://github.com/ad1992/fuzzify/pull/7) in [ad1992/fuzzify](https://github.com/ad1992/fuzzify)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
