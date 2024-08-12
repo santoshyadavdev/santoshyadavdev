@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2230](https://github.com/nrwl/nx-console/issues/2230) in [nrwl/nx-console](https://github.com/nrwl/nx-console)
-2. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2267571112) in [angular/angular](https://github.com/angular/angular)
-3. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2261509815) in [angular/angular](https://github.com/angular/angular)
-4. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2261415095) in [angular/angular](https://github.com/angular/angular)
-5. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2261395044) in [angular/angular](https://github.com/angular/angular)
+1. 🔒 Closed issue [#21](https://github.com/this-is-learning/this-is-learning-conf-website/issues/21) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+2. 🗣 Commented on [#287](https://github.com/fabian-hiller/valibot/issues/287#issuecomment-2282677173) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
+3. ❗ Opened issue [#2230](https://github.com/nrwl/nx-console/issues/2230) in [nrwl/nx-console](https://github.com/nrwl/nx-console)
+4. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2267571112) in [angular/angular](https://github.com/angular/angular)
+5. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2261509815) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
