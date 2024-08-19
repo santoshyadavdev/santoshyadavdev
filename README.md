@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#509](https://github.com/uiuniversal/ngu-carousel/pull/509) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🔒 Closed issue [#21](https://github.com/this-is-learning/this-is-learning-conf-website/issues/21) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
-3. 🗣 Commented on [#287](https://github.com/fabian-hiller/valibot/issues/287#issuecomment-2282677173) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-4. ❗ Opened issue [#2230](https://github.com/nrwl/nx-console/issues/2230) in [nrwl/nx-console](https://github.com/nrwl/nx-console)
-5. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2267571112) in [angular/angular](https://github.com/angular/angular)
+1. 🗣 Commented on [#27270](https://github.com/nrwl/nx/issues/27270#issuecomment-2295380516) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 💪 Opened PR [#509](https://github.com/uiuniversal/ngu-carousel/pull/509) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🔒 Closed issue [#21](https://github.com/this-is-learning/this-is-learning-conf-website/issues/21) in [this-is-learning/this-is-learning-conf-website](https://github.com/this-is-learning/this-is-learning-conf-website)
+4. 🗣 Commented on [#287](https://github.com/fabian-hiller/valibot/issues/287#issuecomment-2282677173) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
+5. ❗ Opened issue [#2230](https://github.com/nrwl/nx-console/issues/2230) in [nrwl/nx-console](https://github.com/nrwl/nx-console)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
