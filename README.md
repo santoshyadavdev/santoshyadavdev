@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#287](https://github.com/fabian-hiller/valibot/issues/287#issuecomment-2308513751) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-2. 💪 Opened PR [#798](https://github.com/fabian-hiller/valibot/pull/798) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
-3. 🗣 Commented on [#57210](https://github.com/angular/angular/pull/57210#issuecomment-2305467687) in [angular/angular](https://github.com/angular/angular)
-4. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/garmin-api/pull/4) in [santoshyadavdev/garmin-api](https://github.com/santoshyadavdev/garmin-api)
-5. 💪 Opened PR [#4](https://github.com/santoshyadavdev/garmin-api/pull/4) in [santoshyadavdev/garmin-api](https://github.com/santoshyadavdev/garmin-api)
+1. 💪 Opened PR [#57534](https://github.com/angular/angular/pull/57534) in [angular/angular](https://github.com/angular/angular)
+2. 🗣 Commented on [#51665](https://github.com/angular/angular/issues/51665#issuecomment-2310910409) in [angular/angular](https://github.com/angular/angular)
+3. 🗣 Commented on [#798](https://github.com/fabian-hiller/valibot/pull/798#issuecomment-2310865523) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
+4. ❌ Closed PR [#798](https://github.com/fabian-hiller/valibot/pull/798) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
+5. 🗣 Commented on [#287](https://github.com/fabian-hiller/valibot/issues/287#issuecomment-2310864821) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
