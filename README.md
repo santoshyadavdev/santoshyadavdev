@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/santoshyadavdev/portfolio/pull/33) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 🎉 Merged PR [#46](https://github.com/santoshyadavdev/ng-bank/pull/46) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
-3. 🎉 Merged PR [#32](https://github.com/santoshyadavdev/portfolio/pull/32) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#32](https://github.com/santoshyadavdev/portfolio/pull/32) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#31](https://github.com/santoshyadavdev/portfolio/pull/31) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🎉 Merged PR [#33](https://github.com/santoshyadavdev/portfolio/pull/33) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#33](https://github.com/santoshyadavdev/portfolio/pull/33) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#46](https://github.com/santoshyadavdev/ng-bank/pull/46) in [santoshyadavdev/ng-bank](https://github.com/santoshyadavdev/ng-bank)
+4. 🎉 Merged PR [#32](https://github.com/santoshyadavdev/portfolio/pull/32) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 💪 Opened PR [#32](https://github.com/santoshyadavdev/portfolio/pull/32) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
