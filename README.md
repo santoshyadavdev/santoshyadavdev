@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
-2. 💪 Opened PR [#517](https://github.com/uiuniversal/ngu-carousel/pull/517) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#26346](https://github.com/nrwl/nx/issues/26346#issuecomment-2455302341) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 🗣 Commented on [#28245](https://github.com/nrwl/nx/issues/28245#issuecomment-2413710871) in [nrwl/nx](https://github.com/nrwl/nx)
-5. 💪 Opened PR [#514](https://github.com/uiuniversal/ngu-carousel/pull/514) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🔒 Closed issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
+2. ❗ Opened issue [#323](https://github.com/merill/bluesky/issues/323) in [merill/bluesky](https://github.com/merill/bluesky)
+3. ❗ Opened issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
+4. 💪 Opened PR [#517](https://github.com/uiuniversal/ngu-carousel/pull/517) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#26346](https://github.com/nrwl/nx/issues/26346#issuecomment-2455302341) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
