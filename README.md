@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
-2. ❗ Opened issue [#323](https://github.com/merill/bluesky/issues/323) in [merill/bluesky](https://github.com/merill/bluesky)
-3. ❗ Opened issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
-4. 💪 Opened PR [#517](https://github.com/uiuniversal/ngu-carousel/pull/517) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#26346](https://github.com/nrwl/nx/issues/26346#issuecomment-2455302341) in [nrwl/nx](https://github.com/nrwl/nx)
+1. ❗ Opened issue [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+2. ❗ Opened issue [#5](https://github.com/Devs-Who-Run/devs-who-run/issues/5) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+3. ❗ Opened issue [#4](https://github.com/Devs-Who-Run/devs-who-run/issues/4) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+4. ❗ Opened issue [#3](https://github.com/Devs-Who-Run/devs-who-run/issues/3) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+5. 🔒 Closed issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
