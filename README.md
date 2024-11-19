@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-2. ❗ Opened issue [#5](https://github.com/Devs-Who-Run/devs-who-run/issues/5) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-3. ❗ Opened issue [#4](https://github.com/Devs-Who-Run/devs-who-run/issues/4) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-4. ❗ Opened issue [#3](https://github.com/Devs-Who-Run/devs-who-run/issues/3) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-5. 🔒 Closed issue [#279](https://github.com/merill/bluesky/issues/279) in [merill/bluesky](https://github.com/merill/bluesky)
+1. 🗣 Commented on [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6#issuecomment-2483898890) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+2. 🎉 Merged PR [#7](https://github.com/Devs-Who-Run/devs-who-run/pull/7) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+3. 🗣 Commented on [#5](https://github.com/Devs-Who-Run/devs-who-run/issues/5#issuecomment-2483776158) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+4. ❗ Opened issue [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+5. ❗ Opened issue [#5](https://github.com/Devs-Who-Run/devs-who-run/issues/5) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
