@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Devs-Who-Run/devs-who-run/issues/3) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-2. 🗣 Commented on [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6#issuecomment-2483898890) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-3. 🎉 Merged PR [#7](https://github.com/Devs-Who-Run/devs-who-run/pull/7) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-4. 🗣 Commented on [#5](https://github.com/Devs-Who-Run/devs-who-run/issues/5#issuecomment-2483776158) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
-5. ❗ Opened issue [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+1. 🎉 Merged PR [#34](https://github.com/santoshyadavdev/portfolio/pull/34) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#34](https://github.com/santoshyadavdev/portfolio/pull/34) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🔒 Closed issue [#3](https://github.com/Devs-Who-Run/devs-who-run/issues/3) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+4. 🗣 Commented on [#6](https://github.com/Devs-Who-Run/devs-who-run/issues/6#issuecomment-2483898890) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+5. 🎉 Merged PR [#7](https://github.com/Devs-Who-Run/devs-who-run/pull/7) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
