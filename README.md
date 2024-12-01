@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/Devs-Who-Run/devs-who-run-api/issues/10) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-2. 🎉 Merged PR [#7](https://github.com/Devs-Who-Run/devs-who-run-api/pull/7) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-3. 🗣 Commented on [#7](https://github.com/Devs-Who-Run/devs-who-run-api/pull/7#issuecomment-2501709497) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-4. 🎉 Merged PR [#6](https://github.com/Devs-Who-Run/devs-who-run-api/pull/6) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-5. 🎉 Merged PR [#5](https://github.com/Devs-Who-Run/devs-who-run-api/pull/5) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+1. 🎉 Merged PR [#11](https://github.com/Devs-Who-Run/devs-who-run-api/pull/11) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+2. 💪 Opened PR [#11](https://github.com/Devs-Who-Run/devs-who-run-api/pull/11) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+3. ❗ Opened issue [#10](https://github.com/Devs-Who-Run/devs-who-run-api/issues/10) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+4. 🎉 Merged PR [#7](https://github.com/Devs-Who-Run/devs-who-run-api/pull/7) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+5. 🗣 Commented on [#7](https://github.com/Devs-Who-Run/devs-who-run-api/pull/7#issuecomment-2501709497) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
