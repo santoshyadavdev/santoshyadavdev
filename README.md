@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AnkitSharma-007/AnkitSharma-007/pull/1) in [AnkitSharma-007/AnkitSharma-007](https://github.com/AnkitSharma-007/AnkitSharma-007)
-2. 💪 Opened PR [#518](https://github.com/uiuniversal/ngu-carousel/pull/518) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#16](https://github.com/Devs-Who-Run/devs-who-run-api/pull/16) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-4. ❗ Opened issue [#15](https://github.com/Devs-Who-Run/devs-who-run-api/issues/15) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-5. 🎉 Merged PR [#11](https://github.com/Devs-Who-Run/devs-who-run-api/pull/11) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+1. 🎉 Merged PR [#17](https://github.com/Devs-Who-Run/devs-who-run-api/pull/17) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+2. 💪 Opened PR [#1](https://github.com/AnkitSharma-007/AnkitSharma-007/pull/1) in [AnkitSharma-007/AnkitSharma-007](https://github.com/AnkitSharma-007/AnkitSharma-007)
+3. 💪 Opened PR [#518](https://github.com/uiuniversal/ngu-carousel/pull/518) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🎉 Merged PR [#16](https://github.com/Devs-Who-Run/devs-who-run-api/pull/16) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
+5. ❗ Opened issue [#15](https://github.com/Devs-Who-Run/devs-who-run-api/issues/15) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
