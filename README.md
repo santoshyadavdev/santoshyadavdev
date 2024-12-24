@@ -69,6 +69,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Tree Shaking Journey in Angular: A Deep Dive](https://dev.to/this-is-angular/the-tree-shaking-journey-in-angular-a-deep-dive-52ie)
 - [Never forget where you come from](https://dev.to/this-is-learning/never-forget-where-you-come-from-5el1)
 - [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
 - [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
@@ -76,7 +77,6 @@
 - [My Course on Angular Getting Started](https://dev.to/this-is-learning/my-course-on-angular-getting-started-3jec)
 - [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
 - [How GitHub is Improving Developer Experience](https://dev.to/this-is-learning/how-github-is-improving-developer-experience-8jj)
-- [Why and How we migrated to Nx from Angular CLI](https://dev.to/this-is-angular/why-and-how-we-migrated-to-nx-from-angular-cli-5a61)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
