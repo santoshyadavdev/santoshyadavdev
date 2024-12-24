@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://twitter.com/SantoshYadavDev">
-   <img align="left" alt="twitter" src="https://img.shields.io/twitter/follow/SantoshYadavDev" />
+   <img align="left" alt="twitter" src="https://img.shields.io/twitter/follow/SantoshYadavDev?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://www.twitch.tv/santoshyadavdev">
