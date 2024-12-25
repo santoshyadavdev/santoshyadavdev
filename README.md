@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/santoshyadavdev/portfolio/pull/35) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#35](https://github.com/santoshyadavdev/portfolio/pull/35) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#17](https://github.com/Devs-Who-Run/devs-who-run-api/pull/17) in [Devs-Who-Run/devs-who-run-api](https://github.com/Devs-Who-Run/devs-who-run-api)
-4. 💪 Opened PR [#1](https://github.com/AnkitSharma-007/AnkitSharma-007/pull/1) in [AnkitSharma-007/AnkitSharma-007](https://github.com/AnkitSharma-007/AnkitSharma-007)
-5. 💪 Opened PR [#518](https://github.com/uiuniversal/ngu-carousel/pull/518) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#12](https://github.com/santoshyadavdev/santoshyadavdev/pull/12) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+2. 💪 Opened PR [#12](https://github.com/santoshyadavdev/santoshyadavdev/pull/12) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+3. ❌ Closed PR [#38](https://github.com/santoshyadavdev/portfolio/pull/38) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#38](https://github.com/santoshyadavdev/portfolio/pull/38) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#37](https://github.com/santoshyadavdev/portfolio/pull/37) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
