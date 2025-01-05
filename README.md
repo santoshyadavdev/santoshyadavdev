@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/santoshyadavdev/portfolio/pull/39) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#39](https://github.com/santoshyadavdev/portfolio/pull/39) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🗣 Commented on [#29040](https://github.com/angular/angular-cli/issues/29040#issuecomment-2564382292) in [angular/angular-cli](https://github.com/angular/angular-cli)
-4. 💪 Opened PR [#29234](https://github.com/angular/angular-cli/pull/29234) in [angular/angular-cli](https://github.com/angular/angular-cli)
-5. 🎉 Merged PR [#12](https://github.com/santoshyadavdev/santoshyadavdev/pull/12) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+1. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/garmin-api/pull/5) in [santoshyadavdev/garmin-api](https://github.com/santoshyadavdev/garmin-api)
+2. 💪 Opened PR [#5](https://github.com/santoshyadavdev/garmin-api/pull/5) in [santoshyadavdev/garmin-api](https://github.com/santoshyadavdev/garmin-api)
+3. 🎉 Merged PR [#39](https://github.com/santoshyadavdev/portfolio/pull/39) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#39](https://github.com/santoshyadavdev/portfolio/pull/39) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🗣 Commented on [#29040](https://github.com/angular/angular-cli/issues/29040#issuecomment-2564382292) in [angular/angular-cli](https://github.com/angular/angular-cli)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
