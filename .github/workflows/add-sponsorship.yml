@@ -1,0 +1,19 @@
+name: Update README with YT data
+
+on:
+  schedule:
+    - cron: '* * 30 * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent YT activity
+
+    steps:
+      - name: checkput main branch
+        uses: actions/checkout@v3
+      - name: Fetch Sponsorships and commit
+        uses: santoshyadavdev/sponsorship-green-squares@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
