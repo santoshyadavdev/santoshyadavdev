@@ -1,4 +1,4 @@
-name: Update README with YT data
+name: Add sponsorship
 
 on:
   schedule:
