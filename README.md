@@ -51,6 +51,12 @@
 
 [![Angular for Beginners Course](http://img.youtube.com/vi/3qBXWUpoPHo/0.jpg)](http://www.youtube.com/watch?v=3qBXWUpoPHo)
 
+# GitHub Sponsorship for current month
+
+<!-- SPONSORSHIP-DATA:START -->
+<!-- SPONSORSHIP-DATA:END -->
+
+
 # Sponsorship Data (Per/Month in USD)
 
 | Description          | Paid (Per/Month) | Received (Per/Month) | Balance |
