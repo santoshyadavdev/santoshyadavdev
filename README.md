@@ -81,11 +81,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/garmin-api/pull/5) in [santoshyadavdev/garmin-api](https://github.com/santoshyadavdev/garmin-api)
-2. 💪 Opened PR [#5](https://github.com/santoshyadavdev/garmin-api/pull/5) in [santoshyadavdev/garmin-api](https://github.com/santoshyadavdev/garmin-api)
-3. 🎉 Merged PR [#39](https://github.com/santoshyadavdev/portfolio/pull/39) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#39](https://github.com/santoshyadavdev/portfolio/pull/39) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🗣 Commented on [#29040](https://github.com/angular/angular-cli/issues/29040#issuecomment-2564382292) in [angular/angular-cli](https://github.com/angular/angular-cli)
+1. 🚀 Published release [0.7](https://github.com/santoshyadavdev/sponsorship-green-squares/releases/tag/0.7) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+2. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/8) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+3. 💪 Opened PR [#8](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/8) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+4. 🚀 Published release [0.6](https://github.com/santoshyadavdev/sponsorship-green-squares/releases/tag/0.6) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+5. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/7) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
