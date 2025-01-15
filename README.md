@@ -87,11 +87,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.8](https://github.com/santoshyadavdev/sponsorship-green-squares/releases/tag/0.8) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-2. ❗ Opened issue [#10](https://github.com/santoshyadavdev/sponsorship-green-squares/issues/10) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-3. 🎉 Merged PR [#9](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/9) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-4. 🔒 Closed issue [#2](https://github.com/santoshyadavdev/sponsorship-green-squares/issues/2) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-5. 🚀 Published release [0.7](https://github.com/santoshyadavdev/sponsorship-green-squares/releases/tag/0.7) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+1. 🎉 Merged PR [#12](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/12) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+2. 💪 Opened PR [#12](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/12) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+3. 🚀 Published release [0.9](https://github.com/santoshyadavdev/sponsorship-green-squares/releases/tag/0.9) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+4. 🎉 Merged PR [#11](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/11) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+5. 💪 Opened PR [#11](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/11) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
