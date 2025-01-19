@@ -87,11 +87,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/12) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-2. 💪 Opened PR [#12](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/12) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-3. 🚀 Published release [0.9](https://github.com/santoshyadavdev/sponsorship-green-squares/releases/tag/0.9) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-4. 🎉 Merged PR [#11](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/11) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-5. 💪 Opened PR [#11](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/11) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+1. 🎉 Merged PR [#14](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/14) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+2. 💪 Opened PR [#14](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/14) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+3. 🎉 Merged PR [#13](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/13) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+4. 💪 Opened PR [#13](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/13) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+5. 💪 Opened PR [#4680](https://github.com/ngrx/platform/pull/4680) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
