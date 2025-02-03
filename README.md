@@ -1,10 +1,6 @@
 ### Hi there, I'm [Santosh Yadav!](https://santoshyadav.dev) 👋
 
 <p>
-<a href="https://twitter.com/SantoshYadavDev">
-   <img align="left" alt="twitter" src="https://img.shields.io/twitter/follow/SantoshYadavDev?style=for-the-badge&logo=x&logoColor=white" />
-</a>&nbsp;&nbsp;
-
 <a href="https://www.twitch.tv/santoshyadavdev">
    <img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -31,7 +27,7 @@
 - 🔭 I’m currently working on [ngx-builder](https://github.com/ngx-builders)
 - 🌱 I’m currently learning Typescript and Angular
 - 💬 Ask me about Angular, Typescript
-- 📫 How to reach me: [@SantoshYadavDev](https://twitter.com/SantoshYadavDev)
+- 📫 How to reach me: [@SantoshYadavDev](https://bsky.app/profile/santoshyadav.dev)
 
 </p>
 
