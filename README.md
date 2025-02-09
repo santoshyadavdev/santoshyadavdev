@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#520](https://github.com/uiuniversal/ngu-carousel/pull/520#issuecomment-2642457318) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🔒 Closed issue [#519](https://github.com/uiuniversal/ngu-carousel/issues/519) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#520](https://github.com/uiuniversal/ngu-carousel/pull/520) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🚀 Published release [0.1](https://github.com/santoshyadavdev/garmin-to-readme/releases/tag/0.1) in [santoshyadavdev/garmin-to-readme](https://github.com/santoshyadavdev/garmin-to-readme)
-5. 🎉 Merged PR [#14](https://github.com/Devs-Who-Run/devs-who-run/pull/14) in [Devs-Who-Run/devs-who-run](https://github.com/Devs-Who-Run/devs-who-run)
+1. 🗣 Commented on [#523](https://github.com/uiuniversal/ngu-carousel/issues/523#issuecomment-2645953062) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🔒 Closed issue [#523](https://github.com/uiuniversal/ngu-carousel/issues/523) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🗣 Commented on [#29559](https://github.com/angular/angular-cli/issues/29559#issuecomment-2645931255) in [angular/angular-cli](https://github.com/angular/angular-cli)
+4. 🗣 Commented on [#520](https://github.com/uiuniversal/ngu-carousel/pull/520#issuecomment-2645917282) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🎉 Merged PR [#522](https://github.com/uiuniversal/ngu-carousel/pull/522) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
