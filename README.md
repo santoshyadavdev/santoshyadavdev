@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#523](https://github.com/uiuniversal/ngu-carousel/issues/523#issuecomment-2645953062) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🔒 Closed issue [#523](https://github.com/uiuniversal/ngu-carousel/issues/523) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🗣 Commented on [#29559](https://github.com/angular/angular-cli/issues/29559#issuecomment-2645931255) in [angular/angular-cli](https://github.com/angular/angular-cli)
-4. 🗣 Commented on [#520](https://github.com/uiuniversal/ngu-carousel/pull/520#issuecomment-2645917282) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🎉 Merged PR [#522](https://github.com/uiuniversal/ngu-carousel/pull/522) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🎉 Merged PR [#19](https://github.com/devs-who-run/devs-who-run-api/pull/19) in [devs-who-run/devs-who-run-api](https://github.com/devs-who-run/devs-who-run-api)
+2. 🗣 Commented on [#523](https://github.com/uiuniversal/ngu-carousel/issues/523#issuecomment-2645953062) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🔒 Closed issue [#523](https://github.com/uiuniversal/ngu-carousel/issues/523) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🗣 Commented on [#29559](https://github.com/angular/angular-cli/issues/29559#issuecomment-2645931255) in [angular/angular-cli](https://github.com/angular/angular-cli)
+5. 🗣 Commented on [#520](https://github.com/uiuniversal/ngu-carousel/pull/520#issuecomment-2645917282) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
