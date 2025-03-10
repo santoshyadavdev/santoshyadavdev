@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/santoshyadavdev/Personal-Blog/issues/2#issuecomment-2678322479) in [santoshyadavdev/Personal-Blog](https://github.com/santoshyadavdev/Personal-Blog)
-2. 🎉 Merged PR [#40](https://github.com/santoshyadavdev/portfolio/pull/40) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#40](https://github.com/santoshyadavdev/portfolio/pull/40) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 🎉 Merged PR [#19](https://github.com/devs-who-run/devs-who-run-api/pull/19) in [devs-who-run/devs-who-run-api](https://github.com/devs-who-run/devs-who-run-api)
-5. 🗣 Commented on [#523](https://github.com/uiuniversal/ngu-carousel/issues/523#issuecomment-2645953062) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#524](https://github.com/uiuniversal/ngu-carousel/pull/524) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#2](https://github.com/santoshyadavdev/Personal-Blog/issues/2#issuecomment-2678322479) in [santoshyadavdev/Personal-Blog](https://github.com/santoshyadavdev/Personal-Blog)
+3. 🎉 Merged PR [#40](https://github.com/santoshyadavdev/portfolio/pull/40) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#40](https://github.com/santoshyadavdev/portfolio/pull/40) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#19](https://github.com/devs-who-run/devs-who-run-api/pull/19) in [devs-who-run/devs-who-run-api](https://github.com/devs-who-run/devs-who-run-api)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
