@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-2. 🔓 Reopened issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-3. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-4. 💪 Opened PR [#524](https://github.com/uiuniversal/ngu-carousel/pull/524) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#2](https://github.com/santoshyadavdev/Personal-Blog/issues/2#issuecomment-2678322479) in [santoshyadavdev/Personal-Blog](https://github.com/santoshyadavdev/Personal-Blog)
+1. 🔒 Closed issue [#4](https://github.com/santoshyadavdev/30minsofgithub/issues/4) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+2. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+3. 🔓 Reopened issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+4. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+5. 💪 Opened PR [#524](https://github.com/uiuniversal/ngu-carousel/pull/524) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
