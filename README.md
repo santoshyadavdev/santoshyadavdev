@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/santoshyadavdev/30minsofgithub/issues/4) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-2. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-3. 🔓 Reopened issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
+1. 🎉 Merged PR [#41](https://github.com/santoshyadavdev/portfolio/pull/41) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#41](https://github.com/santoshyadavdev/portfolio/pull/41) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🔒 Closed issue [#4](https://github.com/santoshyadavdev/30minsofgithub/issues/4) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
 4. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
-5. 💪 Opened PR [#524](https://github.com/uiuniversal/ngu-carousel/pull/524) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🔓 Reopened issue [#3](https://github.com/santoshyadavdev/30minsofgithub/issues/3) in [santoshyadavdev/30minsofgithub](https://github.com/santoshyadavdev/30minsofgithub)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
