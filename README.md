@@ -71,6 +71,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/santoshyadavdev/-1bg4)
 - [The Tree Shaking Journey in Angular: A Deep Dive](https://dev.to/this-is-angular/the-tree-shaking-journey-in-angular-a-deep-dive-52ie)
 - [Never forget where you come from](https://dev.to/this-is-learning/never-forget-where-you-come-from-5el1)
 - [Angular: The Framework of Past, Present, and Future](https://dev.to/this-is-angular/angular-the-framework-of-past-present-and-future-87d)
@@ -78,7 +79,6 @@
 - [My year in review](https://dev.to/this-is-learning/my-year-in-review-341d)
 - [My Course on Angular Getting Started](https://dev.to/this-is-learning/my-course-on-angular-getting-started-3jec)
 - [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
-- [How GitHub is Improving Developer Experience](https://dev.to/this-is-learning/how-github-is-improving-developer-experience-8jj)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
