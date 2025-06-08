@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/devs-who-run/devswhomove/pull/4) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 💪 Opened PR [#4](https://github.com/devs-who-run/devswhomove/pull/4) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 🎉 Merged PR [#3](https://github.com/devs-who-run/devswhomove/pull/3) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 🎉 Merged PR [#2](https://github.com/devs-who-run/devswhomove/pull/2) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 💪 Opened PR [#414](https://github.com/angular-sanctuary/angular-hub/pull/414) in [angular-sanctuary/angular-hub](https://github.com/angular-sanctuary/angular-hub)
+1. 🎉 Merged PR [#7](https://github.com/devs-who-run/devswhomove/pull/7) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+2. 🚀 Published release [20250602-061052_RC07](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC07) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
+3. 🚀 Published release [20250602-061052_RC05](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC06) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
+4. 🚀 Published release [test](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC05) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
+5. 🚀 Published release [first release ](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/1.0.0) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
