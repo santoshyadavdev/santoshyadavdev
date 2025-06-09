@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/devs-who-run/devswhomove/pull/7) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 🚀 Published release [20250602-061052_RC07](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC07) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
-3. 🚀 Published release [20250602-061052_RC05](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC06) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
-4. 🚀 Published release [test](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC05) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
-5. 🚀 Published release [first release ](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/1.0.0) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
+1. 💪 Opened PR [#8](https://github.com/devs-who-run/devswhomove/pull/8) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+2. 🎉 Merged PR [#7](https://github.com/devs-who-run/devswhomove/pull/7) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+3. 🚀 Published release [20250602-061052_RC07](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC07) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
+4. 🚀 Published release [20250602-061052_RC05](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC06) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
+5. 🚀 Published release [test](https://github.com/santoshyadavdev/riverside-demo-ng19/releases/tag/20250602-061052_RC05) in [santoshyadavdev/riverside-demo-ng19](https://github.com/santoshyadavdev/riverside-demo-ng19)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
