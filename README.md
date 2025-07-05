@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20734](https://github.com/nrwl/nx/issues/20734#issuecomment-2994401835) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 💪 Opened PR [#11](https://github.com/devs-who-run/devswhomove/pull/11) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 🎉 Merged PR [#10](https://github.com/devs-who-run/devswhomove/pull/10) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 💪 Opened PR [#10](https://github.com/devs-who-run/devswhomove/pull/10) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 🎉 Merged PR [#8](https://github.com/devs-who-run/devswhomove/pull/8) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. ❗ Opened issue [#42](https://github.com/santoshyadavdev/portfolio/issues/42) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🗣 Commented on [#20734](https://github.com/nrwl/nx/issues/20734#issuecomment-2994401835) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 💪 Opened PR [#11](https://github.com/devs-who-run/devswhomove/pull/11) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+4. 🎉 Merged PR [#10](https://github.com/devs-who-run/devswhomove/pull/10) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+5. 💪 Opened PR [#10](https://github.com/devs-who-run/devswhomove/pull/10) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
