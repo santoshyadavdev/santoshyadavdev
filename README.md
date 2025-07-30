@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#525](https://github.com/uiuniversal/ngu-carousel/issues/525#issuecomment-3124531542) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#527](https://github.com/uiuniversal/ngu-carousel/pull/527) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 💪 Opened PR [#526](https://github.com/uiuniversal/ngu-carousel/pull/526) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. ❗ Opened issue [#42](https://github.com/santoshyadavdev/portfolio/issues/42) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#10](https://github.com/devs-who-run/devswhomove/pull/10) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. 🗣 Commented on [#525](https://github.com/uiuniversal/ngu-carousel/issues/525#issuecomment-3127712861) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🚀 Published release [Angular 20 support](https://github.com/uiuniversal/ngu-carousel/releases/tag/20.0.0) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🔒 Closed issue [#525](https://github.com/uiuniversal/ngu-carousel/issues/525) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🎉 Merged PR [#527](https://github.com/uiuniversal/ngu-carousel/pull/527) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#525](https://github.com/uiuniversal/ngu-carousel/issues/525#issuecomment-3124531542) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
