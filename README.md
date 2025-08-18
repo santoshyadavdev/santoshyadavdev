@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8524](https://github.com/microsoft/vscode-docs/issues/8524#issuecomment-3191365318) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-2. ❌ Closed PR [#518](https://github.com/uiuniversal/ngu-carousel/pull/518) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 🎉 Merged PR [#535](https://github.com/uiuniversal/ngu-carousel/pull/535) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-4. 🗣 Commented on [#518](https://github.com/uiuniversal/ngu-carousel/pull/518#issuecomment-3168802556) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🔒 Closed issue [#533](https://github.com/uiuniversal/ngu-carousel/issues/533) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#536](https://github.com/uiuniversal/ngu-carousel/pull/536) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🗣 Commented on [#8524](https://github.com/microsoft/vscode-docs/issues/8524#issuecomment-3191365318) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+3. ❌ Closed PR [#518](https://github.com/uiuniversal/ngu-carousel/pull/518) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🎉 Merged PR [#535](https://github.com/uiuniversal/ngu-carousel/pull/535) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. 🗣 Commented on [#518](https://github.com/uiuniversal/ngu-carousel/pull/518#issuecomment-3168802556) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
