@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/devs-who-run/devswhomove/pull/14) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 🎉 Merged PR [#12](https://github.com/devs-who-run/devswhomove/pull/12) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 💪 Opened PR [#2](https://github.com/web-fragments/party-button-fragment/pull/2) in [web-fragments/party-button-fragment](https://github.com/web-fragments/party-button-fragment)
-4. 💪 Opened PR [#536](https://github.com/uiuniversal/ngu-carousel/pull/536) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#8524](https://github.com/microsoft/vscode-docs/issues/8524#issuecomment-3191365318) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+1. 🎉 Merged PR [#18](https://github.com/devs-who-run/devswhomove/pull/18) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+2. 💪 Opened PR [#18](https://github.com/devs-who-run/devswhomove/pull/18) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+3. 💪 Opened PR [#14](https://github.com/devs-who-run/devswhomove/pull/14) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+4. 🎉 Merged PR [#12](https://github.com/devs-who-run/devswhomove/pull/12) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+5. 💪 Opened PR [#2](https://github.com/web-fragments/party-button-fragment/pull/2) in [web-fragments/party-button-fragment](https://github.com/web-fragments/party-button-fragment)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
