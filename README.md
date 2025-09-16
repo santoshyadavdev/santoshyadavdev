@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#540](https://github.com/uiuniversal/ngu-carousel/pull/540) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 💪 Opened PR [#24](https://github.com/devs-who-run/devswhomove/pull/24) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 🎉 Merged PR [#23](https://github.com/devs-who-run/devswhomove/pull/23) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 💪 Opened PR [#23](https://github.com/devs-who-run/devswhomove/pull/23) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 🎉 Merged PR [#22](https://github.com/devs-who-run/devswhomove/pull/22) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. 🎉 Merged PR [#541](https://github.com/uiuniversal/ngu-carousel/pull/541) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 💪 Opened PR [#541](https://github.com/uiuniversal/ngu-carousel/pull/541) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+3. 🎉 Merged PR [#25](https://github.com/devs-who-run/devswhomove/pull/25) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+4. 🎉 Merged PR [#24](https://github.com/devs-who-run/devswhomove/pull/24) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+5. 💪 Opened PR [#540](https://github.com/uiuniversal/ngu-carousel/pull/540) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
