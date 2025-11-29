@@ -83,7 +83,7 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#544](undefined) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#195](undefined) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
 2. 💪 Opened PR [#541](https://github.com/uiuniversal/ngu-carousel/pull/541) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
 3. 🎉 Merged PR [#25](https://github.com/devs-who-run/devswhomove/pull/25) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
 4. 🎉 Merged PR [#24](https://github.com/devs-who-run/devswhomove/pull/24) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
