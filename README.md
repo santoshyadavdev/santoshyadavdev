@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/bredbox-app/community/issues/8) in [bredbox-app/community](https://github.com/bredbox-app/community)
-2. 💪 Opened PR [#548](undefined) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-3. 💪 Opened PR [#7](undefined) in [uiuniversal/ngu-carousel-demo](https://github.com/uiuniversal/ngu-carousel-demo)
-4. 💪 Opened PR [#195](undefined) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-5. 💪 Opened PR [#540](https://github.com/uiuniversal/ngu-carousel/pull/540) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 💪 Opened PR [#8](undefined) in [uiuniversal/ngu-carousel-demo](https://github.com/uiuniversal/ngu-carousel-demo)
+2. ❗ Opened issue [#8](https://github.com/bredbox-app/community/issues/8) in [bredbox-app/community](https://github.com/bredbox-app/community)
+3. 💪 Opened PR [#548](undefined) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 💪 Opened PR [#7](undefined) in [uiuniversal/ngu-carousel-demo](https://github.com/uiuniversal/ngu-carousel-demo)
+5. 💪 Opened PR [#195](undefined) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
