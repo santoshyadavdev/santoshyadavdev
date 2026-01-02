@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [santoshyadavdev/dots](https://github.com/santoshyadavdev/dots)
-2. 💪 Opened PR [#2](undefined) in [santoshyadavdev/dots](https://github.com/santoshyadavdev/dots)
-3. 🗣 Commented on [#9422](https://github.com/bluesky-social/social-app/issues/9422#issuecomment-3670584574) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-4. 🗣 Commented on [#9552](https://github.com/bluesky-social/social-app/issues/9552#issuecomment-3669990215) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-5. 🗣 Commented on [#9552](https://github.com/bluesky-social/social-app/issues/9552#issuecomment-3657638367) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+1. 🔒 Closed issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🗣 Commented on [#46](https://github.com/santoshyadavdev/portfolio/pull/46#issuecomment-3704000459) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. ❗ Opened issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. ℹ️ Assigned issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. ℹ️ Assigned issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
