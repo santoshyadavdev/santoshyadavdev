@@ -71,6 +71,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source, Open Heart: My Next Big Step](https://dev.to/santoshyadavdev/open-source-open-heart-my-next-big-step-3klf)
 - [[Boost]](https://dev.to/santoshyadavdev/-1bg4)
 - [The Tree Shaking Journey in Angular: A Deep Dive](https://dev.to/this-is-angular/the-tree-shaking-journey-in-angular-a-deep-dive-52ie)
 - [Never forget where you come from](https://dev.to/this-is-learning/never-forget-where-you-come-from-5el1)
@@ -78,7 +79,6 @@
 - [How we built This is Learning Community](https://dev.to/this-is-learning/how-we-built-this-is-learning-community-g34)
 - [My year in review](https://dev.to/this-is-learning/my-year-in-review-341d)
 - [My Course on Angular Getting Started](https://dev.to/this-is-learning/my-course-on-angular-getting-started-3jec)
-- [AngularJS vs Angular](https://dev.to/this-is-angular/angularjs-vs-angular-1gh6)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
