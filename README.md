@@ -83,10 +83,10 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 🗣 Commented on [#46](https://github.com/santoshyadavdev/portfolio/pull/46#issuecomment-3704000459) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. ❗ Opened issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. ℹ️ Assigned issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 💪 Opened PR [#554](https://github.com/uiuniversal/ngu-carousel/pull/554) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🔒 Closed issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🗣 Commented on [#46](https://github.com/santoshyadavdev/portfolio/pull/46#issuecomment-3704000459) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. ❗ Opened issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 5. ℹ️ Assigned issue [#45](https://github.com/santoshyadavdev/portfolio/issues/45) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
