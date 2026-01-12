@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/santoshyadavdev/portfolio/pull/26) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. ℹ️ Assigned issue [#15](https://github.com/santoshyadavdev/santoshyadavdev/issues/15) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+1. 💪 Opened PR [#557](https://github.com/uiuniversal/ngu-carousel/pull/557) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. ❌ Closed PR [#26](https://github.com/santoshyadavdev/portfolio/pull/26) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 3. ℹ️ Assigned issue [#15](https://github.com/santoshyadavdev/santoshyadavdev/issues/15) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-4. ❗ Opened issue [#15](https://github.com/santoshyadavdev/santoshyadavdev/issues/15) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
-5. 💪 Opened PR [#9](https://github.com/uiuniversal/ngu-carousel-demo/pull/9) in [uiuniversal/ngu-carousel-demo](https://github.com/uiuniversal/ngu-carousel-demo)
+4. ℹ️ Assigned issue [#15](https://github.com/santoshyadavdev/santoshyadavdev/issues/15) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
+5. ❗ Opened issue [#15](https://github.com/santoshyadavdev/santoshyadavdev/issues/15) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
