@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#560](https://github.com/uiuniversal/ngu-carousel/pull/560) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-2. 🎉 Merged PR [#48](https://github.com/santoshyadavdev/portfolio/pull/48) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#48](https://github.com/santoshyadavdev/portfolio/pull/48) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#197](https://github.com/ngx-builders/angular-builder/pull/197) in [ngx-builders/angular-builder](https://github.com/ngx-builders/angular-builder)
-5. 🗣 Commented on [#47](https://github.com/santoshyadavdev/portfolio/pull/47#issuecomment-3756205702) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🎉 Merged PR [#730](https://github.com/npmx-dev/npmx.dev/pull/730) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+2. 💪 Opened PR [#730](https://github.com/npmx-dev/npmx.dev/pull/730) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+3. 💪 Opened PR [#560](https://github.com/uiuniversal/ngu-carousel/pull/560) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+4. 🎉 Merged PR [#48](https://github.com/santoshyadavdev/portfolio/pull/48) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 💪 Opened PR [#48](https://github.com/santoshyadavdev/portfolio/pull/48) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
