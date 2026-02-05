@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/santoshyadavdev/portfolio/pull/50) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 🎉 Merged PR [#49](https://github.com/santoshyadavdev/portfolio/pull/49) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#49](https://github.com/santoshyadavdev/portfolio/pull/49) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 🚀 Published release [21.0.0](https://github.com/uiuniversal/ngu-carousel/releases/tag/21.0.0) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. 🗣 Commented on [#528](https://github.com/uiuniversal/ngu-carousel/pull/528#issuecomment-3840744869) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+1. 🔒 Closed issue [#52](https://github.com/santoshyadavdev/portfolio/issues/52) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🎉 Merged PR [#50](https://github.com/santoshyadavdev/portfolio/pull/50) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#53](https://github.com/santoshyadavdev/portfolio/pull/53) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#53](https://github.com/santoshyadavdev/portfolio/pull/53) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🗣 Commented on [#52](https://github.com/santoshyadavdev/portfolio/issues/52#issuecomment-3848262254) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
