@@ -58,10 +58,10 @@
 | Description          | Paid (Per/Month) | Received (Per/Month) | Balance |
 |----------------------|------------------|----------------------|---------|
 | Domains              | 12               |                      |         |
-| Sponsorship Paid     | 184              |                      |         |
-| Sponsorship Received | 0                | 285                  |         |
-| TIL Podcast          | 500              |                      |         |
-| Total                | 696              | 285                  |  -411   |
+| Sponsorship Paid     | 229              |                      |         |
+| Sponsorship Received | 0                | 9                  |         |
+| TIL Podcast          |               |                      |         |
+| Total                | 241              | 9                  |  -231   |
 
 ![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
 
