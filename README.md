@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/santoshyadavdev/portfolio/pull/62) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 🔒 Closed issue [#61](https://github.com/santoshyadavdev/portfolio/issues/61) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#62](https://github.com/santoshyadavdev/portfolio/pull/62) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 🗣 Commented on [#61](https://github.com/santoshyadavdev/portfolio/issues/61#issuecomment-3868261255) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. ❗ Opened issue [#61](https://github.com/santoshyadavdev/portfolio/issues/61) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🔒 Closed issue [#64](https://github.com/santoshyadavdev/portfolio/issues/64) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🗣 Commented on [#65](https://github.com/santoshyadavdev/portfolio/pull/65#issuecomment-3874206880) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. ℹ️ Assigned issue [#64](https://github.com/santoshyadavdev/portfolio/issues/64) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. ℹ️ Assigned issue [#64](https://github.com/santoshyadavdev/portfolio/issues/64) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. ❗ Opened issue [#64](https://github.com/santoshyadavdev/portfolio/issues/64) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
