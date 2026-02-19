@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/AOSSIE-Org/SocialShareButton/pull/22#issuecomment-3916959392) in [AOSSIE-Org/SocialShareButton](https://github.com/AOSSIE-Org/SocialShareButton)
-2. 🔒 Closed issue [#73](https://github.com/santoshyadavdev/portfolio/issues/73) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#76](https://github.com/santoshyadavdev/portfolio/pull/76) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#76](https://github.com/santoshyadavdev/portfolio/pull/76) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#66](https://github.com/santoshyadavdev/portfolio/pull/66) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 💪 Opened PR [#141](https://github.com/softwareone-platform/swo-marketplace-cli/pull/141) in [softwareone-platform/swo-marketplace-cli](https://github.com/softwareone-platform/swo-marketplace-cli)
+2. 🗣 Commented on [#22](https://github.com/AOSSIE-Org/SocialShareButton/pull/22#issuecomment-3916959392) in [AOSSIE-Org/SocialShareButton](https://github.com/AOSSIE-Org/SocialShareButton)
+3. 🔒 Closed issue [#73](https://github.com/santoshyadavdev/portfolio/issues/73) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 🎉 Merged PR [#76](https://github.com/santoshyadavdev/portfolio/pull/76) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 💪 Opened PR [#76](https://github.com/santoshyadavdev/portfolio/pull/76) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
