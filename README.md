@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com/softwareone-platform/swo-marketplace-cli/pull/141) in [softwareone-platform/swo-marketplace-cli](https://github.com/softwareone-platform/swo-marketplace-cli)
-2. 🗣 Commented on [#22](https://github.com/AOSSIE-Org/SocialShareButton/pull/22#issuecomment-3916959392) in [AOSSIE-Org/SocialShareButton](https://github.com/AOSSIE-Org/SocialShareButton)
-3. 🔒 Closed issue [#73](https://github.com/santoshyadavdev/portfolio/issues/73) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 🎉 Merged PR [#76](https://github.com/santoshyadavdev/portfolio/pull/76) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 💪 Opened PR [#76](https://github.com/santoshyadavdev/portfolio/pull/76) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. ❌ Closed PR [#141](https://github.com/softwareone-platform/swo-marketplace-cli/pull/141) in [softwareone-platform/swo-marketplace-cli](https://github.com/softwareone-platform/swo-marketplace-cli)
+2. 🗣 Commented on [#141](https://github.com/softwareone-platform/swo-marketplace-cli/pull/141#issuecomment-3927551743) in [softwareone-platform/swo-marketplace-cli](https://github.com/softwareone-platform/swo-marketplace-cli)
+3. 🗣 Commented on [#141](https://github.com/softwareone-platform/swo-marketplace-cli/pull/141#issuecomment-3926045996) in [softwareone-platform/swo-marketplace-cli](https://github.com/softwareone-platform/swo-marketplace-cli)
+4. 💪 Opened PR [#141](https://github.com/softwareone-platform/swo-marketplace-cli/pull/141) in [softwareone-platform/swo-marketplace-cli](https://github.com/softwareone-platform/swo-marketplace-cli)
+5. 🗣 Commented on [#22](https://github.com/AOSSIE-Org/SocialShareButton/pull/22#issuecomment-3916959392) in [AOSSIE-Org/SocialShareButton](https://github.com/AOSSIE-Org/SocialShareButton)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
