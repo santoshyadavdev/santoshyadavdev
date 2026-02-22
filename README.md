@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/santoshyadavdev/portfolio/pull/79) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 🔒 Closed issue [#78](https://github.com/santoshyadavdev/portfolio/issues/78) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#79](https://github.com/santoshyadavdev/portfolio/pull/79) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 🗣 Commented on [#78](https://github.com/santoshyadavdev/portfolio/issues/78#issuecomment-3937120599) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. ❗ Opened issue [#78](https://github.com/santoshyadavdev/portfolio/issues/78) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🎉 Merged PR [#84](https://github.com/santoshyadavdev/portfolio/pull/84) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#84](https://github.com/santoshyadavdev/portfolio/pull/84) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#83](https://github.com/santoshyadavdev/portfolio/pull/83) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#83](https://github.com/santoshyadavdev/portfolio/pull/83) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#82](https://github.com/santoshyadavdev/portfolio/pull/82) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
