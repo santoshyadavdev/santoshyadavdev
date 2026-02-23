@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/santoshyadavdev/portfolio/pull/84) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#84](https://github.com/santoshyadavdev/portfolio/pull/84) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#83](https://github.com/santoshyadavdev/portfolio/pull/83) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#83](https://github.com/santoshyadavdev/portfolio/pull/83) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#82](https://github.com/santoshyadavdev/portfolio/pull/82) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🔒 Closed issue [#5](https://github.com/santoshyadavdev/harry-potter-quiz/issues/5) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+2. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/harry-potter-quiz/pull/6) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+3. 💪 Opened PR [#6](https://github.com/santoshyadavdev/harry-potter-quiz/pull/6) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+4. 🗣 Commented on [#5](https://github.com/santoshyadavdev/harry-potter-quiz/issues/5#issuecomment-3941619679) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+5. 🗣 Commented on [#5](https://github.com/santoshyadavdev/harry-potter-quiz/issues/5#issuecomment-3941609217) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
