@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/santoshyadavdev/harry-potter-quiz/issues/5) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
-2. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/harry-potter-quiz/pull/6) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
-3. 💪 Opened PR [#6](https://github.com/santoshyadavdev/harry-potter-quiz/pull/6) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
-4. 🗣 Commented on [#5](https://github.com/santoshyadavdev/harry-potter-quiz/issues/5#issuecomment-3941619679) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
-5. 🗣 Commented on [#5](https://github.com/santoshyadavdev/harry-potter-quiz/issues/5#issuecomment-3941609217) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+1. 🗣 Commented on [#9](https://github.com/santoshyadavdev/harry-potter-quiz/issues/9#issuecomment-3954844385) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+2. ❗ Opened issue [#9](https://github.com/santoshyadavdev/harry-potter-quiz/issues/9) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+3. 🔒 Closed issue [#7](https://github.com/santoshyadavdev/harry-potter-quiz/issues/7) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+4. 🗣 Commented on [#7](https://github.com/santoshyadavdev/harry-potter-quiz/issues/7#issuecomment-3950588805) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
+5. ❗ Opened issue [#7](https://github.com/santoshyadavdev/harry-potter-quiz/issues/7) in [santoshyadavdev/harry-potter-quiz](https://github.com/santoshyadavdev/harry-potter-quiz)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
