@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/santoshyadavdev/portfolio/pull/86) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#86](https://github.com/santoshyadavdev/portfolio/pull/86) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🗣 Commented on [#2](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/2#issuecomment-3967806534) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/2) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-5. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/1) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+1. 🔒 Closed issue [#85](https://github.com/santoshyadavdev/portfolio/issues/85) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 🎉 Merged PR [#86](https://github.com/santoshyadavdev/portfolio/pull/86) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 💪 Opened PR [#86](https://github.com/santoshyadavdev/portfolio/pull/86) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 🗣 Commented on [#2](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/2#issuecomment-3967806534) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+5. 💪 Opened PR [#2](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/2) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
