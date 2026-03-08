@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/4) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-2. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/3) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-3. 🗣 Commented on [#90](https://github.com/santoshyadavdev/portfolio/issues/90#issuecomment-4000339378) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. ❗ Opened issue [#90](https://github.com/santoshyadavdev/portfolio/issues/90) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🔒 Closed issue [#88](https://github.com/santoshyadavdev/portfolio/issues/88) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🔒 Closed issue [#92](https://github.com/santoshyadavdev/portfolio/issues/92) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. ❗ Opened issue [#94](https://github.com/santoshyadavdev/portfolio/issues/94) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🗣 Commented on [#92](https://github.com/santoshyadavdev/portfolio/issues/92#issuecomment-4017425545) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. ❗ Opened issue [#92](https://github.com/santoshyadavdev/portfolio/issues/92) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🔒 Closed issue [#90](https://github.com/santoshyadavdev/portfolio/issues/90) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
