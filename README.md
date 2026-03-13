@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/santoshyadavdev/portfolio/pull/104) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#104](https://github.com/santoshyadavdev/portfolio/pull/104) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#103](https://github.com/santoshyadavdev/portfolio/pull/103) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#103](https://github.com/santoshyadavdev/portfolio/pull/103) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🔒 Closed issue [#100](https://github.com/santoshyadavdev/portfolio/issues/100) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🎉 Merged PR [#349](https://github.com/TanStack/config/pull/349) in [TanStack/config](https://github.com/TanStack/config)
+2. 🎉 Merged PR [#2078](https://github.com/TanStack/form/pull/2078) in [TanStack/form](https://github.com/TanStack/form)
+3. 💪 Opened PR [#1145](https://github.com/TanStack/virtual/pull/1145) in [TanStack/virtual](https://github.com/TanStack/virtual)
+4. 💪 Opened PR [#292](https://github.com/TanStack/store/pull/292) in [TanStack/store](https://github.com/TanStack/store)
+5. 💪 Opened PR [#6908](https://github.com/TanStack/router/pull/6908) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
