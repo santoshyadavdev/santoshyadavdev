@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#195](https://github.com/PatrickJS/awesome-cursorrules/pull/195) in [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
-2. 🎉 Merged PR [#111](https://github.com/santoshyadavdev/portfolio/pull/111) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#111](https://github.com/santoshyadavdev/portfolio/pull/111) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#1371](https://github.com/TanStack/db/pull/1371) in [TanStack/db](https://github.com/TanStack/db)
-5. 🗣 Commented on [#6203](https://github.com/TanStack/table/pull/6203#issuecomment-4057920776) in [TanStack/table](https://github.com/TanStack/table)
+1. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/6) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+2. ❗ Opened issue [#7](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/7) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+3. 💪 Opened PR [#195](https://github.com/PatrickJS/awesome-cursorrules/pull/195) in [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+4. 🎉 Merged PR [#111](https://github.com/santoshyadavdev/portfolio/pull/111) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 💪 Opened PR [#111](https://github.com/santoshyadavdev/portfolio/pull/111) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
