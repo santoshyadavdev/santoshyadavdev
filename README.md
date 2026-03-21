@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/6) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-2. ❗ Opened issue [#7](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/7) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-3. 💪 Opened PR [#195](https://github.com/PatrickJS/awesome-cursorrules/pull/195) in [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
-4. 🎉 Merged PR [#111](https://github.com/santoshyadavdev/portfolio/pull/111) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 💪 Opened PR [#111](https://github.com/santoshyadavdev/portfolio/pull/111) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 💪 Opened PR [#8](https://github.com/dennisadriaans/angular-chrts/pull/8) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+2. 🎉 Merged PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+3. 💪 Opened PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/6) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+5. ❗ Opened issue [#7](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/7) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
