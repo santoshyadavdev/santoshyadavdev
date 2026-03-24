@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/dennisadriaans/angular-chrts/pull/8) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
-2. 🎉 Merged PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
-3. 💪 Opened PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
-4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/6) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-5. ❗ Opened issue [#7](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/7) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+1. 🗣 Commented on [#4935](https://github.com/ngrx/platform/issues/4935#issuecomment-4113777661) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🎉 Merged PR [#8](https://github.com/dennisadriaans/angular-chrts/pull/8) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+3. 💪 Opened PR [#8](https://github.com/dennisadriaans/angular-chrts/pull/8) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+4. 🎉 Merged PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+5. 💪 Opened PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
