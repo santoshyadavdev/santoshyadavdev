@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4935](https://github.com/ngrx/platform/issues/4935#issuecomment-4113777661) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🎉 Merged PR [#8](https://github.com/dennisadriaans/angular-chrts/pull/8) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
-3. 💪 Opened PR [#8](https://github.com/dennisadriaans/angular-chrts/pull/8) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
-4. 🎉 Merged PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
-5. 💪 Opened PR [#7](https://github.com/dennisadriaans/angular-chrts/pull/7) in [dennisadriaans/angular-chrts](https://github.com/dennisadriaans/angular-chrts)
+1. 🗣 Commented on [#4935](https://github.com/ngrx/platform/issues/4935#issuecomment-4119337877) in [ngrx/platform](https://github.com/ngrx/platform)
+2. 🗣 Commented on [#4935](https://github.com/ngrx/platform/issues/4935#issuecomment-4119009374) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 🗣 Commented on [#5098](https://github.com/ngrx/platform/issues/5098#issuecomment-4119003383) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 🎉 Merged PR [#1371](https://github.com/TanStack/db/pull/1371) in [TanStack/db](https://github.com/TanStack/db)
+5. 🗣 Commented on [#4935](https://github.com/ngrx/platform/issues/4935#issuecomment-4113777661) in [ngrx/platform](https://github.com/ngrx/platform)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
