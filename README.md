@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/harbor/pull/2) in [santoshyadavdev/harbor](https://github.com/santoshyadavdev/harbor)
-2. 💪 Opened PR [#2](https://github.com/santoshyadavdev/harbor/pull/2) in [santoshyadavdev/harbor](https://github.com/santoshyadavdev/harbor)
-3. 💪 Opened PR [#23063](https://github.com/goharbor/harbor/pull/23063) in [goharbor/harbor](https://github.com/goharbor/harbor)
-4. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/harbor/pull/1) in [santoshyadavdev/harbor](https://github.com/santoshyadavdev/harbor)
-5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/harbor/pull/1) in [santoshyadavdev/harbor](https://github.com/santoshyadavdev/harbor)
+1. 🗣 Commented on [#112](https://github.com/santoshyadavdev/portfolio/issues/112#issuecomment-4189238348) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. ❗ Opened issue [#112](https://github.com/santoshyadavdev/portfolio/issues/112) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/harbor/pull/2) in [santoshyadavdev/harbor](https://github.com/santoshyadavdev/harbor)
+4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/harbor/pull/2) in [santoshyadavdev/harbor](https://github.com/santoshyadavdev/harbor)
+5. 💪 Opened PR [#23063](https://github.com/goharbor/harbor/pull/23063) in [goharbor/harbor](https://github.com/goharbor/harbor)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
