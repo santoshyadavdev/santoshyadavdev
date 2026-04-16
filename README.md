@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5140](https://github.com/ngrx/platform/pull/5140) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 🗣 Commented on [#10](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/10#issuecomment-4207179778) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-3. ❗ Opened issue [#10](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/10) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-4. 🗣 Commented on [#9](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/9#issuecomment-4206977037) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
-5. ❗ Opened issue [#9](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/9) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+1. 💪 Opened PR [#13](https://github.com/santoshyadavdev/live-stream-coderabbit/pull/13) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+2. 🗣 Commented on [#12](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/12#issuecomment-4253012619) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+3. ❗ Opened issue [#12](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/12) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+4. 🗣 Commented on [#10](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/10#issuecomment-4252988986) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
+5. 🔒 Closed issue [#9](https://github.com/santoshyadavdev/live-stream-coderabbit/issues/9) in [santoshyadavdev/live-stream-coderabbit](https://github.com/santoshyadavdev/live-stream-coderabbit)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
