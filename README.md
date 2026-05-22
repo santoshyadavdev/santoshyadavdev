@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#538](https://github.com/webadderallorg/Recordly/pull/538) in [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
-2. 🎉 Merged PR [#802](https://github.com/pnpm/pnpm.io/pull/802) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
-3. 🗣 Commented on [#802](https://github.com/pnpm/pnpm.io/pull/802#issuecomment-4486889349) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
-4. 💪 Opened PR [#802](https://github.com/pnpm/pnpm.io/pull/802) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
-5. 🎉 Merged PR [#5954](https://github.com/usememos/memos/pull/5954) in [usememos/memos](https://github.com/usememos/memos)
+1. 💪 Opened PR [#7544](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7544) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+2. 💪 Opened PR [#538](https://github.com/webadderallorg/Recordly/pull/538) in [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
+3. 🎉 Merged PR [#802](https://github.com/pnpm/pnpm.io/pull/802) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
+4. 🗣 Commented on [#802](https://github.com/pnpm/pnpm.io/pull/802#issuecomment-4486889349) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
+5. 💪 Opened PR [#802](https://github.com/pnpm/pnpm.io/pull/802) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
