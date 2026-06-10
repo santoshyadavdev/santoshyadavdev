@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2134](https://github.com/gitleaks/gitleaks/pull/2134) in [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-2. ❗ Opened issue [#480](https://github.com/neovim/neovim.github.io/issues/480) in [neovim/neovim.github.io](https://github.com/neovim/neovim.github.io)
-3. 💪 Opened PR [#7544](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7544) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-4. 💪 Opened PR [#538](https://github.com/webadderallorg/Recordly/pull/538) in [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
-5. 🎉 Merged PR [#802](https://github.com/pnpm/pnpm.io/pull/802) in [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io)
+1. 🎉 Merged PR [#7544](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7544) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+2. 🗣 Commented on [#5164](https://github.com/ngrx/platform/issues/5164#issuecomment-4661494897) in [ngrx/platform](https://github.com/ngrx/platform)
+3. 🗣 Commented on [#5127](https://github.com/ngrx/platform/pull/5127#issuecomment-4661488710) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/nx-mono-demo/pull/1) in [santoshyadavdev/nx-mono-demo](https://github.com/santoshyadavdev/nx-mono-demo)
+5. 💪 Opened PR [#2134](https://github.com/gitleaks/gitleaks/pull/2134) in [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
