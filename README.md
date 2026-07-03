@@ -83,11 +83,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/qmd-app/pull/2) in [santoshyadavdev/qmd-app](https://github.com/santoshyadavdev/qmd-app)
-2. 🗣 Commented on [#2](https://github.com/santoshyadavdev/qmd-app/pull/2#issuecomment-4834054455) in [santoshyadavdev/qmd-app](https://github.com/santoshyadavdev/qmd-app)
-3. 💪 Opened PR [#2](https://github.com/santoshyadavdev/qmd-app/pull/2) in [santoshyadavdev/qmd-app](https://github.com/santoshyadavdev/qmd-app)
-4. 💪 Opened PR [#117](https://github.com/santoshyadavdev/portfolio/pull/117) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/qmd-app/pull/1) in [santoshyadavdev/qmd-app](https://github.com/santoshyadavdev/qmd-app)
+1. 💪 Opened PR [#2](https://github.com/santoshyadavdev/perflens/pull/2) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/perflens/pull/1) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+3. 💪 Opened PR [#1](https://github.com/santoshyadavdev/perflens/pull/1) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+4. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/qmd-app/pull/2) in [santoshyadavdev/qmd-app](https://github.com/santoshyadavdev/qmd-app)
+5. 🗣 Commented on [#2](https://github.com/santoshyadavdev/qmd-app/pull/2#issuecomment-4834054455) in [santoshyadavdev/qmd-app](https://github.com/santoshyadavdev/qmd-app)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
