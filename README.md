@@ -31,6 +31,17 @@
 
 </p>
 
+# GitHub Commit Journey
+
+<div align="center">
+  <a href="https://commit-history.com/santoshyadavdev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/santoshyadavdev?theme=dark" />
+      <img alt="santoshyadavdev's commit history" src="https://commit-history.com/embed/santoshyadavdev" />
+    </picture>
+  </a>
+</div>
+
 # My Developer Journey on FreeCodeCamp
 
 [![From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey](https://images.ctfassets.net/s5uo95nf6njh/X5UtU4CujK58wJ0GYMOgX/5c270bf97627dd06134c316de8b95e44/Santosh_Yadav_07.01.2023_055.jpg?w=1200&fm=avif)](https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/)
