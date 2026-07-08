@@ -94,11 +94,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5189](https://github.com/ngrx/platform/pull/5189#issuecomment-4877863450) in [ngrx/platform](https://github.com/ngrx/platform)
-2. 💪 Opened PR [#5189](https://github.com/ngrx/platform/pull/5189) in [ngrx/platform](https://github.com/ngrx/platform)
-3. 🎉 Merged PR [#118](https://github.com/santoshyadavdev/portfolio/pull/118) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#118](https://github.com/santoshyadavdev/portfolio/pull/118) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/perflens/pull/2) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+1. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/e18e-module-replacements-mcp/pull/1) in [santoshyadavdev/e18e-module-replacements-mcp](https://github.com/santoshyadavdev/e18e-module-replacements-mcp)
+2. 💪 Opened PR [#1](https://github.com/santoshyadavdev/e18e-module-replacements-mcp/pull/1) in [santoshyadavdev/e18e-module-replacements-mcp](https://github.com/santoshyadavdev/e18e-module-replacements-mcp)
+3. 🗣 Commented on [#5189](https://github.com/ngrx/platform/pull/5189#issuecomment-4877863450) in [ngrx/platform](https://github.com/ngrx/platform)
+4. 💪 Opened PR [#5189](https://github.com/ngrx/platform/pull/5189) in [ngrx/platform](https://github.com/ngrx/platform)
+5. 🎉 Merged PR [#118](https://github.com/santoshyadavdev/portfolio/pull/118) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
