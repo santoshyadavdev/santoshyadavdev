@@ -24,9 +24,9 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on [ngx-builder](https://github.com/ngx-builders)
-- 🌱 I’m currently learning Typescript and Angular
-- 💬 Ask me about Angular, Typescript
+- 🔭 I’m currently working on [CodeRabbit](https://github.com/coderabbitai)
+- 🌱 I’m currently learning AI and Angular
+- 💬 Ask me about AI, Code Review, monorepo
 - 📫 How to reach me: [@SantoshYadavDev](https://bsky.app/profile/santoshyadav.dev)
 
 </p>
@@ -73,10 +73,6 @@
 | Sponsorship Received | 0                | 10                  |         |
 | TIL Podcast          |               |                      |         |
 | Total                | 246              | 10                  |  -236   |
-
-![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=SantoshYadavDev&show_icons=true&include_all_commits=true&theme=radical)
-
-![Santosh Yadav Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshYadavDev&layout=compact&theme=radical)
 
 [![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SantoshYadavDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
