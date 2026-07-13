@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/santoshyadavdev/portfolio/pull/119) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#119](https://github.com/santoshyadavdev/portfolio/pull/119) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#4](https://github.com/santoshyadavdev/perflens/pull/4) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
-4. 🗣 Commented on [#4](https://github.com/santoshyadavdev/perflens/pull/4#issuecomment-4926197807) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
-5. 💪 Opened PR [#4](https://github.com/santoshyadavdev/perflens/pull/4) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/perflens/pull/7) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+2. 💪 Opened PR [#7](https://github.com/santoshyadavdev/perflens/pull/7) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+3. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/perflens/pull/6) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+4. 💪 Opened PR [#6](https://github.com/santoshyadavdev/perflens/pull/6) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+5. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/perflens/pull/5) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
