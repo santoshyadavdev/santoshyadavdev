@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/santoshyadavdev/commitstory/pull/57) in [santoshyadavdev/commitstory](https://github.com/santoshyadavdev/commitstory)
-2. 🗣 Commented on [#57](https://github.com/santoshyadavdev/commitstory/pull/57#issuecomment-5048497289) in [santoshyadavdev/commitstory](https://github.com/santoshyadavdev/commitstory)
-3. 💪 Opened PR [#57](https://github.com/santoshyadavdev/commitstory/pull/57) in [santoshyadavdev/commitstory](https://github.com/santoshyadavdev/commitstory)
-4. 🎉 Merged PR [#9](https://github.com/santoshyadavdev/perflens/pull/9) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
-5. 🗣 Commented on [#9](https://github.com/santoshyadavdev/perflens/pull/9#issuecomment-5036980506) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
+1. 🗣 Commented on [#3074](https://github.com/npmx-dev/npmx.dev/pull/3074#issuecomment-5062809253) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+2. 🎉 Merged PR [#57](https://github.com/santoshyadavdev/commitstory/pull/57) in [santoshyadavdev/commitstory](https://github.com/santoshyadavdev/commitstory)
+3. 🗣 Commented on [#57](https://github.com/santoshyadavdev/commitstory/pull/57#issuecomment-5048497289) in [santoshyadavdev/commitstory](https://github.com/santoshyadavdev/commitstory)
+4. 💪 Opened PR [#57](https://github.com/santoshyadavdev/commitstory/pull/57) in [santoshyadavdev/commitstory](https://github.com/santoshyadavdev/commitstory)
+5. 🎉 Merged PR [#9](https://github.com/santoshyadavdev/perflens/pull/9) in [santoshyadavdev/perflens](https://github.com/santoshyadavdev/perflens)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
