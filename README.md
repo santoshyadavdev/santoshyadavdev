@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/santoshyadavdev/mergeconflicted/pull/3) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-2. 💪 Opened PR [#3](https://github.com/santoshyadavdev/mergeconflicted/pull/3) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-3. 💪 Opened PR [#2](https://github.com/santoshyadavdev/mergeconflicted/pull/2) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-4. 🗣 Commented on [#121](https://github.com/santoshyadavdev/portfolio/pull/121#issuecomment-5264518805) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🗣 Commented on [#121](https://github.com/santoshyadavdev/portfolio/pull/121#issuecomment-5264489585) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/mergeconflicted/pull/7) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+2. 💪 Opened PR [#7](https://github.com/santoshyadavdev/mergeconflicted/pull/7) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+3. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/mergeconflicted/pull/6) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+4. 💪 Opened PR [#6](https://github.com/santoshyadavdev/mergeconflicted/pull/6) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+5. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/mergeconflicted/pull/5) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
