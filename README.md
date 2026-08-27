@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/mergeconflicted/pull/7) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-2. 💪 Opened PR [#7](https://github.com/santoshyadavdev/mergeconflicted/pull/7) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-3. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/mergeconflicted/pull/6) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-4. 💪 Opened PR [#6](https://github.com/santoshyadavdev/mergeconflicted/pull/6) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
-5. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/mergeconflicted/pull/5) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+1. 🗣 Commented on [#521](https://github.com/uiuniversal/ngu-carousel/issues/521#issuecomment-5424094349) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+2. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/mergeconflicted/pull/7) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/mergeconflicted/pull/7) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/mergeconflicted/pull/6) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
+5. 💪 Opened PR [#6](https://github.com/santoshyadavdev/mergeconflicted/pull/6) in [santoshyadavdev/mergeconflicted](https://github.com/santoshyadavdev/mergeconflicted)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
