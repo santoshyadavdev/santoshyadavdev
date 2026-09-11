@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3906](https://github.com/hathach/tinyusb/issues/3906#issuecomment-5602796555) in [hathach/tinyusb](https://github.com/hathach/tinyusb)
-2. 💪 Opened PR [#34058](https://github.com/angular/angular-cli/pull/34058) in [angular/angular-cli](https://github.com/angular/angular-cli)
-3. ❗ Opened issue [#34057](https://github.com/angular/angular-cli/issues/34057) in [angular/angular-cli](https://github.com/angular/angular-cli)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/angular-cli/pull/1) in [santoshyadavdev/angular-cli](https://github.com/santoshyadavdev/angular-cli)
-5. ❌ Closed PR [#70618](https://github.com/angular/angular/pull/70618) in [angular/angular](https://github.com/angular/angular)
+1. 🗣 Commented on [#2104](https://github.com/browserify/browserify/pull/2104#issuecomment-5625183590) in [browserify/browserify](https://github.com/browserify/browserify)
+2. 💪 Opened PR [#2104](https://github.com/browserify/browserify/pull/2104) in [browserify/browserify](https://github.com/browserify/browserify)
+3. 🗣 Commented on [#3906](https://github.com/hathach/tinyusb/issues/3906#issuecomment-5602796555) in [hathach/tinyusb](https://github.com/hathach/tinyusb)
+4. 💪 Opened PR [#34058](https://github.com/angular/angular-cli/pull/34058) in [angular/angular-cli](https://github.com/angular/angular-cli)
+5. ❗ Opened issue [#34057](https://github.com/angular/angular-cli/issues/34057) in [angular/angular-cli](https://github.com/angular/angular-cli)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
