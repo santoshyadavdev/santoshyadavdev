@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk/pull/7) in [santoshyadavdev/nestjs-firecrawl-sdk](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk)
-2. 💪 Opened PR [#7](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk/pull/7) in [santoshyadavdev/nestjs-firecrawl-sdk](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk)
-3. 🗣 Commented on [#4](https://github.com/santoshyadavdev/angular-devtools/pull/4#issuecomment-5767620388) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-4. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk/issues/3) in [santoshyadavdev/nestjs-firecrawl-sdk](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk)
-5. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk/pull/6) in [santoshyadavdev/nestjs-firecrawl-sdk](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk)
+1. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/angular-devtools/pull/7) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+2. 🗣 Commented on [#6](https://github.com/santoshyadavdev/angular-devtools/pull/6#issuecomment-5784047161) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+3. 💪 Opened PR [#7](https://github.com/santoshyadavdev/angular-devtools/pull/7) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+4. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk/pull/8) in [santoshyadavdev/nestjs-firecrawl-sdk](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk)
+5. 💪 Opened PR [#8](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk/pull/8) in [santoshyadavdev/nestjs-firecrawl-sdk](https://github.com/santoshyadavdev/nestjs-firecrawl-sdk)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
