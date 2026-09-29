@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/santoshyadavdev/angular-devtools/pull/35) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-2. 💪 Opened PR [#35](https://github.com/santoshyadavdev/angular-devtools/pull/35) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-3. ℹ️ Assigned issue [#32](https://github.com/santoshyadavdev/angular-devtools/issues/32) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-4. 🎉 Merged PR [#29](https://github.com/santoshyadavdev/angular-devtools/pull/29) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-5. 💪 Opened PR [#29](https://github.com/santoshyadavdev/angular-devtools/pull/29) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+1. 🎉 Merged PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+2. 💪 Opened PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+3. 🎉 Merged PR [#46](https://github.com/santoshyadavdev/angular-devtools/pull/46) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+4. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-devtools/pull/47) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+5. 💪 Opened PR [#47](https://github.com/santoshyadavdev/angular-devtools/pull/47) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
