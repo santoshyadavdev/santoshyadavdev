@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-2. 💪 Opened PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-3. 🎉 Merged PR [#46](https://github.com/santoshyadavdev/angular-devtools/pull/46) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-4. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-devtools/pull/47) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-5. 💪 Opened PR [#47](https://github.com/santoshyadavdev/angular-devtools/pull/47) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+1. 🎉 Merged PR [#1](https://github.com/react-native-conf/nx-expo-app/pull/1) in [react-native-conf/nx-expo-app](https://github.com/react-native-conf/nx-expo-app)
+2. 💪 Opened PR [#1](https://github.com/react-native-conf/nx-expo-app/pull/1) in [react-native-conf/nx-expo-app](https://github.com/react-native-conf/nx-expo-app)
+3. 🎉 Merged PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+4. 💪 Opened PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+5. 🎉 Merged PR [#46](https://github.com/santoshyadavdev/angular-devtools/pull/46) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
