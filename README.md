@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/react-native-conf/nx-expo-app/pull/1) in [react-native-conf/nx-expo-app](https://github.com/react-native-conf/nx-expo-app)
-2. 💪 Opened PR [#1](https://github.com/react-native-conf/nx-expo-app/pull/1) in [react-native-conf/nx-expo-app](https://github.com/react-native-conf/nx-expo-app)
-3. 🎉 Merged PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-4. 💪 Opened PR [#48](https://github.com/santoshyadavdev/angular-devtools/pull/48) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-5. 🎉 Merged PR [#46](https://github.com/santoshyadavdev/angular-devtools/pull/46) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+1. 🎉 Merged PR [#1](https://github.com/react-native-conf/turbo-expo-app/pull/1) in [react-native-conf/turbo-expo-app](https://github.com/react-native-conf/turbo-expo-app)
+2. 💪 Opened PR [#1](https://github.com/react-native-conf/turbo-expo-app/pull/1) in [react-native-conf/turbo-expo-app](https://github.com/react-native-conf/turbo-expo-app)
+3. 🗣 Commented on [#17](https://github.com/santoshyadavdev/angular-devtools/issues/17#issuecomment-5906801660) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+4. 🗣 Commented on [#17](https://github.com/santoshyadavdev/angular-devtools/issues/17#issuecomment-5906832569) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+5. 🗣 Commented on [#17](https://github.com/santoshyadavdev/angular-devtools/issues/17#issuecomment-5906659806) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
