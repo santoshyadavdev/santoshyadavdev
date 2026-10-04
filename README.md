@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/santoshyadavdev/angular-devtools/pull/50#issuecomment-5937664928) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-2. 🎉 Merged PR [#196](https://github.com/santoshyadavdev/angular-devtools/pull/196) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-3. 💪 Opened PR [#196](https://github.com/santoshyadavdev/angular-devtools/pull/196) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-4. 🎉 Merged PR [#1](https://github.com/react-native-conf/turbo-expo-app/pull/1) in [react-native-conf/turbo-expo-app](https://github.com/react-native-conf/turbo-expo-app)
-5. 💪 Opened PR [#1](https://github.com/react-native-conf/turbo-expo-app/pull/1) in [react-native-conf/turbo-expo-app](https://github.com/react-native-conf/turbo-expo-app)
+1. 🎉 Merged PR [#209](https://github.com/santoshyadavdev/angular-devtools/pull/209) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+2. 💪 Opened PR [#209](https://github.com/santoshyadavdev/angular-devtools/pull/209) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+3. 🗣 Commented on [#17](https://github.com/santoshyadavdev/angular-devtools/issues/17#issuecomment-5967747316) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+4. 🗣 Commented on [#50](https://github.com/santoshyadavdev/angular-devtools/pull/50#issuecomment-5937664928) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+5. 🎉 Merged PR [#196](https://github.com/santoshyadavdev/angular-devtools/pull/196) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
