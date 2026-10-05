@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#209](https://github.com/santoshyadavdev/angular-devtools/pull/209) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-2. 💪 Opened PR [#209](https://github.com/santoshyadavdev/angular-devtools/pull/209) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-3. 🗣 Commented on [#17](https://github.com/santoshyadavdev/angular-devtools/issues/17#issuecomment-5967747316) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-4. 🗣 Commented on [#50](https://github.com/santoshyadavdev/angular-devtools/pull/50#issuecomment-5937664928) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-5. 🎉 Merged PR [#196](https://github.com/santoshyadavdev/angular-devtools/pull/196) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+1. 🗣 Commented on [#212](https://github.com/santoshyadavdev/angular-devtools/pull/212#issuecomment-5981496307) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ng-center/pull/1) in [santoshyadavdev/ng-center](https://github.com/santoshyadavdev/ng-center)
+3. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ng-center/pull/1#issuecomment-5981245753) in [santoshyadavdev/ng-center](https://github.com/santoshyadavdev/ng-center)
+4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ng-center/pull/1) in [santoshyadavdev/ng-center](https://github.com/santoshyadavdev/ng-center)
+5. 🎉 Merged PR [#209](https://github.com/santoshyadavdev/angular-devtools/pull/209) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
