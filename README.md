@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/santoshyadavdev/angular-devtools/pull/212#issuecomment-5981496307) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
-2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/ng-center/pull/1) in [santoshyadavdev/ng-center](https://github.com/santoshyadavdev/ng-center)
-3. 🗣 Commented on [#1](https://github.com/santoshyadavdev/ng-center/pull/1#issuecomment-5981245753) in [santoshyadavdev/ng-center](https://github.com/santoshyadavdev/ng-center)
-4. 💪 Opened PR [#1](https://github.com/santoshyadavdev/ng-center/pull/1) in [santoshyadavdev/ng-center](https://github.com/santoshyadavdev/ng-center)
-5. 🎉 Merged PR [#209](https://github.com/santoshyadavdev/angular-devtools/pull/209) in [santoshyadavdev/angular-devtools](https://github.com/santoshyadavdev/angular-devtools)
+1. 🎉 Merged PR [#216](https://github.com/pangular-inspector/devtools/pull/216) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+2. 💪 Opened PR [#216](https://github.com/pangular-inspector/devtools/pull/216) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+3. 🎉 Merged PR [#215](https://github.com/pangular-inspector/devtools/pull/215) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+4. 💪 Opened PR [#215](https://github.com/pangular-inspector/devtools/pull/215) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+5. 🗣 Commented on [#212](https://github.com/pangular-inspector/devtools/pull/212#issuecomment-5981496307) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
