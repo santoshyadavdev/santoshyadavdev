@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/shadcn-labs/pdfcn/pull/83#issuecomment-6037593915) in [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn)
-2. 🎉 Merged PR [#135](https://github.com/santoshyadavdev/portfolio/pull/135) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 💪 Opened PR [#135](https://github.com/santoshyadavdev/portfolio/pull/135) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 🎉 Merged PR [#216](https://github.com/pangular-inspector/devtools/pull/216) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
-5. 💪 Opened PR [#216](https://github.com/pangular-inspector/devtools/pull/216) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+1. 🎉 Merged PR [#292](https://github.com/TanStack/store/pull/292) in [TanStack/store](https://github.com/TanStack/store)
+2. 🗣 Commented on [#83](https://github.com/shadcn-labs/pdfcn/pull/83#issuecomment-6037593915) in [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn)
+3. 🎉 Merged PR [#135](https://github.com/santoshyadavdev/portfolio/pull/135) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#135](https://github.com/santoshyadavdev/portfolio/pull/135) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#216](https://github.com/pangular-inspector/devtools/pull/216) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
