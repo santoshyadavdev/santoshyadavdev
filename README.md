@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/pangular-inspector/devtools/pull/243) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
-2. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/monorepo-doctor/pull/1) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-3. 💪 Opened PR [#1](https://github.com/santoshyadavdev/monorepo-doctor/pull/1) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-4. 🔒 Closed issue [#32](https://github.com/pangular-inspector/devtools/issues/32) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
-5. 🎉 Merged PR [#242](https://github.com/pangular-inspector/devtools/pull/242) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+1. 🎉 Merged PR [#305](https://github.com/pangular-inspector/devtools/pull/305) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+2. 💪 Opened PR [#305](https://github.com/pangular-inspector/devtools/pull/305) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+3. 💪 Opened PR [#243](https://github.com/pangular-inspector/devtools/pull/243) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+4. 🎉 Merged PR [#1](https://github.com/santoshyadavdev/monorepo-doctor/pull/1) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+5. 💪 Opened PR [#1](https://github.com/santoshyadavdev/monorepo-doctor/pull/1) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
