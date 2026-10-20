@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/santoshyadavdev/monorepo-doctor/issues/3#issuecomment-6125785642) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-2. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/monorepo-doctor/issues/3) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-3. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/monorepo-doctor/pull/2) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-4. 💪 Opened PR [#2](https://github.com/santoshyadavdev/monorepo-doctor/pull/2) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-5. 🎉 Merged PR [#305](https://github.com/pangular-inspector/devtools/pull/305) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+1. 🎉 Merged PR [#5](https://github.com/santoshyadavdev/monorepo-doctor/pull/5) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+2. 💪 Opened PR [#5](https://github.com/santoshyadavdev/monorepo-doctor/pull/5) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+3. 🗣 Commented on [#3](https://github.com/santoshyadavdev/monorepo-doctor/issues/3#issuecomment-6125785642) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+4. 🔒 Closed issue [#3](https://github.com/santoshyadavdev/monorepo-doctor/issues/3) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+5. 🎉 Merged PR [#2](https://github.com/santoshyadavdev/monorepo-doctor/pull/2) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
