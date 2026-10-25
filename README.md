@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/santoshyadavdev/monorepo-doctor/pull/8) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-2. 💪 Opened PR [#8](https://github.com/santoshyadavdev/monorepo-doctor/pull/8) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-3. 🎉 Merged PR [#7](https://github.com/santoshyadavdev/monorepo-doctor/pull/7) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-4. 🎉 Merged PR [#6](https://github.com/santoshyadavdev/monorepo-doctor/pull/6) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-5. 💪 Opened PR [#7](https://github.com/santoshyadavdev/monorepo-doctor/pull/7) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+1. 🗣 Commented on [#2](https://github.com/santoshyadavdev/smartcart-workshop/pull/2#issuecomment-6379825728) in [santoshyadavdev/smartcart-workshop](https://github.com/santoshyadavdev/smartcart-workshop)
+2. ❌ Closed PR [#4](https://github.com/santoshyadavdev/smartcart-workshop/pull/4) in [santoshyadavdev/smartcart-workshop](https://github.com/santoshyadavdev/smartcart-workshop)
+3. 🗣 Commented on [#4](https://github.com/santoshyadavdev/smartcart-workshop/pull/4#issuecomment-6379826714) in [santoshyadavdev/smartcart-workshop](https://github.com/santoshyadavdev/smartcart-workshop)
+4. ❌ Closed PR [#3](https://github.com/santoshyadavdev/smartcart-workshop/pull/3) in [santoshyadavdev/smartcart-workshop](https://github.com/santoshyadavdev/smartcart-workshop)
+5. 🗣 Commented on [#3](https://github.com/santoshyadavdev/smartcart-workshop/pull/3#issuecomment-6379826236) in [santoshyadavdev/smartcart-workshop](https://github.com/santoshyadavdev/smartcart-workshop)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
