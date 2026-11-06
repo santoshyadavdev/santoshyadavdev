@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/devs-who-run/devswhomove/pull/41) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 💪 Opened PR [#41](https://github.com/devs-who-run/devswhomove/pull/41) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 🎉 Merged PR [#40](https://github.com/devs-who-run/devswhomove/pull/40) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 💪 Opened PR [#40](https://github.com/devs-who-run/devswhomove/pull/40) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 🎉 Merged PR [#39](https://github.com/devs-who-run/devswhomove/pull/39) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. 💪 Opened PR [#61](https://github.com/devs-who-run/devswhomove/pull/61) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+2. 🎉 Merged PR [#60](https://github.com/devs-who-run/devswhomove/pull/60) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+3. 💪 Opened PR [#60](https://github.com/devs-who-run/devswhomove/pull/60) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+4. 💪 Opened PR [#59](https://github.com/devs-who-run/devswhomove/pull/59) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+5. 🎉 Merged PR [#58](https://github.com/devs-who-run/devswhomove/pull/58) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
