@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/devs-who-run/devswhomove/pull/61) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 🎉 Merged PR [#60](https://github.com/devs-who-run/devswhomove/pull/60) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 💪 Opened PR [#60](https://github.com/devs-who-run/devswhomove/pull/60) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 💪 Opened PR [#59](https://github.com/devs-who-run/devswhomove/pull/59) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 🎉 Merged PR [#58](https://github.com/devs-who-run/devswhomove/pull/58) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. 🎉 Merged PR [#142](https://github.com/santoshyadavdev/portfolio/pull/142) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#142](https://github.com/santoshyadavdev/portfolio/pull/142) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#141](https://github.com/santoshyadavdev/portfolio/pull/141) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#141](https://github.com/santoshyadavdev/portfolio/pull/141) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#140](https://github.com/santoshyadavdev/portfolio/pull/140) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
