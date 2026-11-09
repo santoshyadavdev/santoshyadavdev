@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/santoshyadavdev/portfolio/pull/145) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#145](https://github.com/santoshyadavdev/portfolio/pull/145) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#144](https://github.com/santoshyadavdev/portfolio/pull/144) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#144](https://github.com/santoshyadavdev/portfolio/pull/144) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#243](https://github.com/pangular-inspector/devtools/pull/243) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+1. 🎉 Merged PR [#148](https://github.com/santoshyadavdev/portfolio/pull/148) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#148](https://github.com/santoshyadavdev/portfolio/pull/148) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#147](https://github.com/santoshyadavdev/portfolio/pull/147) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#147](https://github.com/santoshyadavdev/portfolio/pull/147) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#146](https://github.com/santoshyadavdev/portfolio/pull/146) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
