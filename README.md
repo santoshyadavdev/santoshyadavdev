@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/santoshyadavdev/portfolio/pull/148) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-2. 💪 Opened PR [#148](https://github.com/santoshyadavdev/portfolio/pull/148) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-3. 🎉 Merged PR [#147](https://github.com/santoshyadavdev/portfolio/pull/147) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-4. 💪 Opened PR [#147](https://github.com/santoshyadavdev/portfolio/pull/147) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
-5. 🎉 Merged PR [#146](https://github.com/santoshyadavdev/portfolio/pull/146) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+1. 🗣 Commented on [#2104](https://github.com/browserify/browserify/pull/2104#issuecomment-6740973050) in [browserify/browserify](https://github.com/browserify/browserify)
+2. 🎉 Merged PR [#148](https://github.com/santoshyadavdev/portfolio/pull/148) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 💪 Opened PR [#148](https://github.com/santoshyadavdev/portfolio/pull/148) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 🎉 Merged PR [#147](https://github.com/santoshyadavdev/portfolio/pull/147) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 💪 Opened PR [#147](https://github.com/santoshyadavdev/portfolio/pull/147) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
