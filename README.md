@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/santoshyadavdev/monorepo-doctor/pull/15) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-2. 💪 Opened PR [#15](https://github.com/santoshyadavdev/monorepo-doctor/pull/15) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-3. 🎉 Merged PR [#14](https://github.com/santoshyadavdev/monorepo-doctor/pull/14) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-4. 💪 Opened PR [#14](https://github.com/santoshyadavdev/monorepo-doctor/pull/14) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-5. 🗣 Commented on [#2104](https://github.com/browserify/browserify/pull/2104#issuecomment-6740973050) in [browserify/browserify](https://github.com/browserify/browserify)
+1. 🎉 Merged PR [#151](https://github.com/santoshyadavdev/portfolio/pull/151) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+2. 💪 Opened PR [#151](https://github.com/santoshyadavdev/portfolio/pull/151) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+3. 🎉 Merged PR [#150](https://github.com/santoshyadavdev/portfolio/pull/150) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+4. 💪 Opened PR [#150](https://github.com/santoshyadavdev/portfolio/pull/150) in [santoshyadavdev/portfolio](https://github.com/santoshyadavdev/portfolio)
+5. 🎉 Merged PR [#505](https://github.com/pangular-inspector/devtools/pull/505) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
