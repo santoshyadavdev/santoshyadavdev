@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/santoshyadavdev/monorepo-doctor/pull/21) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-2. 💪 Opened PR [#21](https://github.com/santoshyadavdev/monorepo-doctor/pull/21) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-3. 🎉 Merged PR [#20](https://github.com/santoshyadavdev/monorepo-doctor/pull/20) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
-4. 🎉 Merged PR [#89](https://github.com/devs-who-run/devswhomove/pull/89) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 💪 Opened PR [#89](https://github.com/devs-who-run/devswhomove/pull/89) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. 🎉 Merged PR [#98](https://github.com/devs-who-run/devswhomove/pull/98) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+2. 💪 Opened PR [#98](https://github.com/devs-who-run/devswhomove/pull/98) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+3. 🎉 Merged PR [#97](https://github.com/devs-who-run/devswhomove/pull/97) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+4. 💪 Opened PR [#97](https://github.com/devs-who-run/devswhomove/pull/97) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+5. 🎉 Merged PR [#96](https://github.com/devs-who-run/devswhomove/pull/96) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
