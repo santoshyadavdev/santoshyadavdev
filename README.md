@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/devs-who-run/devswhomove/pull/103) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 🎉 Merged PR [#104](https://github.com/devs-who-run/devswhomove/pull/104) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-3. 💪 Opened PR [#104](https://github.com/devs-who-run/devswhomove/pull/104) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 💪 Opened PR [#103](https://github.com/devs-who-run/devswhomove/pull/103) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 🎉 Merged PR [#95](https://github.com/devs-who-run/devswhomove/pull/95) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+1. 💪 Opened PR [#106](https://github.com/devs-who-run/devswhomove/pull/106) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+2. 🎉 Merged PR [#512](https://github.com/pangular-inspector/devtools/pull/512) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+3. 🎉 Merged PR [#105](https://github.com/devs-who-run/devswhomove/pull/105) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+4. 💪 Opened PR [#105](https://github.com/devs-who-run/devswhomove/pull/105) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
+5. 💪 Opened PR [#512](https://github.com/pangular-inspector/devtools/pull/512) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
