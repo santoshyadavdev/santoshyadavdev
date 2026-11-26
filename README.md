@@ -90,11 +90,11 @@
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/devs-who-run/devswhomove/pull/106) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-2. 🎉 Merged PR [#512](https://github.com/pangular-inspector/devtools/pull/512) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
-3. 🎉 Merged PR [#105](https://github.com/devs-who-run/devswhomove/pull/105) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-4. 💪 Opened PR [#105](https://github.com/devs-who-run/devswhomove/pull/105) in [devs-who-run/devswhomove](https://github.com/devs-who-run/devswhomove)
-5. 💪 Opened PR [#512](https://github.com/pangular-inspector/devtools/pull/512) in [pangular-inspector/devtools](https://github.com/pangular-inspector/devtools)
+1. 🎉 Merged PR [#23](https://github.com/santoshyadavdev/monorepo-doctor/pull/23) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+2. 💪 Opened PR [#23](https://github.com/santoshyadavdev/monorepo-doctor/pull/23) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
+3. 🎉 Merged PR [#370](https://github.com/Chat2AnyLLM/awesome-repo-configs/pull/370) in [Chat2AnyLLM/awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs)
+4. 💪 Opened PR [#370](https://github.com/Chat2AnyLLM/awesome-repo-configs/pull/370) in [Chat2AnyLLM/awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs)
+5. 🎉 Merged PR [#22](https://github.com/santoshyadavdev/monorepo-doctor/pull/22) in [santoshyadavdev/monorepo-doctor](https://github.com/santoshyadavdev/monorepo-doctor)
 <!--END_SECTION:activity-->
 
 # Recent Youtube Videos
